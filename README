@@ -1,0 +1,149 @@
+Source code for the paper: Simple Yet Powerful: An Overlooked Architecture for Nested Named Entity Recognition
+======================================================================
+
+1. Install requirements
+
+pip install -r requirements.txt 
+
+In case you have a GPU, then select the PyTorch version from this link: https://pytorch.org/get-started/locally/
+We used the following version: pip3 install torch==1.9.0+cu111 torchvision==0.10.0+cu111 torchaudio==0.9.0 -f https://download.pytorch.org/whl/torch_stable.html
+
+2. Download the data
+
+- Genia: http://www.geniaproject.org/genia-corpus/pos-annotation
+- GermEval: https://sites.google.com/site/germeval2014ner/data
+- Chilean Waiting List: https://zenodo.org/record/3926705 (The zip file contains the preprocessed dataset)
+
+To access to the statistics of each corpus, just run the notebook 01_AAAI_Paper_Statistics.ipynb with the respective files (dataset.train.iob2, dataset.dev.iob2, dataset.test.iob2).
+
+3. Create input format. Although the above are the pre-processed files, the final formats vary according to each architecture, as explained below.
+
+- MLC: Since we train one model for each entity type, each type must have its associated file in the classic ConLL format. This format has one column for tokens and a second for entity types, following the IOB2 format. In addition, empty lines indicate a separation between sentences. As an example, this is how the DNA file looks like in GENIA.
+
+Cell O
+culture O
+experiments O
+demonstrated O
+that O
+the O
+natural O
+variant O
+with O
+four O
+Sp1 B-DNA
+sites I-DNA
+had O
+a O
+slightly O
+higher O
+promoter O
+activity O
+and O
+viral O
+replication O
+rate O
+than O
+the O
+isogenic B-DNA
+control I-DNA
+LTR I-DNA
+with O
+three O
+Sp1 B-DNA
+sites I-DNA
+. O
+
+- Layered, Boundary and Exhaustive baselines: These three baselines follow the same input format, where each column corresponds to a nesting level. By default, the architecture requires that the last column has no labels. You can see all the details of the format here: https://github.com/meizhiju/layered-bilstm-crf.  Below is an example of this format using the same sentence. We can see that here a single file is needed to train the model.
+
+Cell	O	O	O	O
+culture	O	O	O	O
+experiments	O	O	O	O
+demonstrated	O	O	O	O
+that	O	O	O	O
+the	O	O	O	O
+natural	O	O	O	O
+variant	O	O	O	O
+with	O	O	O	O
+four	O	O	O	O
+Sp1	B-protein	B-DNA	O	O
+sites	O	I-DNA	O	O
+had	O	O	O	O
+a	O	O	O	O
+slightly	O	O	O	O
+higher	O	O	O	O
+promoter	O	O	O	O
+activity	O	O	O	O
+and	O	O	O	O
+viral	O	O	O	O
+replication	O	O	O	O
+rate	O	O	O	O
+than	O	O	O	O
+the	O	O	O	O
+isogenic	B-DNA	O	O	O
+control	I-DNA	O	O	O
+LTR	I-DNA	O	O	O
+with	O	O	O	O
+three	O	O	O	O
+Sp1	B-protein	B-DNA	O	O
+sites	O	I-DNA	O	O
+.	O	O	O	O
+
+- Second-best: The format of this one is very different from the previous ones. Each sentence is written on one line, followed by a line with the entities found in that sentence. They are identified following a format similar to how we formally describe entities in our work, i.e., in the form of tuples.
+
+Cell culture experiments demonstrated that the natural variant with four Sp1 sites had a slightly higher promoter activity and viral replication rate than the isogenic control LTR with three Sp1 sites .
+10,11 G#protein|10,12 G#DNA|24,27 G#DNA|29,30 G#protein|29,31 G#DNA
+
+
+4. Pre-trained embeddings: Here are the links to the three embeddings used, each belonging to the specific domain of each corpus.
+
+- Genia: https://drive.google.com/file/d/0BzMCqpcgEJgiUWs0ZnU0NlFTam8/view?resourcekey=0-hKMdnLPkaFZZYNiIMeyoww
+- GermEval: https://github.com/facebookresearch/fastText/blob/master/docs/crawl-vectors.md
+- Chilean Waiting List:  https://zenodo.org/record/3924799
+
+5. Contextual word embeddings
+
+- Flair embeddings: For this contextualized embeddings, we use the following language models available in the framework.
+
+- Genia: pubmed-forward and pubmed-backward
+- GermEval: de-forward and de-backward
+- Chilean Waiting List: (es-clinical-forward and es-clinical-backward) or (spanish-clinical-forward and spanish-clinical-backward)
+In case you choose the clinical embeddings in Spanish, you must install flair with the following command to obtain the version in which we make them available: !pip install 'git+https://github.com/flairNLP/flair.git'
+If you decide to use this option you must comment out the following lines in the train.py file: 
+merge_files(entities, params["output_folder"])
+show_results(entities, params["output_folder"])   
+
+
+- BERT embeddings.
+
+- Genia: bert-large-cased
+- GermEval: dbmdz/bert-base-german-cased,
+- Chilean Waiting List: dccuchile/bert-base-spanish-wwm-cased
+
+6. MLC Training.
+
+Training parameters can be changed in `params.json` file
+
+First, you must create a folder with the corpus name inside MLC (genia, germeval, or wl).
+
+Then create an embeddings folder and put the three pre-trained embeddings there.
+
+Run the script `train.py`. The results will be printed to console.
+
+The models will be stored in the output folder specified in params.json.
+
+7. Baselines Training.
+
+To reproduce the other baselines, we use the following source codes.
+
+- Layered: https://github.com/meizhiju/layered-bilstm-crf
+- Boundary: https://github.com/thecharm/boundary-aware-nested-ner
+- Exhaustive: https://github.com/csJd/deep_exhaustive_model
+- Second-best: https://github.com/yahshibu/nested-ner-tacl2020-flair
+
+In the notebook 03.AAAI-Baselines.ipynb we detail the steps necessary to execute these experiments as well as the changes we had to make in order to perform them.
+
+9. Task-specific metrics.
+
+Each of the baselines will generate a file with its predictions, we provide a jupyter notebook to obtain the task-specific metrics using these files.
+
+Important: To be fair, as the MLC, Boundary and Exhaustive architectures are not able to address one of the borderline cases, their prediction files have to be compared with the original files where no such cases are lost.
