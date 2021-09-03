@@ -11,7 +11,7 @@ We used the following version: pip3 install torch==1.9.0+cu111 torchvision==0.10
 2. Download the data
 
 - Genia: http://www.geniaproject.org/genia-corpus/pos-annotation
-- GermEval: https://sites.google.com/site/germeval2014ner/data
+- GermEval: https://github.com/thecharm/boundary-aware-nested-ner/blob/master/GermEval2014.zip
 - Chilean Waiting List: https://zenodo.org/record/3926705 (The zip file contains the preprocessed dataset)
 
 To access to the statistics of each corpus, just run the notebook 01_AAAI_Paper_Statistics.ipynb with the respective files (dataset.train.iob2, dataset.dev.iob2, dataset.test.iob2).
