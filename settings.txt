@@ -1,0 +1,104 @@
+This file details the primary hyperparameters used by each model to facilitate our results' reproducibility.
+
+Biaffine model.
+
+GENIA max step: 40000
+WL max step: 20000
+GermEval max step: 40000
+
+ffnn_size = 150
+ffnn_depth = 2
+filter_widths = [3, 4, 5]
+filter_size = 50
+char_embedding_size = 8
+contextualization_size = 128
+contextualization_layers = 3
+max_gradient_norm = 5.0
+lstm_dropout_rate = 0.5
+lexical_dropout_rate = 0.5
+dropout_rate = 0.3
+optimizer = adam
+learning_rate = 0.001
+decay_rate = 0.999
+decay_frequency = 100
+
+
+Pyramid model.
+
+batch_size 32 
+max_epoches 500 
+optimizer sgd 
+lr 0.01 
+tag_form iob2  
+cased 1 
+token_emb_dim 200 
+char_emb_dim 30 
+char_encoder lstm 
+tag_vocab_size 100 
+vocab_size 20000 
+dropout 0.5 
+max_depth 16
+
+Exhaustive model.
+
+char_feat_dim=50
+batch_size=100
+max_region=10
+learning_rate=0.001
+hidden_size=200
+Freeze=False
+
+
+Recursive-CRF model.
+
+self.data_set: str = "sample"
+self.batch_size: int = 32
+self.if_shuffle: bool = True
+
+self.char_embed: int = 128
+self.num_filters: int = 128
+self.word_dropout: float = 0.05
+
+self.hidden_size: int = 128
+self.layers: int = 3
+self.lstm_dropout: float = 0.50
+
+self.epoch: int = 500
+self.opt: Optimizer = Optimizer.Adam
+self.lr: float = 0.001
+self.final_lr: float = None
+self.l2: float = 0.
+self.check_every: int = 1
+self.clip_norm: int = 5
+
+self.lr_patience: int = 3 if self.opt != Optimizer.SGD else 5
+
+Layered model.
+
+epoch : 20
+replace_digit : false
+lowercase : false
+use_singletons : false
+char_embedding_dim : 25
+tag_embedding_dim : 5
+batch_size : 32
+dropout_ratio : 0.5
+lr_param : 0.001
+threshold : 27
+decay_rate : 0.0001
+
+Boundary model.
+
+MAX_REGION = 10
+EARLY_STOP = 5
+LR = 0.001
+BATCH_SIZE = 32
+MAX_GRAD_NORM = 5
+N_TAGS = 12 # Depends on the dataset
+TAG_WEIGHTS = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1] # Depends on the dataset
+FREEZE_WV = False
+n_epochs=80
+hidden_size=128
+layers=3
+n_embeddings=200000
+freeze=False

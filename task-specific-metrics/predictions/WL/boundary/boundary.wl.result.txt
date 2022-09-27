@@ -1,0 +1,2967 @@
+{(0, 5): 'Disease'}
+{(0, 5): 'Disease'}
+
+{(5, 10): 'Finding', (12, 13): 'Family_Member'}
+{(5, 8): 'Finding', (12, 13): 'Family_Member'}
+
+{(0, 4): 'Finding'}
+{(0, 1): 'Body_Part', (0, 4): 'Finding'}
+
+{(2, 3): 'Disease', (5, 6): 'Abbreviation', (5, 9): 'Body_Part', (2, 11): 'Finding'}
+{(2, 3): 'Disease', (2, 9): 'Finding', (2, 11): 'Finding', (5, 6): 'Abbreviation', (5, 9): 'Body_Part'}
+
+{}
+{}
+
+{(6, 7): 'Body_Part', (11, 12): 'Abbreviation', (15, 18): 'Body_Part', (25, 26): 'Finding', (28, 29): 'Procedure', (31, 32): 'Procedure', (1, 7): 'Disease', (15, 23): 'Finding'}
+{(1, 7): 'Disease', (11, 12): 'Abbreviation', (15, 18): 'Body_Part', (15, 23): 'Finding', (25, 26): 'Finding', (27, 29): 'Finding', (31, 32): 'Procedure'}
+
+{(5, 6): 'Body_Part', (0, 6): 'Disease'}
+{(0, 6): 'Disease'}
+
+{(1, 6): 'Disease', (10, 11): 'Abbreviation', (14, 16): 'Finding', (25, 26): 'Family_Member'}
+{(1, 6): 'Disease', (10, 11): 'Abbreviation', (25, 26): 'Family_Member'}
+
+{(4, 6): 'Finding', (9, 11): 'Finding'}
+{}
+
+{(0, 2): 'Finding'}
+{}
+
+{(1, 8): 'Finding'}
+{}
+
+{(1, 2): 'Family_Member', (9, 13): 'Finding', (17, 27): 'Finding'}
+{(1, 2): 'Family_Member', (18, 25): 'Finding'}
+
+{(4, 5): 'Finding', (17, 20): 'Finding'}
+{(4, 5): 'Finding'}
+
+{(0, 1): 'Abbreviation', (3, 4): 'Abbreviation', (4, 5): 'Abbreviation', (9, 10): 'Abbreviation', (10, 11): 'Abbreviation', (17, 20): 'Finding', (10, 15): 'Finding'}
+{(0, 1): 'Abbreviation', (3, 4): 'Abbreviation', (9, 10): 'Abbreviation', (10, 11): 'Abbreviation'}
+
+{}
+{}
+
+{(1, 9): 'Finding', (14, 15): 'Abbreviation', (17, 18): 'Abbreviation', (20, 21): 'Procedure', (22, 24): 'Disease', (25, 26): 'Abbreviation', (28, 29): 'Disease', (30, 33): 'Disease', (33, 41): 'Finding', (25, 27): 'Disease'}
+{(14, 15): 'Abbreviation', (20, 21): 'Procedure', (22, 24): 'Disease', (25, 26): 'Disease', (25, 27): 'Disease', (28, 29): 'Disease', (30, 33): 'Disease'}
+
+{(2, 8): 'Finding', (11, 15): 'Body_Part', (16, 20): 'Finding', (9, 15): 'Finding'}
+{(2, 8): 'Finding', (9, 10): 'Disease', (9, 15): 'Finding', (11, 15): 'Body_Part', (17, 20): 'Finding'}
+
+{(1, 2): 'Disease', (4, 11): 'Disease', (16, 17): 'Disease', (35, 39): 'Procedure', (56, 57): 'Abbreviation', (69, 70): 'Abbreviation'}
+{(1, 2): 'Disease', (3, 11): 'Disease', (13, 15): 'Finding', (56, 57): 'Abbreviation', (69, 70): 'Abbreviation'}
+
+{(10, 11): 'Abbreviation'}
+{(10, 11): 'Abbreviation'}
+
+{(1, 2): 'Finding', (4, 5): 'Procedure', (6, 7): 'Finding'}
+{(4, 5): 'Abbreviation', (6, 7): 'Finding'}
+
+{}
+{}
+
+{(4, 8): 'Disease', (11, 12): 'Disease', (13, 14): 'Finding'}
+{(4, 8): 'Disease', (11, 12): 'Disease', (13, 14): 'Finding'}
+
+{(0, 2): 'Body_Part', (2, 4): 'Disease'}
+{(0, 2): 'Body_Part', (2, 4): 'Disease'}
+
+{(0, 5): 'Finding', (7, 10): 'Finding', (12, 18): 'Finding', (21, 25): 'Finding'}
+{(0, 2): 'Disease', (7, 10): 'Finding', (12, 18): 'Disease', (21, 25): 'Finding'}
+
+{(4, 5): 'Body_Part', (2, 5): 'Finding'}
+{(2, 5): 'Disease'}
+
+{(0, 3): 'Body_Part', (7, 8): 'Disease', (8, 9): 'Abbreviation', (9, 13): 'Body_Part', (13, 16): 'Body_Part', (25, 28): 'Body_Part', (29, 30): 'Disease', (30, 33): 'Body_Part', (41, 42): 'Body_Part', (43, 45): 'Body_Part', (45, 48): 'Body_Part', (0, 13): 'Finding', (13, 25): 'Finding', (25, 45): 'Finding', (45, 56): 'Finding'}
+{(0, 3): 'Body_Part', (7, 8): 'Disease', (9, 16): 'Body_Part', (19, 20): 'Finding', (21, 23): 'Finding', (30, 33): 'Body_Part', (33, 34): 'Finding', (41, 42): 'Body_Part', (43, 45): 'Body_Part', (43, 48): 'Body_Part'}
+
+{(1, 2): 'Finding', (2, 7): 'Disease', (8, 13): 'Disease', (19, 20): 'Body_Part', (16, 20): 'Finding'}
+{(1, 2): 'Finding', (2, 7): 'Disease', (4, 7): 'Disease', (8, 12): 'Disease', (16, 20): 'Finding'}
+
+{(1, 3): 'Disease', (7, 8): 'Abbreviation', (11, 13): 'Finding', (27, 29): 'Finding', (30, 43): 'Finding'}
+{(1, 3): 'Disease', (7, 8): 'Abbreviation', (11, 13): 'Finding', (27, 33): 'Finding'}
+
+{(8, 9): 'Disease', (12, 13): 'Procedure'}
+{(8, 9): 'Disease'}
+
+{}
+{}
+
+{(10, 11): 'Body_Part', (11, 12): 'Finding', (16, 17): 'Abbreviation', (23, 28): 'Finding', (1, 11): 'Disease'}
+{(1, 11): 'Disease', (11, 12): 'Disease', (16, 17): 'Abbreviation', (23, 28): 'Finding'}
+
+{(4, 5): 'Disease', (6, 7): 'Disease', (8, 9): 'Abbreviation', (9, 10): 'Abbreviation', (10, 11): 'Disease'}
+{(4, 5): 'Disease', (6, 7): 'Disease', (8, 9): 'Disease', (9, 10): 'Abbreviation', (10, 11): 'Disease'}
+
+{(3, 4): 'Finding', (7, 9): 'Procedure'}
+{(3, 4): 'Finding', (7, 9): 'Procedure'}
+
+{(0, 4): 'Disease', (6, 17): 'Body_Part'}
+{(6, 17): 'Body_Part'}
+
+{(0, 1): 'Procedure', (2, 3): 'Abbreviation', (5, 9): 'Body_Part', (9, 11): 'Finding', (12, 13): 'Finding', (2, 9): 'Finding'}
+{(0, 1): 'Procedure', (2, 3): 'Abbreviation', (2, 4): 'Finding', (5, 9): 'Body_Part', (12, 13): 'Finding'}
+
+{(0, 1): 'Abbreviation', (7, 8): 'Abbreviation', (0, 4): 'Body_Part', (7, 15): 'Body_Part', (0, 7): 'Finding', (7, 18): 'Finding'}
+{(0, 1): 'Abbreviation', (0, 4): 'Body_Part', (7, 8): 'Abbreviation', (7, 15): 'Body_Part'}
+
+{(1, 7): 'Disease', (8, 12): 'Body_Part', (12, 13): 'Finding', (15, 23): 'Finding', (24, 28): 'Body_Part', (32, 40): 'Finding', (40, 44): 'Body_Part', (48, 52): 'Body_Part', (55, 57): 'Body_Part', (58, 62): 'Body_Part', (70, 74): 'Body_Part', (24, 32): 'Finding', (40, 57): 'Finding', (58, 74): 'Finding'}
+{(1, 8): 'Disease', (8, 12): 'Body_Part', (8, 13): 'Finding', (24, 28): 'Body_Part', (24, 39): 'Finding', (40, 44): 'Body_Part', (40, 47): 'Finding', (48, 52): 'Body_Part', (55, 57): 'Body_Part', (58, 62): 'Body_Part', (70, 74): 'Body_Part', (83, 85): 'Procedure'}
+
+{(6, 8): 'Finding', (10, 11): 'Abbreviation', (18, 19): 'Abbreviation'}
+{(10, 11): 'Abbreviation', (18, 19): 'Abbreviation'}
+
+{(3, 4): 'Procedure', (5, 6): 'Procedure', (7, 8): 'Procedure', (9, 10): 'Procedure', (11, 12): 'Procedure', (13, 14): 'Procedure', (14, 15): 'Finding'}
+{(0, 1): 'Disease', (1, 2): 'Finding', (3, 4): 'Procedure', (5, 6): 'Abbreviation', (7, 8): 'Abbreviation', (9, 10): 'Abbreviation', (11, 12): 'Procedure', (13, 14): 'Procedure', (14, 15): 'Finding'}
+
+{(3, 4): 'Body_Part', (5, 6): 'Body_Part', (11, 12): 'Medication', (14, 15): 'Abbreviation', (1, 6): 'Finding', (14, 16): 'Disease'}
+{(1, 6): 'Finding', (3, 4): 'Body_Part', (3, 6): 'Body_Part', (11, 12): 'Medication', (14, 15): 'Abbreviation', (14, 16): 'Disease'}
+
+{(2, 4): 'Finding'}
+{(2, 4): 'Finding'}
+
+{(7, 8): 'Abbreviation', (13, 17): 'Procedure', (19, 21): 'Disease'}
+{(7, 8): 'Abbreviation', (13, 17): 'Procedure', (19, 21): 'Disease'}
+
+{(1, 2): 'Disease', (4, 5): 'Body_Part', (10, 11): 'Abbreviation', (12, 13): 'Abbreviation', (17, 18): 'Disease', (22, 23): 'Abbreviation', (26, 27): 'Abbreviation', (30, 31): 'Procedure', (4, 6): 'Disease', (12, 16): 'Body_Part'}
+{(1, 2): 'Disease', (4, 5): 'Body_Part', (4, 6): 'Disease', (10, 11): 'Abbreviation', (12, 13): 'Abbreviation', (12, 16): 'Body_Part', (17, 18): 'Disease', (22, 23): 'Abbreviation', (26, 27): 'Abbreviation', (30, 31): 'Procedure'}
+
+{(3, 4): 'Procedure', (6, 7): 'Body_Part', (6, 8): 'Finding'}
+{(3, 4): 'Procedure', (6, 7): 'Body_Part'}
+
+{(0, 2): 'Disease', (3, 4): 'Disease', (4, 5): 'Abbreviation', (5, 6): 'Disease', (6, 7): 'Abbreviation', (7, 9): 'Finding', (9, 10): 'Finding', (10, 11): 'Finding', (11, 12): 'Finding', (15, 16): 'Medication', (17, 18): 'Abbreviation', (19, 20): 'Abbreviation', (21, 22): 'Abbreviation'}
+{(0, 2): 'Disease', (3, 4): 'Disease', (4, 5): 'Abbreviation', (5, 6): 'Disease', (6, 7): 'Abbreviation', (9, 10): 'Disease', (10, 11): 'Disease', (11, 12): 'Finding', (15, 16): 'Medication', (17, 18): 'Abbreviation', (19, 20): 'Abbreviation', (21, 22): 'Abbreviation'}
+
+{(0, 1): 'Body_Part', (5, 7): 'Body_Part', (11, 19): 'Body_Part', (20, 21): 'Body_Part', (0, 4): 'Disease', (5, 10): 'Finding', (11, 22): 'Finding'}
+{(0, 1): 'Body_Part', (0, 4): 'Disease', (5, 7): 'Body_Part', (5, 10): 'Finding', (11, 19): 'Body_Part', (20, 21): 'Body_Part'}
+
+{(0, 2): 'Disease', (2, 6): 'Body_Part'}
+{(0, 2): 'Disease', (2, 6): 'Body_Part'}
+
+{(0, 1): 'Procedure', (1, 5): 'Body_Part', (8, 9): 'Medication', (10, 11): 'Finding', (11, 12): 'Abbreviation'}
+{(0, 1): 'Finding', (0, 5): 'Finding', (1, 5): 'Body_Part', (8, 9): 'Finding'}
+
+{(1, 3): 'Finding', (4, 5): 'Finding', (5, 10): 'Finding'}
+{(1, 2): 'Abbreviation', (1, 3): 'Finding', (4, 5): 'Finding', (5, 8): 'Finding', (5, 10): 'Finding'}
+
+{(3, 4): 'Body_Part', (6, 7): 'Finding', (14, 15): 'Abbreviation', (1, 6): 'Disease'}
+{(1, 6): 'Disease', (6, 7): 'Finding', (14, 15): 'Abbreviation'}
+
+{(1, 2): 'Medication', (2, 6): 'Disease'}
+{(1, 2): 'Medication', (2, 6): 'Disease'}
+
+{(0, 4): 'Body_Part', (0, 7): 'Finding'}
+{(0, 4): 'Body_Part', (0, 7): 'Finding'}
+
+{(0, 4): 'Body_Part', (0, 7): 'Finding'}
+{(0, 4): 'Body_Part', (0, 7): 'Finding'}
+
+{(3, 5): 'Procedure'}
+{(3, 5): 'Procedure'}
+
+{(1, 3): 'Disease', (3, 5): 'Disease', (10, 12): 'Finding', (14, 15): 'Disease', (14, 16): 'Finding'}
+{(1, 3): 'Finding', (3, 5): 'Finding', (10, 12): 'Finding', (14, 15): 'Disease'}
+
+{(1, 4): 'Disease', (4, 5): 'Procedure', (9, 10): 'Abbreviation', (11, 15): 'Body_Part', (15, 17): 'Disease', (24, 25): 'Procedure', (28, 29): 'Body_Part', (39, 40): 'Body_Part', (15, 20): 'Finding', (37, 40): 'Disease'}
+{(1, 4): 'Disease', (4, 5): 'Procedure', (9, 10): 'Abbreviation', (11, 15): 'Body_Part', (15, 17): 'Finding', (15, 20): 'Finding', (18, 20): 'Finding', (28, 29): 'Body_Part', (37, 40): 'Disease'}
+
+{(3, 4): 'Body_Part', (8, 9): 'Abbreviation', (12, 13): 'Abbreviation', (14, 15): 'Disease', (24, 27): 'Disease', (47, 50): 'Body_Part', (52, 59): 'Finding', (1, 4): 'Disease', (44, 50): 'Finding'}
+{(1, 4): 'Disease', (8, 9): 'Abbreviation', (12, 13): 'Abbreviation', (14, 15): 'Disease', (44, 50): 'Finding', (47, 50): 'Body_Part', (52, 59): 'Finding'}
+
+{(2, 3): 'Procedure', (6, 7): 'Finding', (8, 9): 'Procedure', (13, 14): 'Procedure', (15, 16): 'Abbreviation', (17, 18): 'Finding', (19, 21): 'Procedure', (22, 23): 'Abbreviation', (15, 17): 'Procedure', (22, 27): 'Finding'}
+{(2, 3): 'Procedure', (8, 9): 'Procedure', (13, 14): 'Procedure', (15, 16): 'Abbreviation', (15, 18): 'Procedure', (19, 21): 'Procedure', (22, 23): 'Abbreviation', (22, 25): 'Procedure'}
+
+{(0, 1): 'Abbreviation', (5, 6): 'Procedure', (6, 7): 'Abbreviation', (15, 16): 'Body_Part', (17, 18): 'Abbreviation', (18, 19): 'Abbreviation', (23, 24): 'Abbreviation', (0, 2): 'Disease', (6, 8): 'Body_Part', (17, 20): 'Procedure'}
+{(0, 1): 'Abbreviation', (0, 2): 'Disease', (6, 7): 'Abbreviation', (6, 8): 'Body_Part', (15, 16): 'Body_Part', (17, 18): 'Abbreviation', (17, 20): 'Procedure', (18, 20): 'Procedure', (23, 24): 'Abbreviation'}
+
+{(0, 2): 'Body_Part', (4, 7): 'Procedure', (7, 9): 'Finding', (9, 10): 'Finding'}
+{(0, 2): 'Body_Part', (4, 5): 'Procedure', (6, 7): 'Procedure', (8, 10): 'Body_Part'}
+
+{(0, 7): 'Finding'}
+{(0, 7): 'Disease'}
+
+{(0, 6): 'Disease', (6, 12): 'Finding', (15, 16): 'Procedure'}
+{(0, 5): 'Disease', (6, 7): 'Disease', (7, 9): 'Finding', (10, 11): 'Disease', (10, 12): 'Finding', (15, 16): 'Procedure'}
+
+{(0, 1): 'Abbreviation', (2, 7): 'Disease', (10, 11): 'Disease', (12, 13): 'Disease', (14, 15): 'Abbreviation', (20, 21): 'Procedure', (14, 16): 'Disease'}
+{(0, 1): 'Abbreviation', (2, 7): 'Disease', (10, 11): 'Disease', (12, 13): 'Disease', (14, 16): 'Disease'}
+
+{(0, 1): 'Procedure', (2, 3): 'Abbreviation', (4, 5): 'Abbreviation', (6, 7): 'Procedure', (9, 10): 'Procedure', (14, 15): 'Procedure', (19, 21): 'Procedure', (25, 26): 'Procedure', (28, 29): 'Procedure', (33, 36): 'Procedure'}
+{(0, 1): 'Procedure', (2, 3): 'Abbreviation', (4, 5): 'Abbreviation', (6, 7): 'Procedure', (9, 10): 'Procedure', (14, 15): 'Procedure', (19, 21): 'Procedure', (25, 26): 'Disease', (28, 29): 'Procedure', (28, 32): 'Procedure', (33, 36): 'Procedure'}
+
+{(0, 1): 'Disease', (1, 7): 'Disease', (7, 8): 'Finding', (10, 12): 'Finding'}
+{(0, 1): 'Disease', (1, 7): 'Disease', (8, 11): 'Procedure', (11, 12): 'Finding'}
+
+{(0, 6): 'Disease', (6, 10): 'Body_Part', (14, 16): 'Body_Part'}
+{(0, 6): 'Disease', (6, 7): 'Body_Part', (6, 8): 'Body_Part', (6, 10): 'Finding', (14, 16): 'Body_Part'}
+
+{(0, 3): 'Disease', (7, 8): 'Abbreviation', (17, 18): 'Abbreviation', (4, 13): 'Disease', (14, 23): 'Disease'}
+{(0, 3): 'Disease', (4, 13): 'Disease', (7, 8): 'Abbreviation', (17, 18): 'Abbreviation'}
+
+{(0, 1): 'Disease', (1, 3): 'Disease', (5, 6): 'Body_Part', (7, 9): 'Body_Part', (11, 12): 'Disease', (18, 19): 'Abbreviation', (3, 9): 'Finding'}
+{(0, 1): 'Disease', (1, 3): 'Disease', (5, 6): 'Body_Part', (7, 9): 'Body_Part', (17, 18): 'Abbreviation', (18, 19): 'Abbreviation'}
+
+{(1, 6): 'Disease', (7, 11): 'Disease', (16, 17): 'Disease', (24, 26): 'Disease', (37, 38): 'Body_Part', (40, 42): 'Body_Part', (42, 43): 'Procedure', (46, 50): 'Finding', (55, 56): 'Procedure', (58, 59): 'Procedure', (63, 64): 'Procedure', (68, 69): 'Procedure', (73, 74): 'Procedure', (76, 77): 'Procedure', (79, 80): 'Procedure', (82, 84): 'Finding', (85, 86): 'Procedure', (87, 91): 'Finding', (92, 93): 'Procedure', (95, 96): 'Procedure', (100, 101): 'Procedure', (101, 102): 'Finding', (103, 104): 'Procedure', (104, 105): 'Finding', (24, 32): 'Finding', (34, 42): 'Finding'}
+{(1, 6): 'Disease', (16, 17): 'Disease', (37, 38): 'Body_Part', (40, 42): 'Body_Part', (42, 43): 'Procedure', (46, 48): 'Finding', (46, 50): 'Finding', (48, 49): 'Finding', (48, 50): 'Finding', (55, 56): 'Procedure', (58, 59): 'Procedure', (63, 64): 'Procedure', (68, 69): 'Procedure', (73, 74): 'Procedure', (76, 77): 'Procedure', (79, 80): 'Procedure', (82, 86): 'Finding', (87, 90): 'Body_Part', (90, 91): 'Finding', (92, 93): 'Procedure', (95, 96): 'Procedure', (100, 101): 'Body_Part', (101, 102): 'Finding', (103, 104): 'Procedure', (104, 105): 'Finding'}
+
+{(6, 13): 'Body_Part', (16, 17): 'Abbreviation', (0, 13): 'Finding', (15, 18): 'Finding'}
+{(15, 18): 'Finding', (16, 17): 'Abbreviation', (16, 18): 'Finding'}
+
+{(1, 6): 'Disease', (10, 11): 'Abbreviation', (12, 16): 'Finding', (16, 21): 'Disease'}
+{(1, 6): 'Disease', (10, 11): 'Abbreviation', (12, 16): 'Finding', (16, 21): 'Disease'}
+
+{(1, 3): 'Disease', (3, 7): 'Body_Part'}
+{(1, 7): 'Finding', (3, 7): 'Body_Part'}
+
+{(1, 2): 'Procedure', (5, 8): 'Body_Part', (8, 11): 'Disease'}
+{(1, 2): 'Abbreviation', (1, 3): 'Disease', (4, 5): 'Finding', (8, 11): 'Disease'}
+
+{(2, 3): 'Body_Part', (7, 8): 'Procedure', (9, 10): 'Abbreviation', (14, 19): 'Disease', (21, 22): 'Procedure', (24, 26): 'Finding', (0, 13): 'Disease'}
+{(2, 3): 'Body_Part', (9, 10): 'Abbreviation', (14, 19): 'Disease', (21, 22): 'Abbreviation', (24, 26): 'Finding'}
+
+{}
+{}
+
+{(1, 2): 'Abbreviation'}
+{(1, 2): 'Abbreviation'}
+
+{(1, 2): 'Disease', (4, 7): 'Disease', (9, 10): 'Disease', (14, 15): 'Abbreviation', (22, 23): 'Abbreviation', (25, 26): 'Disease', (27, 28): 'Disease', (30, 31): 'Abbreviation', (22, 24): 'Disease'}
+{(1, 2): 'Disease', (4, 7): 'Disease', (9, 10): 'Disease', (14, 15): 'Abbreviation', (22, 23): 'Abbreviation', (22, 24): 'Disease', (25, 26): 'Disease', (27, 28): 'Disease', (30, 31): 'Abbreviation'}
+
+{(0, 1): 'Medication', (2, 3): 'Abbreviation', (4, 5): 'Medication', (6, 7): 'Abbreviation', (7, 9): 'Abbreviation', (10, 11): 'Abbreviation', (12, 13): 'Medication', (14, 15): 'Abbreviation', (17, 18): 'Abbreviation', (19, 20): 'Abbreviation'}
+{(0, 1): 'Medication', (2, 3): 'Abbreviation', (4, 5): 'Medication', (6, 7): 'Abbreviation', (6, 9): 'Abbreviation', (7, 9): 'Abbreviation', (10, 11): 'Abbreviation', (12, 13): 'Medication', (14, 15): 'Abbreviation', (17, 18): 'Abbreviation', (19, 20): 'Abbreviation'}
+
+{(6, 9): 'Finding', (11, 17): 'Finding', (25, 27): 'Body_Part', (32, 34): 'Finding', (22, 31): 'Finding'}
+{}
+
+{(19, 20): 'Disease'}
+{(19, 20): 'Disease'}
+
+{(0, 1): 'Abbreviation', (3, 4): 'Finding', (5, 11): 'Finding', (13, 15): 'Finding', (19, 22): 'Procedure', (0, 3): 'Body_Part'}
+{(0, 1): 'Abbreviation', (0, 3): 'Body_Part', (3, 4): 'Disease', (5, 8): 'Finding', (9, 11): 'Finding', (13, 15): 'Finding'}
+
+{(5, 6): 'Body_Part', (10, 11): 'Abbreviation', (17, 18): 'Disease', (18, 19): 'Abbreviation', (23, 28): 'Finding', (29, 32): 'Finding', (40, 41): 'Abbreviation', (45, 46): 'Body_Part', (1, 6): 'Disease', (18, 22): 'Body_Part', (41, 46): 'Disease'}
+{(1, 6): 'Disease', (10, 11): 'Abbreviation', (17, 18): 'Disease', (17, 22): 'Finding', (18, 19): 'Abbreviation', (18, 22): 'Body_Part', (23, 24): 'Finding', (23, 28): 'Finding', (29, 32): 'Finding', (40, 41): 'Abbreviation', (41, 46): 'Disease'}
+
+{(1, 4): 'Finding', (8, 9): 'Abbreviation', (10, 13): 'Body_Part', (18, 19): 'Procedure', (22, 23): 'Medication', (31, 34): 'Medication', (10, 15): 'Finding', (20, 28): 'Procedure', (29, 35): 'Procedure'}
+{(1, 4): 'Disease', (8, 9): 'Abbreviation', (10, 13): 'Body_Part', (13, 15): 'Disease', (18, 19): 'Procedure', (18, 23): 'Procedure', (31, 34): 'Medication'}
+
+{(2, 3): 'Body_Part', (0, 3): 'Disease'}
+{(0, 3): 'Disease'}
+
+{(1, 4): 'Disease', (9, 11): 'Body_Part', (12, 13): 'Procedure', (14, 16): 'Procedure'}
+{(1, 4): 'Disease', (9, 11): 'Body_Part', (12, 13): 'Procedure', (12, 16): 'Procedure'}
+
+{(3, 4): 'Body_Part', (12, 13): 'Abbreviation', (15, 16): 'Finding', (19, 20): 'Abbreviation', (20, 21): 'Medication', (22, 24): 'Disease', (26, 27): 'Body_Part', (1, 8): 'Disease', (24, 31): 'Disease'}
+{(1, 8): 'Disease', (3, 4): 'Body_Part', (12, 13): 'Abbreviation', (15, 16): 'Finding', (19, 20): 'Abbreviation', (22, 24): 'Disease', (24, 31): 'Disease', (26, 27): 'Body_Part'}
+
+{(0, 3): 'Finding', (4, 5): 'Abbreviation', (7, 11): 'Body_Part', (11, 17): 'Finding', (3, 5): 'Finding', (5, 11): 'Finding'}
+{(0, 3): 'Finding', (7, 11): 'Body_Part', (11, 17): 'Finding'}
+
+{(1, 2): 'Disease', (6, 7): 'Abbreviation', (10, 12): 'Finding', (14, 15): 'Finding', (17, 18): 'Finding', (20, 23): 'Disease', (23, 24): 'Abbreviation', (25, 26): 'Disease', (27, 31): 'Body_Part', (34, 35): 'Procedure'}
+{(1, 2): 'Disease', (6, 7): 'Abbreviation', (10, 12): 'Finding', (17, 18): 'Disease', (20, 23): 'Disease', (23, 24): 'Abbreviation', (25, 26): 'Disease', (27, 31): 'Body_Part', (34, 35): 'Procedure'}
+
+{(0, 1): 'Disease'}
+{(0, 1): 'Disease'}
+
+{(6, 7): 'Disease', (7, 9): 'Body_Part', (9, 12): 'Disease', (12, 14): 'Disease', (16, 17): 'Procedure'}
+{(7, 9): 'Body_Part', (9, 12): 'Disease', (12, 15): 'Disease', (16, 17): 'Procedure'}
+
+{(0, 1): 'Abbreviation', (2, 4): 'Procedure', (6, 8): 'Body_Part', (10, 11): 'Procedure', (12, 13): 'Abbreviation', (15, 17): 'Medication', (23, 24): 'Disease', (24, 26): 'Disease', (26, 27): 'Disease', (27, 28): 'Disease'}
+{(0, 1): 'Abbreviation', (2, 8): 'Procedure', (10, 11): 'Procedure', (12, 13): 'Abbreviation', (12, 14): 'Procedure', (15, 16): 'Abbreviation', (15, 17): 'Procedure', (23, 24): 'Disease', (23, 26): 'Disease', (24, 26): 'Finding', (26, 28): 'Finding'}
+
+{(0, 1): 'Disease', (3, 4): 'Disease', (13, 14): 'Abbreviation', (14, 15): 'Body_Part', (14, 16): 'Disease'}
+{(0, 4): 'Disease', (13, 14): 'Abbreviation', (13, 16): 'Disease', (14, 15): 'Body_Part', (14, 16): 'Disease'}
+
+{(1, 2): 'Body_Part', (7, 9): 'Body_Part', (10, 13): 'Disease', (14, 16): 'Disease', (17, 18): 'Body_Part', (34, 36): 'Body_Part', (37, 40): 'Disease', (41, 43): 'Disease', (0, 2): 'Disease', (3, 9): 'Disease', (16, 18): 'Disease', (30, 36): 'Disease'}
+{(0, 4): 'Disease', (7, 9): 'Body_Part', (10, 13): 'Disease', (14, 16): 'Disease', (16, 20): 'Disease', (21, 22): 'Abbreviation', (21, 23): 'Disease', (30, 31): 'Disease', (30, 36): 'Disease', (34, 36): 'Body_Part', (37, 40): 'Disease', (41, 43): 'Disease'}
+
+{(5, 6): 'Abbreviation', (7, 8): 'Body_Part', (18, 20): 'Finding', (31, 39): 'Finding', (5, 7): 'Disease'}
+{(5, 6): 'Abbreviation', (5, 8): 'Disease', (18, 20): 'Finding', (31, 41): 'Finding'}
+
+{(1, 5): 'Disease', (9, 10): 'Abbreviation', (17, 19): 'Finding'}
+{(1, 5): 'Disease', (9, 10): 'Abbreviation', (17, 19): 'Finding'}
+
+{(1, 10): 'Finding'}
+{(1, 10): 'Finding', (3, 4): 'Body_Part'}
+
+{(3, 7): 'Finding', (9, 13): 'Finding', (19, 20): 'Body_Part', (14, 22): 'Finding'}
+{(3, 6): 'Procedure', (3, 7): 'Finding', (9, 13): 'Finding', (11, 13): 'Body_Part', (14, 22): 'Finding', (19, 20): 'Body_Part'}
+
+{(3, 5): 'Procedure'}
+{}
+
+{}
+{}
+
+{(0, 4): 'Disease'}
+{(0, 4): 'Disease'}
+
+{(1, 8): 'Disease', (9, 12): 'Finding', (13, 17): 'Finding', (18, 20): 'Finding', (20, 22): 'Finding'}
+{(9, 12): 'Finding', (13, 17): 'Finding', (18, 20): 'Finding', (20, 22): 'Finding'}
+
+{(2, 9): 'Body_Part', (10, 11): 'Disease', (0, 11): 'Finding'}
+{(2, 9): 'Body_Part', (10, 11): 'Disease'}
+
+{(0, 1): 'Finding', (1, 2): 'Abbreviation', (4, 5): 'Abbreviation', (7, 8): 'Finding', (13, 14): 'Family_Member', (16, 17): 'Family_Member', (18, 19): 'Family_Member', (21, 22): 'Procedure', (22, 24): 'Abbreviation', (30, 31): 'Finding', (1, 3): 'Finding'}
+{(0, 1): 'Finding', (0, 3): 'Finding', (1, 2): 'Abbreviation', (1, 3): 'Finding', (4, 5): 'Abbreviation', (7, 8): 'Finding', (13, 14): 'Family_Member', (16, 17): 'Family_Member', (22, 24): 'Abbreviation', (30, 31): 'Finding'}
+
+{}
+{}
+
+{(6, 8): 'Finding'}
+{(6, 8): 'Finding'}
+
+{(0, 5): 'Disease'}
+{(0, 5): 'Disease'}
+
+{(4, 5): 'Abbreviation', (5, 6): 'Procedure', (7, 8): 'Procedure', (10, 11): 'Procedure'}
+{(4, 5): 'Abbreviation', (7, 8): 'Procedure', (9, 10): 'Abbreviation', (11, 12): 'Disease'}
+
+{(0, 1): 'Disease', (1, 3): 'Disease', (7, 8): 'Disease', (12, 13): 'Disease', (16, 18): 'Disease', (32, 35): 'Disease', (39, 41): 'Disease', (43, 44): 'Procedure'}
+{(0, 1): 'Disease', (1, 3): 'Disease', (7, 9): 'Disease', (12, 13): 'Disease', (39, 41): 'Disease', (43, 44): 'Procedure'}
+
+{(0, 1): 'Abbreviation'}
+{(0, 1): 'Abbreviation'}
+
+{(1, 2): 'Body_Part', (4, 6): 'Body_Part', (7, 8): 'Disease', (8, 9): 'Abbreviation', (9, 11): 'Disease', (12, 13): 'Disease', (14, 15): 'Disease', (18, 19): 'Body_Part', (0, 2): 'Disease', (2, 6): 'Disease', (16, 19): 'Disease'}
+{(2, 6): 'Disease', (4, 6): 'Body_Part', (7, 8): 'Disease', (8, 9): 'Abbreviation', (9, 10): 'Disease', (9, 11): 'Disease', (12, 13): 'Disease', (14, 15): 'Disease', (16, 19): 'Disease'}
+
+{(1, 2): 'Body_Part', (9, 10): 'Abbreviation', (21, 29): 'Body_Part', (32, 34): 'Body_Part', (41, 42): 'Abbreviation', (44, 46): 'Abbreviation', (53, 61): 'Body_Part', (70, 74): 'Body_Part', (85, 87): 'Body_Part', (96, 98): 'Procedure', (1, 5): 'Disease', (19, 29): 'Finding', (32, 38): 'Finding', (41, 43): 'Procedure', (53, 79): 'Finding', (83, 87): 'Finding'}
+{(1, 2): 'Body_Part', (1, 5): 'Disease', (9, 10): 'Abbreviation', (19, 23): 'Finding', (21, 23): 'Body_Part', (21, 29): 'Body_Part', (32, 38): 'Finding', (41, 42): 'Abbreviation', (41, 43): 'Procedure', (53, 61): 'Body_Part', (62, 66): 'Finding', (67, 74): 'Finding', (85, 87): 'Body_Part', (96, 97): 'Procedure'}
+
+{(0, 1): 'Body_Part', (0, 4): 'Disease'}
+{(0, 1): 'Body_Part', (0, 4): 'Disease'}
+
+{(1, 8): 'Disease', (8, 10): 'Disease', (14, 15): 'Abbreviation', (16, 18): 'Disease', (19, 20): 'Disease', (23, 24): 'Procedure', (19, 21): 'Finding'}
+{(1, 8): 'Disease', (1, 10): 'Disease', (8, 10): 'Finding', (14, 15): 'Abbreviation', (16, 18): 'Finding', (19, 20): 'Body_Part', (19, 21): 'Finding'}
+
+{(0, 7): 'Disease'}
+{}
+
+{(0, 1): 'Disease', (1, 4): 'Disease', (5, 8): 'Body_Part', (10, 11): 'Abbreviation', (14, 15): 'Abbreviation', (4, 8): 'Finding', (10, 13): 'Procedure'}
+{(0, 1): 'Disease', (1, 4): 'Disease', (4, 8): 'Body_Part', (10, 11): 'Abbreviation', (12, 13): 'Disease', (14, 15): 'Abbreviation'}
+
+{(3, 5): 'Finding'}
+{(3, 5): 'Finding'}
+
+{(2, 3): 'Abbreviation', (3, 4): 'Abbreviation', (5, 6): 'Abbreviation', (5, 8): 'Finding'}
+{(2, 3): 'Abbreviation', (3, 4): 'Abbreviation', (5, 6): 'Abbreviation', (5, 8): 'Disease'}
+
+{(8, 10): 'Procedure', (11, 15): 'Finding'}
+{(8, 11): 'Procedure', (11, 15): 'Disease'}
+
+{(1, 6): 'Disease', (10, 11): 'Abbreviation', (14, 16): 'Finding', (17, 20): 'Finding', (26, 28): 'Body_Part', (32, 33): 'Disease'}
+{(1, 6): 'Disease', (10, 11): 'Abbreviation', (14, 16): 'Finding', (17, 28): 'Finding', (32, 33): 'Disease'}
+
+{(0, 5): 'Disease'}
+{(0, 5): 'Disease'}
+
+{(0, 1): 'Finding', (2, 3): 'Finding', (8, 9): 'Disease', (10, 11): 'Abbreviation', (12, 14): 'Finding', (15, 20): 'Disease'}
+{(0, 1): 'Finding', (2, 3): 'Finding', (4, 5): 'Abbreviation', (8, 9): 'Disease', (10, 11): 'Abbreviation', (12, 14): 'Disease', (15, 20): 'Finding', (17, 20): 'Body_Part'}
+
+{(4, 6): 'Body_Part', (13, 14): 'Abbreviation', (22, 24): 'Body_Part', (26, 27): 'Body_Part', (30, 31): 'Abbreviation', (37, 38): 'Abbreviation', (41, 48): 'Finding', (49, 50): 'Finding', (51, 52): 'Finding', (54, 55): 'Finding', (56, 57): 'Finding', (1, 9): 'Disease', (20, 34): 'Finding'}
+{(1, 9): 'Disease', (4, 6): 'Body_Part', (13, 14): 'Abbreviation', (20, 24): 'Finding', (20, 27): 'Finding', (22, 24): 'Body_Part', (28, 29): 'Finding', (30, 31): 'Abbreviation', (37, 38): 'Abbreviation', (54, 55): 'Finding', (56, 57): 'Finding'}
+
+{(2, 4): 'Procedure', (6, 8): 'Body_Part', (15, 19): 'Finding', (24, 27): 'Finding', (35, 36): 'Abbreviation', (36, 42): 'Body_Part', (6, 11): 'Finding', (36, 45): 'Finding'}
+{(6, 11): 'Body_Part', (13, 16): 'Finding', (13, 19): 'Finding', (35, 36): 'Abbreviation'}
+
+{(0, 2): 'Procedure', (4, 5): 'Procedure', (7, 8): 'Abbreviation', (10, 11): 'Procedure', (21, 23): 'Body_Part', (18, 26): 'Disease'}
+{(0, 2): 'Procedure', (4, 5): 'Abbreviation', (7, 8): 'Abbreviation', (9, 10): 'Abbreviation', (10, 11): 'Procedure', (18, 26): 'Disease', (21, 23): 'Body_Part'}
+
+{(9, 10): 'Abbreviation', (12, 13): 'Body_Part', (18, 22): 'Finding', (9, 13): 'Disease'}
+{(9, 10): 'Abbreviation', (9, 13): 'Disease', (16, 17): 'Procedure'}
+
+{(1, 4): 'Disease', (8, 9): 'Abbreviation', (10, 11): 'Finding', (12, 16): 'Finding', (19, 20): 'Body_Part', (16, 20): 'Disease'}
+{(1, 4): 'Disease', (8, 9): 'Abbreviation', (10, 11): 'Procedure', (12, 16): 'Finding', (16, 20): 'Disease'}
+
+{(4, 5): 'Body_Part', (9, 10): 'Abbreviation', (11, 15): 'Body_Part', (15, 16): 'Procedure', (19, 20): 'Medication', (21, 23): 'Finding', (26, 27): 'Body_Part', (1, 5): 'Disease', (23, 27): 'Disease'}
+{(1, 5): 'Disease', (9, 10): 'Abbreviation', (11, 15): 'Body_Part', (15, 16): 'Procedure', (19, 20): 'Abbreviation', (21, 23): 'Finding', (23, 27): 'Disease'}
+
+{(3, 7): 'Body_Part', (7, 9): 'Disease', (11, 15): 'Body_Part', (19, 20): 'Disease', (9, 18): 'Finding'}
+{(3, 7): 'Body_Part', (9, 20): 'Finding', (11, 15): 'Body_Part', (11, 20): 'Finding'}
+
+{(0, 1): 'Abbreviation', (1, 2): 'Abbreviation', (2, 3): 'Abbreviation', (3, 5): 'Finding', (6, 7): 'Disease', (7, 8): 'Abbreviation', (8, 10): 'Disease', (11, 13): 'Disease', (14, 15): 'Disease', (15, 16): 'Abbreviation', (17, 18): 'Abbreviation', (22, 23): 'Abbreviation', (0, 3): 'Disease', (22, 24): 'Disease'}
+{(0, 1): 'Disease', (1, 2): 'Abbreviation', (2, 3): 'Abbreviation', (7, 8): 'Abbreviation', (8, 10): 'Disease', (15, 16): 'Abbreviation', (17, 18): 'Abbreviation', (22, 23): 'Abbreviation', (22, 24): 'Disease'}
+
+{(0, 1): 'Disease', (9, 10): 'Body_Part', (14, 15): 'Medication', (1, 10): 'Disease'}
+{(0, 1): 'Disease', (0, 10): 'Disease', (1, 10): 'Disease', (14, 15): 'Medication'}
+
+{}
+{}
+
+{(1, 8): 'Disease', (12, 13): 'Abbreviation', (21, 22): 'Abbreviation', (28, 35): 'Finding', (63, 69): 'Finding'}
+{(1, 8): 'Disease', (12, 13): 'Abbreviation'}
+
+{(0, 7): 'Disease'}
+{(0, 7): 'Disease'}
+
+{(1, 8): 'Disease', (12, 13): 'Abbreviation', (14, 20): 'Finding', (21, 23): 'Finding', (26, 27): 'Abbreviation'}
+{(1, 8): 'Disease', (12, 13): 'Abbreviation', (14, 20): 'Finding', (21, 23): 'Finding', (26, 27): 'Abbreviation'}
+
+{(1, 4): 'Finding', (10, 11): 'Body_Part', (15, 16): 'Abbreviation', (5, 12): 'Finding'}
+{(1, 4): 'Finding', (5, 13): 'Finding', (15, 16): 'Abbreviation'}
+
+{(0, 7): 'Disease'}
+{}
+
+{(1, 2): 'Abbreviation', (4, 6): 'Body_Part', (17, 18): 'Abbreviation', (19, 20): 'Abbreviation', (25, 26): 'Body_Part', (29, 30): 'Finding', (0, 6): 'Disease', (14, 26): 'Finding'}
+{(0, 6): 'Disease', (1, 2): 'Abbreviation', (1, 6): 'Disease', (4, 6): 'Body_Part', (17, 18): 'Abbreviation', (19, 20): 'Abbreviation', (25, 26): 'Body_Part', (25, 30): 'Finding'}
+
+{(2, 5): 'Disease', (6, 8): 'Finding'}
+{(2, 5): 'Disease', (6, 8): 'Finding'}
+
+{(2, 4): 'Body_Part'}
+{(2, 4): 'Body_Part'}
+
+{(1, 6): 'Disease', (9, 10): 'Body_Part', (7, 16): 'Finding'}
+{(1, 6): 'Disease', (7, 16): 'Disease', (9, 10): 'Body_Part'}
+
+{(3, 4): 'Body_Part', (8, 9): 'Abbreviation', (12, 14): 'Finding', (1, 4): 'Disease'}
+{(1, 4): 'Disease', (8, 9): 'Abbreviation', (12, 14): 'Finding'}
+
+{(3, 6): 'Finding'}
+{(3, 6): 'Finding'}
+
+{(2, 3): 'Procedure', (5, 7): 'Finding', (8, 17): 'Finding', (18, 22): 'Finding', (23, 28): 'Finding'}
+{(2, 3): 'Procedure', (5, 7): 'Finding', (8, 11): 'Finding', (12, 13): 'Abbreviation', (16, 17): 'Abbreviation', (18, 19): 'Abbreviation', (18, 22): 'Finding', (23, 28): 'Finding', (25, 26): 'Abbreviation', (25, 28): 'Finding'}
+
+{}
+{}
+
+{(2, 3): 'Medication', (4, 5): 'Abbreviation', (7, 8): 'Medication', (9, 10): 'Abbreviation', (12, 13): 'Abbreviation', (14, 15): 'Abbreviation', (17, 18): 'Medication', (19, 20): 'Abbreviation', (20, 21): 'Abbreviation', (23, 24): 'Body_Part', (21, 24): 'Disease'}
+{(2, 3): 'Medication', (4, 5): 'Abbreviation', (7, 8): 'Medication', (9, 10): 'Abbreviation', (12, 13): 'Abbreviation', (14, 15): 'Abbreviation', (17, 18): 'Medication', (19, 20): 'Abbreviation', (20, 21): 'Abbreviation', (21, 24): 'Disease'}
+
+{(0, 4): 'Disease', (4, 24): 'Body_Part', (31, 32): 'Body_Part', (28, 32): 'Disease'}
+{(0, 4): 'Disease', (17, 24): 'Body_Part', (28, 32): 'Disease'}
+
+{(4, 5): 'Abbreviation'}
+{(4, 5): 'Abbreviation'}
+
+{(2, 3): 'Procedure'}
+{(2, 3): 'Disease'}
+
+{(6, 7): 'Abbreviation'}
+{(6, 7): 'Abbreviation'}
+
+{(1, 4): 'Disease', (4, 8): 'Body_Part', (8, 10): 'Finding', (11, 14): 'Disease', (16, 17): 'Procedure', (19, 22): 'Procedure'}
+{(1, 4): 'Disease', (4, 8): 'Body_Part', (8, 10): 'Finding', (11, 14): 'Disease', (16, 17): 'Procedure', (19, 22): 'Procedure'}
+
+{(1, 6): 'Disease', (10, 11): 'Abbreviation', (12, 13): 'Abbreviation', (19, 21): 'Body_Part', (28, 30): 'Finding', (30, 31): 'Abbreviation', (32, 33): 'Abbreviation', (33, 38): 'Disease', (17, 21): 'Finding'}
+{(1, 2): 'Disease', (1, 6): 'Disease', (10, 11): 'Abbreviation', (12, 13): 'Abbreviation', (17, 21): 'Finding', (19, 21): 'Body_Part', (28, 30): 'Finding', (30, 31): 'Finding', (32, 33): 'Disease', (32, 38): 'Disease', (33, 38): 'Disease'}
+
+{(4, 6): 'Body_Part', (9, 10): 'Abbreviation', (16, 17): 'Body_Part', (23, 26): 'Body_Part', (27, 28): 'Abbreviation', (2, 13): 'Finding', (13, 17): 'Finding', (20, 26): 'Finding'}
+{(2, 6): 'Finding', (4, 6): 'Body_Part', (16, 17): 'Body_Part', (22, 25): 'Body_Part', (23, 25): 'Body_Part', (27, 28): 'Abbreviation'}
+
+{(0, 1): 'Abbreviation', (1, 2): 'Disease', (2, 3): 'Abbreviation'}
+{(0, 1): 'Abbreviation', (1, 2): 'Disease', (2, 3): 'Abbreviation'}
+
+{(7, 8): 'Abbreviation'}
+{(1, 2): 'Disease', (7, 8): 'Abbreviation'}
+
+{(1, 5): 'Body_Part', (5, 9): 'Finding', (10, 11): 'Abbreviation', (16, 17): 'Body_Part', (17, 23): 'Finding', (13, 17): 'Finding'}
+{(1, 5): 'Body_Part', (5, 7): 'Disease', (7, 9): 'Body_Part', (10, 11): 'Abbreviation', (12, 13): 'Procedure', (13, 16): 'Finding', (16, 23): 'Finding'}
+
+{(0, 2): 'Disease', (4, 5): 'Abbreviation', (6, 7): 'Body_Part', (11, 13): 'Finding', (18, 30): 'Body_Part', (34, 41): 'Body_Part', (2, 10): 'Finding', (15, 30): 'Finding', (30, 41): 'Finding'}
+{(0, 2): 'Finding', (2, 4): 'Finding', (4, 5): 'Abbreviation', (11, 13): 'Finding', (15, 17): 'Finding', (33, 34): 'Abbreviation', (33, 41): 'Body_Part', (34, 41): 'Body_Part', (38, 41): 'Body_Part'}
+
+{(2, 4): 'Disease', (5, 6): 'Finding'}
+{(2, 3): 'Disease', (5, 6): 'Finding'}
+
+{(1, 2): 'Procedure', (3, 4): 'Abbreviation'}
+{(1, 2): 'Procedure', (3, 4): 'Abbreviation'}
+
+{}
+{(4, 6): 'Procedure'}
+
+{(2, 4): 'Procedure'}
+{(2, 4): 'Procedure'}
+
+{}
+{(0, 2): 'Finding'}
+
+{(1, 2): 'Disease', (6, 7): 'Abbreviation', (16, 17): 'Disease', (21, 22): 'Abbreviation', (27, 29): 'Disease', (44, 51): 'Finding'}
+{(1, 2): 'Disease', (6, 7): 'Abbreviation', (16, 17): 'Disease', (21, 22): 'Abbreviation', (27, 28): 'Disease', (27, 29): 'Disease'}
+
+{(5, 6): 'Abbreviation', (6, 7): 'Abbreviation'}
+{(6, 7): 'Abbreviation'}
+
+{(9, 13): 'Body_Part', (15, 17): 'Finding', (19, 21): 'Finding', (6, 13): 'Finding'}
+{(6, 13): 'Finding', (9, 13): 'Body_Part', (15, 17): 'Finding', (19, 21): 'Finding'}
+
+{}
+{}
+
+{(0, 1): 'Disease'}
+{(0, 1): 'Disease'}
+
+{(0, 1): 'Disease', (1, 2): 'Disease', (2, 3): 'Disease', (3, 4): 'Procedure'}
+{(0, 1): 'Disease', (1, 2): 'Disease', (1, 4): 'Disease', (2, 3): 'Disease', (2, 4): 'Disease'}
+
+{(3, 4): 'Abbreviation'}
+{(3, 4): 'Abbreviation'}
+
+{(2, 3): 'Procedure', (9, 10): 'Disease'}
+{(2, 3): 'Procedure', (9, 10): 'Disease'}
+
+{(1, 4): 'Disease', (8, 9): 'Abbreviation', (12, 15): 'Disease', (16, 18): 'Body_Part'}
+{(1, 4): 'Disease', (8, 9): 'Abbreviation', (16, 18): 'Body_Part'}
+
+{(0, 2): 'Finding'}
+{(0, 2): 'Disease'}
+
+{(1, 8): 'Disease', (12, 13): 'Abbreviation', (14, 15): 'Disease', (17, 24): 'Disease', (14, 17): 'Finding'}
+{(1, 8): 'Disease', (12, 13): 'Abbreviation', (14, 17): 'Finding', (17, 24): 'Disease'}
+
+{(0, 2): 'Body_Part', (3, 7): 'Finding', (9, 12): 'Disease'}
+{(0, 2): 'Body_Part', (3, 7): 'Finding', (9, 12): 'Disease'}
+
+{(0, 1): 'Abbreviation', (1, 3): 'Body_Part', (7, 8): 'Body_Part', (9, 10): 'Procedure', (10, 11): 'Abbreviation', (15, 16): 'Abbreviation', (16, 17): 'Finding', (17, 19): 'Procedure', (0, 3): 'Disease', (4, 8): 'Finding', (10, 12): 'Disease'}
+{(0, 1): 'Abbreviation', (0, 3): 'Disease', (1, 2): 'Body_Part', (1, 3): 'Disease', (7, 8): 'Body_Part', (9, 10): 'Abbreviation', (15, 16): 'Disease', (15, 19): 'Finding'}
+
+{(1, 2): 'Disease', (6, 7): 'Abbreviation', (11, 12): 'Abbreviation', (10, 12): 'Body_Part', (8, 12): 'Disease'}
+{(1, 2): 'Disease', (6, 7): 'Abbreviation', (8, 9): 'Disease', (8, 12): 'Disease', (10, 12): 'Body_Part'}
+
+{(1, 4): 'Finding', (12, 13): 'Finding', (16, 17): 'Body_Part', (16, 18): 'Finding'}
+{(1, 4): 'Finding', (16, 17): 'Body_Part', (16, 18): 'Body_Part'}
+
+{(1, 4): 'Medication'}
+{}
+
+{(4, 5): 'Abbreviation', (6, 7): 'Abbreviation'}
+{(4, 5): 'Abbreviation', (6, 7): 'Abbreviation'}
+
+{(0, 3): 'Finding', (4, 5): 'Abbreviation', (10, 11): 'Abbreviation', (14, 16): 'Procedure'}
+{(6, 9): 'Finding', (10, 11): 'Abbreviation', (14, 16): 'Medication'}
+
+{(0, 5): 'Disease', (7, 14): 'Procedure'}
+{(0, 5): 'Disease'}
+
+{(1, 5): 'Disease', (5, 7): 'Finding', (12, 13): 'Abbreviation', (15, 16): 'Finding', (17, 18): 'Finding'}
+{(1, 8): 'Disease', (5, 8): 'Disease', (12, 13): 'Abbreviation', (15, 16): 'Finding', (17, 18): 'Finding'}
+
+{(2, 5): 'Finding'}
+{(2, 5): 'Finding'}
+
+{(0, 1): 'Disease', (2, 3): 'Abbreviation'}
+{(0, 1): 'Disease', (2, 3): 'Abbreviation'}
+
+{(0, 4): 'Disease'}
+{(0, 4): 'Disease'}
+
+{(1, 3): 'Disease', (7, 8): 'Abbreviation', (10, 11): 'Disease', (11, 12): 'Abbreviation', (13, 14): 'Disease', (17, 18): 'Abbreviation', (18, 19): 'Abbreviation', (17, 19): 'Disease'}
+{(1, 3): 'Disease', (7, 8): 'Abbreviation', (10, 11): 'Disease', (11, 12): 'Abbreviation', (13, 14): 'Disease', (17, 18): 'Disease', (17, 20): 'Disease', (18, 19): 'Abbreviation', (18, 20): 'Body_Part'}
+
+{(1, 2): 'Abbreviation', (3, 4): 'Disease'}
+{(1, 2): 'Abbreviation', (3, 4): 'Disease'}
+
+{(2, 3): 'Abbreviation', (4, 5): 'Medication', (17, 19): 'Medication', (21, 22): 'Medication', (23, 24): 'Abbreviation', (26, 27): 'Medication', (28, 29): 'Abbreviation', (31, 32): 'Medication', (33, 34): 'Abbreviation', (36, 37): 'Abbreviation', (38, 39): 'Abbreviation', (41, 42): 'Medication', (43, 44): 'Abbreviation', (45, 46): 'Medication', (47, 48): 'Medication', (54, 56): 'Medication', (57, 58): 'Abbreviation'}
+{(2, 3): 'Abbreviation', (4, 5): 'Medication', (21, 22): 'Medication', (23, 24): 'Abbreviation', (26, 27): 'Medication', (28, 29): 'Abbreviation', (31, 32): 'Medication', (33, 34): 'Abbreviation', (36, 37): 'Abbreviation', (38, 39): 'Abbreviation', (41, 42): 'Medication', (43, 44): 'Abbreviation', (45, 46): 'Medication', (54, 56): 'Medication'}
+
+{(0, 2): 'Procedure'}
+{(0, 2): 'Disease'}
+
+{}
+{(3, 5): 'Disease'}
+
+{(1, 2): 'Finding', (3, 4): 'Finding', (5, 9): 'Finding', (11, 12): 'Body_Part', (25, 29): 'Finding', (29, 30): 'Finding', (31, 33): 'Finding', (33, 34): 'Body_Part', (35, 36): 'Abbreviation', (36, 38): 'Disease', (10, 12): 'Finding', (33, 35): 'Finding'}
+{(1, 2): 'Finding', (3, 4): 'Finding', (5, 9): 'Finding', (10, 12): 'Finding', (25, 26): 'Abbreviation', (26, 27): 'Abbreviation', (27, 29): 'Finding', (29, 30): 'Body_Part', (31, 33): 'Finding', (31, 35): 'Finding', (33, 34): 'Body_Part', (33, 35): 'Finding', (35, 36): 'Abbreviation', (36, 38): 'Disease'}
+
+{(0, 2): 'Body_Part', (0, 5): 'Disease'}
+{(0, 2): 'Body_Part', (2, 5): 'Disease'}
+
+{(2, 3): 'Procedure', (6, 9): 'Medication', (9, 10): 'Abbreviation', (13, 14): 'Abbreviation'}
+{(2, 3): 'Procedure', (6, 9): 'Medication', (9, 10): 'Abbreviation'}
+
+{(3, 4): 'Body_Part', (0, 4): 'Disease'}
+{(0, 4): 'Disease'}
+
+{(1, 3): 'Disease', (7, 8): 'Abbreviation', (9, 11): 'Disease', (18, 23): 'Body_Part', (25, 26): 'Body_Part', (9, 23): 'Finding', (23, 35): 'Disease'}
+{(1, 3): 'Disease', (7, 8): 'Abbreviation', (9, 14): 'Disease', (18, 23): 'Body_Part', (25, 26): 'Body_Part'}
+
+{(0, 1): 'Disease'}
+{(0, 1): 'Disease'}
+
+{(4, 5): 'Body_Part', (2, 8): 'Finding'}
+{(2, 8): 'Finding', (4, 5): 'Body_Part'}
+
+{(10, 11): 'Abbreviation', (16, 20): 'Body_Part', (7, 20): 'Finding'}
+{(10, 11): 'Abbreviation', (10, 15): 'Body_Part'}
+
+{(1, 2): 'Body_Part', (0, 4): 'Finding'}
+{(0, 4): 'Finding', (1, 2): 'Abbreviation', (1, 3): 'Body_Part'}
+
+{(3, 6): 'Finding'}
+{(3, 6): 'Finding'}
+
+{(4, 5): 'Body_Part', (9, 10): 'Abbreviation', (10, 11): 'Body_Part', (0, 9): 'Disease', (9, 12): 'Disease'}
+{(0, 1): 'Disease', (1, 9): 'Disease', (4, 5): 'Body_Part', (9, 10): 'Abbreviation', (9, 12): 'Disease', (10, 11): 'Disease', (10, 12): 'Disease', (16, 18): 'Procedure'}
+
+{(2, 4): 'Body_Part', (0, 4): 'Disease'}
+{(0, 4): 'Disease', (2, 4): 'Body_Part'}
+
+{(0, 2): 'Procedure'}
+{(0, 2): 'Procedure'}
+
+{(0, 1): 'Body_Part', (5, 8): 'Finding', (9, 10): 'Abbreviation', (0, 4): 'Finding', (9, 11): 'Finding'}
+{(0, 1): 'Body_Part', (0, 4): 'Finding', (5, 8): 'Disease', (9, 11): 'Finding'}
+
+{(3, 5): 'Body_Part', (7, 10): 'Disease', (14, 15): 'Abbreviation', (20, 21): 'Body_Part', (23, 24): 'Abbreviation', (1, 7): 'Disease', (16, 21): 'Finding'}
+{(1, 5): 'Disease', (3, 5): 'Body_Part', (6, 7): 'Disease', (7, 8): 'Disease', (14, 15): 'Abbreviation', (16, 21): 'Finding', (23, 24): 'Abbreviation'}
+
+{(2, 4): 'Body_Part', (0, 6): 'Disease'}
+{(0, 6): 'Disease', (2, 4): 'Body_Part', (2, 6): 'Disease'}
+
+{(5, 7): 'Body_Part', (14, 15): 'Abbreviation', (26, 27): 'Procedure', (27, 28): 'Finding', (29, 30): 'Procedure', (34, 35): 'Procedure', (42, 44): 'Disease', (52, 53): 'Abbreviation', (1, 10): 'Disease', (47, 53): 'Body_Part', (42, 53): 'Finding'}
+{(1, 7): 'Disease', (1, 10): 'Disease', (5, 7): 'Body_Part', (14, 15): 'Abbreviation', (27, 28): 'Finding', (29, 30): 'Abbreviation', (34, 35): 'Procedure', (42, 44): 'Procedure'}
+
+{(1, 4): 'Finding', (7, 13): 'Finding'}
+{(1, 4): 'Finding', (7, 13): 'Finding'}
+
+{(0, 7): 'Finding', (7, 9): 'Body_Part', (7, 13): 'Finding'}
+{(2, 7): 'Finding', (2, 11): 'Finding', (11, 13): 'Finding'}
+
+{}
+{}
+
+{(3, 5): 'Body_Part', (13, 16): 'Body_Part', (20, 21): 'Abbreviation', (29, 32): 'Body_Part', (1, 11): 'Disease', (11, 16): 'Disease', (26, 32): 'Disease'}
+{(1, 11): 'Disease', (3, 5): 'Body_Part', (13, 16): 'Body_Part', (20, 21): 'Abbreviation', (26, 32): 'Finding', (29, 32): 'Body_Part'}
+
+{}
+{}
+
+{}
+{}
+
+{(2, 4): 'Body_Part', (0, 10): 'Disease'}
+{(0, 10): 'Disease', (2, 10): 'Disease'}
+
+{(7, 9): 'Disease'}
+{}
+
+{(10, 11): 'Abbreviation', (10, 15): 'Procedure'}
+{(10, 11): 'Abbreviation', (12, 15): 'Medication'}
+
+{(0, 2): 'Disease'}
+{}
+
+{(1, 6): 'Disease', (10, 11): 'Abbreviation', (16, 20): 'Disease', (21, 23): 'Disease'}
+{(1, 6): 'Disease', (10, 11): 'Abbreviation', (16, 20): 'Disease', (21, 23): 'Disease'}
+
+{(1, 2): 'Procedure', (4, 8): 'Finding', (15, 16): 'Procedure'}
+{(15, 16): 'Procedure'}
+
+{(4, 5): 'Procedure'}
+{}
+
+{(0, 5): 'Disease'}
+{(0, 5): 'Disease'}
+
+{(0, 5): 'Disease', (11, 13): 'Body_Part', (17, 18): 'Abbreviation', (21, 23): 'Disease', (27, 30): 'Body_Part', (7, 13): 'Disease', (21, 30): 'Finding'}
+{(1, 5): 'Disease', (7, 13): 'Disease', (11, 13): 'Body_Part', (17, 18): 'Abbreviation', (21, 30): 'Finding', (27, 30): 'Body_Part'}
+
+{(5, 8): 'Body_Part', (0, 8): 'Finding'}
+{(0, 8): 'Finding', (5, 8): 'Body_Part'}
+
+{(0, 3): 'Finding'}
+{(0, 3): 'Finding'}
+
+{(0, 4): 'Finding'}
+{(0, 1): 'Finding'}
+
+{(1, 3): 'Disease'}
+{(1, 3): 'Finding'}
+
+{(4, 5): 'Medication', (6, 8): 'Medication'}
+{(4, 5): 'Medication', (6, 8): 'Finding'}
+
+{(2, 3): 'Abbreviation', (4, 6): 'Body_Part', (7, 9): 'Body_Part', (2, 9): 'Procedure'}
+{(2, 3): 'Abbreviation', (2, 6): 'Procedure', (4, 6): 'Body_Part', (7, 9): 'Finding'}
+
+{(0, 4): 'Disease'}
+{(0, 4): 'Disease'}
+
+{(1, 3): 'Body_Part', (0, 7): 'Disease'}
+{(0, 1): 'Abbreviation', (0, 3): 'Disease'}
+
+{(1, 2): 'Procedure'}
+{(1, 2): 'Disease'}
+
+{(7, 8): 'Procedure'}
+{(7, 8): 'Disease'}
+
+{(0, 1): 'Abbreviation', (2, 4): 'Finding', (4, 5): 'Abbreviation', (5, 6): 'Disease', (10, 13): 'Procedure', (14, 16): 'Disease', (18, 21): 'Finding'}
+{(0, 1): 'Abbreviation', (2, 4): 'Finding', (4, 5): 'Abbreviation', (5, 6): 'Disease', (10, 13): 'Procedure', (14, 16): 'Finding', (14, 20): 'Finding', (18, 19): 'Finding', (18, 20): 'Finding'}
+
+{(1, 3): 'Disease', (7, 8): 'Abbreviation', (9, 11): 'Disease', (11, 12): 'Abbreviation', (18, 19): 'Finding', (21, 22): 'Body_Part', (11, 15): 'Body_Part', (19, 31): 'Disease'}
+{(1, 3): 'Disease', (7, 8): 'Abbreviation', (9, 11): 'Disease', (11, 12): 'Abbreviation', (11, 15): 'Body_Part', (18, 19): 'Finding', (21, 22): 'Body_Part'}
+
+{(1, 3): 'Disease', (7, 8): 'Abbreviation', (9, 11): 'Disease', (13, 15): 'Disease'}
+{(1, 3): 'Disease', (7, 8): 'Abbreviation', (9, 15): 'Disease', (13, 15): 'Disease'}
+
+{(1, 2): 'Body_Part', (0, 2): 'Disease'}
+{(0, 2): 'Disease'}
+
+{(1, 11): 'Disease', (15, 16): 'Abbreviation', (23, 24): 'Family_Member', (37, 38): 'Family_Member', (48, 51): 'Finding', (51, 54): 'Finding', (54, 55): 'Abbreviation'}
+{(1, 11): 'Disease', (15, 16): 'Abbreviation', (23, 24): 'Family_Member', (30, 32): 'Abbreviation', (37, 38): 'Family_Member', (54, 55): 'Abbreviation'}
+
+{(1, 5): 'Disease', (9, 10): 'Abbreviation', (11, 12): 'Abbreviation', (14, 15): 'Disease', (16, 17): 'Abbreviation', (19, 21): 'Disease', (22, 23): 'Abbreviation', (23, 24): 'Abbreviation', (24, 25): 'Disease', (30, 31): 'Abbreviation', (40, 44): 'Disease', (16, 18): 'Disease'}
+{(1, 5): 'Disease', (9, 10): 'Abbreviation', (11, 12): 'Abbreviation', (14, 15): 'Disease', (16, 17): 'Abbreviation', (16, 18): 'Disease', (19, 21): 'Disease', (22, 23): 'Abbreviation', (23, 24): 'Abbreviation', (24, 25): 'Disease', (30, 31): 'Abbreviation', (40, 44): 'Disease'}
+
+{(0, 3): 'Disease', (9, 11): 'Body_Part', (20, 22): 'Body_Part', (4, 14): 'Disease', (15, 25): 'Disease'}
+{(0, 3): 'Disease', (4, 11): 'Disease', (4, 14): 'Disease', (9, 11): 'Body_Part', (15, 22): 'Disease', (15, 25): 'Disease'}
+
+{(1, 7): 'Disease', (8, 10): 'Body_Part', (19, 21): 'Body_Part', (22, 25): 'Finding', (8, 13): 'Finding', (15, 21): 'Finding'}
+{(1, 8): 'Disease', (8, 10): 'Body_Part', (15, 21): 'Finding', (19, 21): 'Body_Part', (22, 25): 'Finding'}
+
+{(1, 8): 'Disease', (10, 13): 'Disease', (18, 19): 'Body_Part', (23, 24): 'Abbreviation', (31, 34): 'Disease', (35, 36): 'Disease', (38, 39): 'Finding', (41, 44): 'Disease', (45, 49): 'Disease', (50, 51): 'Finding', (52, 54): 'Disease', (15, 19): 'Disease'}
+{(1, 8): 'Disease', (10, 13): 'Disease', (15, 19): 'Disease', (23, 24): 'Abbreviation', (31, 34): 'Disease', (41, 44): 'Procedure', (45, 49): 'Disease', (52, 54): 'Finding'}
+
+{(4, 5): 'Abbreviation', (8, 9): 'Abbreviation'}
+{(4, 5): 'Abbreviation', (8, 9): 'Abbreviation'}
+
+{(3, 4): 'Abbreviation'}
+{(3, 4): 'Abbreviation'}
+
+{}
+{}
+
+{(3, 4): 'Finding', (5, 6): 'Finding', (7, 8): 'Finding', (13, 14): 'Abbreviation'}
+{(3, 4): 'Finding', (5, 6): 'Finding', (7, 8): 'Finding', (13, 14): 'Abbreviation'}
+
+{(0, 7): 'Disease'}
+{(0, 7): 'Disease'}
+
+{(1, 3): 'Disease', (4, 6): 'Disease', (7, 9): 'Finding', (10, 13): 'Disease', (14, 17): 'Disease'}
+{(1, 3): 'Finding', (4, 9): 'Disease', (10, 13): 'Disease', (14, 17): 'Disease'}
+
+{(1, 7): 'Disease', (12, 13): 'Abbreviation', (14, 15): 'Abbreviation', (20, 25): 'Finding', (28, 29): 'Abbreviation', (29, 35): 'Disease', (27, 29): 'Body_Part', (25, 29): 'Finding'}
+{(1, 8): 'Disease', (12, 13): 'Abbreviation', (14, 15): 'Abbreviation', (20, 22): 'Finding', (20, 25): 'Finding', (22, 25): 'Finding', (25, 29): 'Finding', (27, 29): 'Body_Part', (29, 36): 'Disease'}
+
+{(1, 2): 'Body_Part', (7, 8): 'Abbreviation', (10, 11): 'Finding', (19, 20): 'Body_Part', (1, 3): 'Disease', (19, 21): 'Finding'}
+{(1, 3): 'Disease', (7, 8): 'Abbreviation', (19, 20): 'Abbreviation'}
+
+{(6, 7): 'Body_Part', (12, 13): 'Abbreviation', (14, 15): 'Procedure', (15, 16): 'Abbreviation', (22, 23): 'Body_Part', (1, 7): 'Disease', (15, 17): 'Finding', (17, 23): 'Disease'}
+{(1, 7): 'Disease', (12, 13): 'Abbreviation', (14, 15): 'Finding', (14, 17): 'Finding', (15, 16): 'Abbreviation', (17, 23): 'Disease', (17, 24): 'Disease'}
+
+{(1, 5): 'Body_Part', (14, 16): 'Body_Part', (22, 23): 'Body_Part', (26, 27): 'Procedure', (31, 33): 'Finding', (0, 5): 'Disease', (12, 16): 'Finding'}
+{(1, 5): 'Body_Part', (14, 16): 'Body_Part', (19, 23): 'Finding', (26, 27): 'Procedure', (31, 33): 'Finding'}
+
+{(4, 6): 'Disease', (11, 12): 'Disease', (11, 16): 'Finding'}
+{(4, 6): 'Finding', (11, 16): 'Disease'}
+
+{}
+{(5, 6): 'Medication'}
+
+{(1, 3): 'Disease', (7, 8): 'Abbreviation'}
+{(1, 3): 'Disease', (7, 8): 'Abbreviation'}
+
+{(0, 2): 'Disease', (3, 4): 'Disease', (6, 7): 'Disease', (8, 9): 'Disease', (10, 11): 'Disease'}
+{(0, 2): 'Disease', (3, 4): 'Disease', (6, 7): 'Disease', (8, 9): 'Disease', (10, 11): 'Disease'}
+
+{(0, 5): 'Disease', (10, 15): 'Procedure', (22, 23): 'Body_Part', (17, 29): 'Disease'}
+{(0, 5): 'Disease', (17, 29): 'Disease', (22, 23): 'Body_Part'}
+
+{(0, 2): 'Body_Part', (4, 6): 'Body_Part', (13, 15): 'Body_Part', (0, 4): 'Finding', (4, 15): 'Finding'}
+{(0, 2): 'Body_Part', (2, 3): 'Disease', (4, 5): 'Body_Part', (13, 15): 'Body_Part'}
+
+{(6, 7): 'Body_Part', (11, 12): 'Body_Part', (19, 20): 'Abbreviation', (36, 37): 'Body_Part', (53, 54): 'Procedure', (61, 63): 'Body_Part', (68, 72): 'Body_Part', (73, 78): 'Finding', (1, 7): 'Disease', (9, 15): 'Disease', (33, 41): 'Finding', (65, 72): 'Finding'}
+{(1, 7): 'Disease', (9, 15): 'Disease', (11, 12): 'Body_Part', (19, 20): 'Abbreviation', (33, 37): 'Finding', (35, 37): 'Body_Part', (53, 54): 'Procedure', (61, 63): 'Body_Part', (65, 78): 'Finding'}
+
+{(0, 5): 'Finding'}
+{}
+
+{(2, 3): 'Body_Part', (0, 11): 'Finding'}
+{(0, 3): 'Disease', (0, 11): 'Finding'}
+
+{(2, 3): 'Body_Part', (4, 5): 'Body_Part', (0, 5): 'Finding'}
+{(0, 5): 'Disease'}
+
+{(0, 4): 'Finding'}
+{(0, 4): 'Disease', (2, 4): 'Body_Part'}
+
+{(0, 4): 'Finding'}
+{(0, 4): 'Finding'}
+
+{(3, 5): 'Body_Part', (0, 8): 'Finding'}
+{(0, 5): 'Finding', (3, 5): 'Body_Part'}
+
+{(3, 4): 'Medication', (4, 5): 'Abbreviation', (6, 7): 'Abbreviation', (18, 21): 'Finding', (27, 28): 'Body_Part', (34, 36): 'Body_Part', (25, 36): 'Finding'}
+{(4, 5): 'Abbreviation', (6, 7): 'Procedure', (20, 21): 'Finding', (25, 36): 'Finding', (27, 28): 'Body_Part', (34, 36): 'Body_Part'}
+
+{}
+{}
+
+{(0, 1): 'Finding', (1, 2): 'Abbreviation', (3, 4): 'Abbreviation', (5, 6): 'Finding', (10, 11): 'Abbreviation', (14, 15): 'Procedure', (15, 16): 'Abbreviation', (16, 17): 'Abbreviation', (18, 19): 'Abbreviation', (24, 25): 'Finding', (1, 3): 'Finding', (3, 5): 'Finding', (10, 13): 'Disease', (15, 17): 'Disease'}
+{(0, 1): 'Finding', (1, 2): 'Finding', (3, 4): 'Abbreviation', (5, 6): 'Finding', (10, 11): 'Abbreviation', (10, 13): 'Disease', (14, 15): 'Procedure', (15, 16): 'Abbreviation', (15, 17): 'Disease', (18, 19): 'Abbreviation', (24, 25): 'Finding'}
+
+{(0, 2): 'Abbreviation', (2, 3): 'Abbreviation', (9, 10): 'Procedure', (11, 12): 'Abbreviation', (19, 20): 'Abbreviation', (20, 21): 'Abbreviation', (2, 6): 'Finding', (11, 14): 'Disease', (19, 21): 'Disease'}
+{(0, 3): 'Abbreviation', (9, 10): 'Procedure', (11, 12): 'Abbreviation', (11, 14): 'Disease', (19, 20): 'Disease', (19, 21): 'Disease'}
+
+{(1, 6): 'Disease', (10, 11): 'Abbreviation', (19, 20): 'Procedure', (22, 23): 'Abbreviation', (24, 25): 'Abbreviation', (31, 32): 'Disease', (40, 41): 'Procedure', (42, 43): 'Abbreviation', (43, 44): 'Finding', (44, 45): 'Procedure', (49, 50): 'Procedure', (52, 57): 'Disease'}
+{(1, 6): 'Disease', (10, 11): 'Abbreviation', (19, 20): 'Abbreviation', (22, 23): 'Abbreviation', (24, 25): 'Abbreviation', (31, 32): 'Disease', (42, 43): 'Abbreviation', (43, 44): 'Finding', (49, 50): 'Procedure', (52, 57): 'Disease'}
+
+{(1, 6): 'Disease', (10, 11): 'Abbreviation', (13, 14): 'Finding', (15, 17): 'Disease', (17, 22): 'Disease'}
+{(1, 6): 'Disease', (10, 11): 'Abbreviation', (13, 14): 'Finding', (15, 17): 'Disease', (17, 22): 'Disease'}
+
+{(0, 6): 'Finding'}
+{(0, 6): 'Finding'}
+
+{(4, 5): 'Abbreviation', (7, 8): 'Abbreviation', (0, 8): 'Finding'}
+{(4, 5): 'Abbreviation', (4, 8): 'Finding'}
+
+{(2, 6): 'Body_Part', (7, 10): 'Body_Part', (10, 17): 'Finding', (0, 10): 'Finding'}
+{(0, 2): 'Disease', (2, 6): 'Body_Part', (7, 10): 'Body_Part'}
+
+{(2, 3): 'Abbreviation', (3, 9): 'Finding', (14, 15): 'Abbreviation', (15, 20): 'Finding'}
+{(2, 3): 'Abbreviation', (14, 15): 'Abbreviation'}
+
+{(0, 4): 'Body_Part', (5, 7): 'Disease', (12, 17): 'Finding', (5, 10): 'Finding'}
+{(0, 4): 'Body_Part', (5, 7): 'Disease', (8, 10): 'Finding', (11, 17): 'Finding'}
+
+{(6, 9): 'Body_Part', (0, 13): 'Disease'}
+{(6, 8): 'Body_Part', (6, 9): 'Body_Part'}
+
+{(1, 8): 'Disease', (18, 19): 'Disease', (22, 23): 'Finding', (33, 43): 'Finding'}
+{(1, 8): 'Disease', (18, 19): 'Disease', (22, 23): 'Finding', (33, 43): 'Finding'}
+
+{(1, 3): 'Disease', (7, 8): 'Abbreviation', (9, 10): 'Abbreviation', (10, 11): 'Finding', (12, 15): 'Finding', (16, 17): 'Body_Part', (18, 19): 'Body_Part'}
+{(1, 3): 'Disease', (7, 8): 'Abbreviation', (9, 10): 'Abbreviation', (10, 11): 'Finding', (12, 19): 'Finding', (16, 17): 'Body_Part'}
+
+{(0, 2): 'Disease'}
+{(0, 2): 'Disease'}
+
+{(2, 4): 'Disease'}
+{(2, 4): 'Disease'}
+
+{(1, 2): 'Procedure', (6, 7): 'Abbreviation', (6, 8): 'Finding'}
+{(1, 2): 'Procedure', (6, 7): 'Abbreviation', (6, 8): 'Finding'}
+
+{}
+{(0, 7): 'Finding', (2, 7): 'Finding'}
+
+{}
+{}
+
+{(3, 4): 'Body_Part', (6, 7): 'Abbreviation', (7, 8): 'Abbreviation', (9, 14): 'Disease', (18, 19): 'Body_Part', (1, 4): 'Disease', (15, 19): 'Disease'}
+{(1, 6): 'Finding', (3, 6): 'Body_Part', (6, 8): 'Finding', (9, 13): 'Disease', (11, 13): 'Body_Part', (13, 14): 'Disease', (15, 19): 'Disease'}
+
+{(1, 4): 'Disease', (8, 9): 'Abbreviation', (10, 13): 'Disease', (14, 16): 'Finding', (17, 19): 'Finding', (21, 23): 'Procedure'}
+{(1, 4): 'Disease', (8, 9): 'Abbreviation', (10, 13): 'Disease', (14, 16): 'Finding', (17, 19): 'Finding', (21, 23): 'Procedure'}
+
+{(0, 2): 'Disease'}
+{(0, 2): 'Disease'}
+
+{(7, 8): 'Disease', (10, 13): 'Disease', (14, 17): 'Disease', (18, 20): 'Body_Part', (21, 34): 'Body_Part'}
+{(7, 8): 'Disease', (7, 9): 'Disease', (10, 13): 'Disease', (14, 17): 'Disease', (18, 20): 'Body_Part'}
+
+{(1, 2): 'Body_Part', (9, 10): 'Abbreviation', (12, 13): 'Abbreviation', (18, 20): 'Body_Part', (20, 23): 'Body_Part', (24, 27): 'Body_Part', (28, 31): 'Body_Part', (1, 5): 'Disease', (12, 14): 'Procedure', (18, 32): 'Finding'}
+{(1, 2): 'Body_Part', (1, 5): 'Disease', (9, 10): 'Abbreviation', (12, 13): 'Abbreviation', (12, 14): 'Procedure', (18, 31): 'Body_Part'}
+
+{(0, 1): 'Body_Part', (0, 4): 'Disease'}
+{(0, 1): 'Body_Part', (0, 4): 'Disease'}
+
+{(0, 5): 'Disease', (8, 10): 'Procedure'}
+{(0, 5): 'Disease'}
+
+{(2, 3): 'Abbreviation'}
+{(2, 3): 'Abbreviation'}
+
+{(4, 5): 'Abbreviation'}
+{(0, 1): 'Family_Member', (4, 5): 'Abbreviation'}
+
+{(1, 3): 'Disease'}
+{(1, 3): 'Disease'}
+
+{(1, 2): 'Abbreviation'}
+{(1, 2): 'Abbreviation'}
+
+{}
+{}
+
+{(4, 5): 'Medication', (6, 7): 'Medication'}
+{(4, 5): 'Medication', (6, 7): 'Medication'}
+
+{(0, 1): 'Finding', (2, 3): 'Finding', (5, 6): 'Procedure', (6, 7): 'Finding', (8, 9): 'Disease', (14, 15): 'Disease'}
+{(0, 1): 'Finding', (2, 3): 'Finding', (5, 8): 'Finding', (8, 9): 'Disease', (8, 11): 'Disease', (14, 15): 'Disease'}
+
+{(1, 2): 'Disease', (6, 7): 'Abbreviation', (10, 12): 'Finding', (14, 15): 'Finding', (19, 22): 'Procedure', (23, 26): 'Finding', (28, 30): 'Disease', (31, 35): 'Body_Part', (38, 39): 'Procedure'}
+{(1, 2): 'Disease', (6, 7): 'Abbreviation', (10, 12): 'Finding', (14, 15): 'Finding', (23, 26): 'Finding', (28, 30): 'Disease', (31, 35): 'Body_Part', (38, 39): 'Procedure'}
+
+{(4, 6): 'Disease', (8, 10): 'Procedure', (13, 14): 'Abbreviation'}
+{(4, 5): 'Disease', (13, 14): 'Abbreviation'}
+
+{(5, 6): 'Abbreviation'}
+{(5, 6): 'Abbreviation'}
+
+{}
+{}
+
+{(0, 2): 'Disease', (2, 3): 'Abbreviation', (6, 7): 'Procedure', (8, 9): 'Disease', (2, 5): 'Body_Part', (8, 11): 'Finding'}
+{(0, 2): 'Disease', (2, 3): 'Abbreviation', (2, 5): 'Body_Part', (8, 11): 'Finding'}
+
+{(0, 1): 'Abbreviation', (3, 5): 'Disease', (6, 7): 'Procedure', (0, 3): 'Body_Part'}
+{(0, 1): 'Abbreviation', (0, 3): 'Body_Part', (3, 7): 'Finding'}
+
+{(1, 5): 'Disease', (9, 10): 'Abbreviation', (17, 18): 'Family_Member', (32, 34): 'Body_Part', (30, 34): 'Finding'}
+{(1, 5): 'Disease', (9, 10): 'Abbreviation', (17, 18): 'Family_Member', (32, 34): 'Body_Part'}
+
+{(1, 6): 'Finding'}
+{}
+
+{}
+{}
+
+{(1, 5): 'Disease', (9, 10): 'Abbreviation', (22, 23): 'Finding', (30, 32): 'Finding', (42, 45): 'Finding'}
+{(1, 5): 'Disease', (9, 10): 'Abbreviation', (30, 31): 'Finding', (30, 32): 'Finding', (42, 45): 'Body_Part'}
+
+{(5, 7): 'Body_Part', (10, 13): 'Finding', (16, 18): 'Finding'}
+{(5, 7): 'Body_Part', (10, 13): 'Finding', (16, 18): 'Disease'}
+
+{(6, 10): 'Disease'}
+{(6, 10): 'Disease'}
+
+{(1, 2): 'Body_Part', (10, 11): 'Abbreviation', (14, 15): 'Finding', (25, 26): 'Body_Part', (1, 6): 'Disease', (25, 27): 'Finding'}
+{(1, 2): 'Body_Part', (1, 6): 'Disease', (10, 11): 'Abbreviation', (14, 15): 'Finding', (25, 26): 'Body_Part', (25, 27): 'Disease'}
+
+{(1, 2): 'Abbreviation', (3, 4): 'Abbreviation', (5, 6): 'Abbreviation', (7, 8): 'Abbreviation', (9, 10): 'Abbreviation', (11, 12): 'Abbreviation', (13, 14): 'Abbreviation', (14, 15): 'Abbreviation', (22, 23): 'Abbreviation'}
+{(1, 4): 'Abbreviation', (5, 6): 'Abbreviation', (7, 8): 'Abbreviation', (7, 9): 'Abbreviation', (11, 12): 'Abbreviation', (13, 14): 'Abbreviation'}
+
+{(0, 1): 'Body_Part', (0, 5): 'Disease'}
+{(0, 5): 'Disease'}
+
+{(1, 9): 'Disease', (13, 14): 'Abbreviation', (19, 20): 'Abbreviation', (23, 24): 'Abbreviation', (19, 22): 'Disease'}
+{(1, 9): 'Disease', (13, 14): 'Abbreviation', (19, 20): 'Abbreviation', (23, 24): 'Abbreviation'}
+
+{(2, 3): 'Abbreviation', (3, 4): 'Body_Part', (11, 14): 'Procedure', (1, 3): 'Finding', (3, 7): 'Finding'}
+{(1, 3): 'Disease', (3, 4): 'Abbreviation', (3, 7): 'Body_Part'}
+
+{(1, 11): 'Disease', (15, 16): 'Abbreviation', (30, 31): 'Procedure', (33, 34): 'Abbreviation', (35, 36): 'Abbreviation'}
+{(1, 11): 'Disease', (15, 16): 'Abbreviation', (17, 18): 'Finding', (30, 31): 'Procedure', (33, 34): 'Abbreviation', (35, 36): 'Abbreviation'}
+
+{(0, 1): 'Abbreviation', (2, 3): 'Abbreviation', (3, 4): 'Abbreviation', (4, 5): 'Abbreviation', (5, 7): 'Procedure', (12, 13): 'Disease', (15, 17): 'Procedure', (0, 2): 'Disease', (0, 5): 'Procedure', (7, 14): 'Finding'}
+{(0, 1): 'Abbreviation', (0, 2): 'Disease', (2, 3): 'Abbreviation', (3, 4): 'Abbreviation', (4, 5): 'Procedure', (4, 6): 'Procedure', (9, 14): 'Disease', (12, 14): 'Disease', (15, 17): 'Procedure'}
+
+{(4, 7): 'Disease'}
+{(4, 7): 'Disease'}
+
+{(4, 6): 'Disease'}
+{(4, 6): 'Disease'}
+
+{(4, 5): 'Abbreviation'}
+{(4, 5): 'Abbreviation'}
+
+{(0, 5): 'Disease'}
+{(0, 5): 'Finding'}
+
+{(0, 1): 'Disease', (6, 7): 'Disease', (15, 19): 'Finding'}
+{(0, 1): 'Finding', (6, 7): 'Medication', (15, 19): 'Finding'}
+
+{(4, 7): 'Disease', (11, 12): 'Abbreviation', (15, 16): 'Abbreviation', (18, 21): 'Disease'}
+{(4, 7): 'Disease', (11, 12): 'Abbreviation', (15, 16): 'Abbreviation', (19, 21): 'Finding'}
+
+{(4, 5): 'Abbreviation', (18, 20): 'Finding', (21, 22): 'Abbreviation', (23, 24): 'Abbreviation', (33, 39): 'Finding', (49, 50): 'Procedure', (51, 52): 'Abbreviation', (55, 58): 'Procedure', (59, 61): 'Finding', (51, 54): 'Procedure'}
+{(4, 5): 'Abbreviation', (18, 22): 'Finding', (23, 24): 'Abbreviation', (49, 50): 'Procedure', (51, 52): 'Abbreviation', (51, 54): 'Procedure', (57, 61): 'Finding'}
+
+{(2, 6): 'Finding', (12, 13): 'Finding', (18, 20): 'Finding', (32, 33): 'Abbreviation'}
+{(5, 6): 'Finding', (18, 19): 'Procedure', (18, 20): 'Finding', (23, 25): 'Finding', (32, 33): 'Abbreviation'}
+
+{(0, 1): 'Finding', (5, 8): 'Finding', (9, 11): 'Finding'}
+{(0, 4): 'Finding', (6, 7): 'Body_Part', (6, 11): 'Finding', (9, 11): 'Finding'}
+
+{(1, 2): 'Abbreviation', (2, 3): 'Body_Part', (6, 8): 'Disease', (1, 3): 'Procedure'}
+{(1, 2): 'Abbreviation', (1, 3): 'Procedure', (6, 8): 'Disease'}
+
+{(1, 4): 'Disease', (8, 9): 'Abbreviation', (10, 11): 'Abbreviation', (12, 16): 'Body_Part', (17, 19): 'Disease', (21, 23): 'Body_Part', (17, 23): 'Finding'}
+{(1, 4): 'Disease', (8, 9): 'Abbreviation', (10, 11): 'Abbreviation', (12, 16): 'Body_Part', (17, 23): 'Finding', (21, 23): 'Body_Part'}
+
+{(3, 4): 'Body_Part', (0, 4): 'Disease'}
+{(0, 4): 'Disease'}
+
+{(0, 1): 'Disease', (1, 7): 'Disease', (9, 10): 'Abbreviation', (14, 15): 'Disease', (16, 17): 'Disease', (25, 27): 'Procedure'}
+{(0, 1): 'Disease', (1, 7): 'Disease', (9, 10): 'Abbreviation', (14, 15): 'Disease', (16, 17): 'Disease', (25, 27): 'Procedure'}
+
+{(1, 3): 'Disease', (7, 8): 'Abbreviation', (11, 16): 'Procedure'}
+{(1, 3): 'Disease', (7, 8): 'Abbreviation', (11, 16): 'Procedure'}
+
+{(0, 7): 'Body_Part', (13, 14): 'Procedure', (18, 19): 'Procedure', (0, 11): 'Finding'}
+{(0, 7): 'Body_Part', (8, 11): 'Finding', (13, 14): 'Procedure', (18, 19): 'Procedure'}
+
+{(5, 6): 'Body_Part', (0, 12): 'Disease'}
+{(0, 12): 'Disease', (5, 6): 'Body_Part'}
+
+{(1, 3): 'Disease', (7, 8): 'Abbreviation', (9, 14): 'Disease', (19, 20): 'Body_Part', (14, 26): 'Disease'}
+{(1, 3): 'Disease', (7, 8): 'Abbreviation', (9, 14): 'Disease', (14, 26): 'Disease', (19, 20): 'Body_Part'}
+
+{(2, 3): 'Body_Part', (4, 9): 'Disease', (18, 19): 'Body_Part', (0, 3): 'Disease', (10, 19): 'Procedure'}
+{(0, 3): 'Disease', (4, 9): 'Disease'}
+
+{(3, 4): 'Procedure'}
+{}
+
+{(4, 7): 'Procedure', (7, 10): 'Body_Part', (10, 11): 'Finding'}
+{(7, 10): 'Body_Part', (10, 11): 'Finding'}
+
+{(0, 1): 'Abbreviation', (1, 2): 'Body_Part', (1, 7): 'Finding'}
+{(0, 1): 'Abbreviation', (0, 3): 'Abbreviation', (1, 2): 'Abbreviation', (1, 3): 'Body_Part', (4, 7): 'Finding'}
+
+{(5, 6): 'Body_Part', (15, 32): 'Body_Part', (0, 6): 'Disease', (11, 32): 'Finding'}
+{(5, 6): 'Body_Part', (15, 23): 'Body_Part'}
+
+{(1, 2): 'Body_Part', (11, 12): 'Abbreviation', (21, 24): 'Finding', (26, 30): 'Finding', (32, 38): 'Disease', (43, 45): 'Medication', (48, 49): 'Body_Part', (1, 7): 'Disease'}
+{(1, 2): 'Body_Part', (1, 7): 'Disease', (11, 12): 'Abbreviation', (21, 24): 'Disease', (34, 35): 'Abbreviation', (43, 45): 'Medication', (43, 49): 'Medication'}
+
+{(0, 1): 'Body_Part', (0, 6): 'Disease'}
+{(0, 1): 'Body_Part', (0, 6): 'Disease'}
+
+{(1, 3): 'Disease', (7, 8): 'Abbreviation', (13, 14): 'Body_Part', (15, 17): 'Body_Part', (20, 21): 'Finding', (11, 17): 'Finding'}
+{(1, 3): 'Disease', (7, 8): 'Abbreviation', (11, 17): 'Finding', (13, 14): 'Body_Part', (15, 17): 'Body_Part', (20, 21): 'Finding'}
+
+{(1, 2): 'Finding'}
+{(1, 2): 'Finding'}
+
+{(1, 2): 'Finding'}
+{(1, 2): 'Disease'}
+
+{(0, 1): 'Procedure', (2, 3): 'Body_Part', (2, 9): 'Finding'}
+{(0, 1): 'Procedure', (2, 3): 'Abbreviation', (2, 9): 'Finding'}
+
+{(0, 2): 'Disease'}
+{(0, 2): 'Disease'}
+
+{(0, 1): 'Disease', (2, 10): 'Disease', (10, 12): 'Disease', (16, 21): 'Disease'}
+{(0, 1): 'Disease', (4, 6): 'Body_Part', (10, 12): 'Disease', (16, 21): 'Disease'}
+
+{(0, 2): 'Disease', (5, 8): 'Disease', (8, 12): 'Disease', (13, 15): 'Disease', (15, 20): 'Disease', (21, 25): 'Disease', (25, 26): 'Disease', (27, 28): 'Disease', (29, 31): 'Disease'}
+{(5, 8): 'Disease', (8, 12): 'Finding', (15, 20): 'Finding', (18, 20): 'Finding', (21, 25): 'Disease', (25, 26): 'Body_Part', (27, 28): 'Disease', (29, 31): 'Disease'}
+
+{(0, 1): 'Abbreviation', (14, 15): 'Abbreviation', (20, 21): 'Body_Part', (25, 27): 'Finding', (35, 36): 'Abbreviation', (12, 15): 'Body_Part', (17, 21): 'Finding', (11, 15): 'Procedure'}
+{(0, 1): 'Abbreviation', (3, 4): 'Procedure', (13, 15): 'Procedure', (16, 21): 'Disease', (25, 27): 'Finding', (35, 36): 'Abbreviation'}
+
+{(0, 1): 'Abbreviation'}
+{(0, 1): 'Abbreviation'}
+
+{(0, 1): 'Abbreviation', (2, 5): 'Abbreviation', (5, 6): 'Disease', (14, 16): 'Body_Part', (17, 21): 'Finding', (0, 2): 'Disease', (7, 16): 'Finding'}
+{(0, 1): 'Abbreviation', (0, 2): 'Disease', (14, 16): 'Body_Part'}
+
+{(0, 5): 'Disease', (6, 8): 'Finding', (9, 10): 'Finding', (11, 12): 'Abbreviation', (14, 16): 'Disease', (17, 18): 'Disease', (20, 24): 'Disease', (25, 28): 'Disease', (11, 13): 'Disease'}
+{(0, 5): 'Disease', (6, 8): 'Finding', (9, 10): 'Disease', (11, 12): 'Abbreviation', (11, 13): 'Disease', (14, 16): 'Disease', (17, 18): 'Abbreviation', (17, 19): 'Finding', (20, 24): 'Disease', (25, 28): 'Disease'}
+
+{(4, 5): 'Body_Part', (8, 10): 'Finding', (11, 15): 'Finding', (15, 16): 'Body_Part', (4, 6): 'Finding', (15, 19): 'Finding'}
+{(4, 5): 'Body_Part', (4, 6): 'Finding', (8, 10): 'Finding', (11, 12): 'Disease', (13, 15): 'Body_Part', (15, 16): 'Body_Part', (15, 19): 'Finding'}
+
+{(0, 1): 'Disease', (1, 10): 'Disease', (12, 17): 'Body_Part', (19, 20): 'Abbreviation', (10, 17): 'Finding'}
+{(4, 6): 'Body_Part', (12, 17): 'Body_Part', (19, 20): 'Abbreviation'}
+
+{(9, 12): 'Finding'}
+{(9, 12): 'Finding'}
+
+{(1, 3): 'Disease', (7, 8): 'Abbreviation', (9, 10): 'Abbreviation', (12, 13): 'Abbreviation', (14, 15): 'Abbreviation', (10, 15): 'Disease'}
+{(1, 3): 'Disease', (7, 8): 'Abbreviation', (9, 10): 'Abbreviation', (10, 15): 'Disease', (12, 13): 'Abbreviation'}
+
+{(4, 5): 'Abbreviation', (6, 7): 'Abbreviation', (0, 7): 'Finding'}
+{(2, 7): 'Finding', (4, 5): 'Abbreviation'}
+
+{(7, 8): 'Abbreviation', (25, 26): 'Body_Part', (20, 32): 'Disease'}
+{(5, 6): 'Disease', (7, 8): 'Abbreviation', (13, 20): 'Finding', (20, 32): 'Disease', (25, 26): 'Body_Part'}
+
+{(2, 4): 'Body_Part', (8, 9): 'Disease', (4, 9): 'Finding'}
+{(2, 4): 'Body_Part', (2, 9): 'Finding'}
+
+{(0, 4): 'Body_Part', (6, 7): 'Disease', (7, 9): 'Body_Part', (12, 14): 'Body_Part', (4, 15): 'Finding'}
+{(0, 4): 'Body_Part', (7, 9): 'Body_Part', (7, 11): 'Finding', (12, 14): 'Body_Part', (12, 15): 'Finding'}
+
+{(5, 6): 'Body_Part', (10, 13): 'Finding', (13, 17): 'Finding', (5, 10): 'Finding'}
+{(5, 6): 'Body_Part', (10, 14): 'Finding', (14, 17): 'Finding'}
+
+{(0, 3): 'Disease', (4, 18): 'Disease', (19, 33): 'Disease'}
+{(0, 3): 'Disease', (4, 8): 'Disease', (19, 20): 'Body_Part', (25, 33): 'Disease'}
+
+{(0, 3): 'Finding', (4, 5): 'Abbreviation', (10, 11): 'Finding', (12, 14): 'Finding', (4, 10): 'Body_Part'}
+{(0, 3): 'Disease', (4, 5): 'Abbreviation', (4, 10): 'Body_Part', (10, 11): 'Procedure', (12, 14): 'Finding'}
+
+{}
+{}
+
+{(1, 2): 'Abbreviation'}
+{(1, 2): 'Abbreviation'}
+
+{(5, 8): 'Body_Part', (9, 10): 'Finding', (12, 13): 'Medication', (14, 15): 'Abbreviation', (16, 18): 'Abbreviation', (26, 27): 'Procedure', (2, 8): 'Finding'}
+{(2, 4): 'Finding', (2, 8): 'Finding', (5, 6): 'Abbreviation', (5, 8): 'Body_Part', (9, 10): 'Finding', (12, 13): 'Medication', (14, 15): 'Abbreviation', (16, 18): 'Abbreviation', (26, 27): 'Procedure'}
+
+{(1, 4): 'Procedure'}
+{(1, 4): 'Procedure'}
+
+{(1, 9): 'Disease', (10, 18): 'Disease', (27, 28): 'Body_Part', (30, 32): 'Finding', (25, 28): 'Finding'}
+{(1, 8): 'Disease', (1, 9): 'Disease', (10, 18): 'Disease', (25, 28): 'Finding', (30, 32): 'Finding', (36, 38): 'Procedure'}
+
+{(11, 13): 'Body_Part', (17, 18): 'Abbreviation', (21, 22): 'Finding', (7, 14): 'Finding', (17, 20): 'Procedure'}
+{(7, 13): 'Finding', (7, 14): 'Finding', (11, 13): 'Body_Part', (17, 18): 'Abbreviation', (17, 20): 'Procedure', (21, 22): 'Finding'}
+
+{(1, 4): 'Disease', (8, 9): 'Abbreviation', (10, 12): 'Disease', (12, 13): 'Abbreviation', (21, 22): 'Procedure', (25, 26): 'Body_Part', (12, 14): 'Body_Part', (22, 26): 'Disease'}
+{(1, 4): 'Disease', (8, 9): 'Abbreviation', (10, 12): 'Disease', (12, 13): 'Abbreviation', (12, 14): 'Body_Part', (22, 26): 'Disease'}
+
+{(1, 3): 'Disease', (7, 8): 'Abbreviation', (13, 15): 'Disease', (18, 19): 'Abbreviation'}
+{(1, 3): 'Disease', (7, 8): 'Abbreviation', (13, 15): 'Disease', (18, 19): 'Disease'}
+
+{(5, 7): 'Procedure'}
+{}
+
+{(4, 5): 'Abbreviation', (14, 21): 'Body_Part', (4, 12): 'Body_Part', (2, 21): 'Finding'}
+{(4, 5): 'Abbreviation', (4, 12): 'Body_Part', (14, 21): 'Body_Part'}
+
+{(0, 1): 'Disease', (3, 5): 'Body_Part', (9, 10): 'Disease', (10, 11): 'Procedure', (11, 16): 'Finding', (16, 17): 'Abbreviation', (1, 9): 'Disease'}
+{(0, 1): 'Disease', (3, 5): 'Body_Part', (9, 10): 'Disease', (10, 11): 'Procedure', (11, 12): 'Finding', (11, 16): 'Finding', (13, 16): 'Body_Part', (16, 17): 'Abbreviation'}
+
+{(1, 6): 'Disease', (10, 11): 'Abbreviation', (14, 16): 'Disease', (20, 21): 'Abbreviation', (25, 26): 'Abbreviation', (17, 21): 'Finding', (22, 26): 'Finding'}
+{(1, 6): 'Disease', (10, 11): 'Abbreviation', (14, 16): 'Finding', (20, 21): 'Abbreviation', (25, 26): 'Abbreviation'}
+
+{(0, 5): 'Finding'}
+{(0, 5): 'Finding'}
+
+{(0, 5): 'Disease'}
+{(0, 5): 'Disease'}
+
+{(2, 3): 'Body_Part', (11, 12): 'Body_Part', (16, 17): 'Abbreviation', (18, 19): 'Disease', (19, 20): 'Abbreviation', (36, 37): 'Body_Part', (1, 4): 'Disease', (6, 12): 'Disease', (19, 27): 'Body_Part', (27, 37): 'Disease'}
+{(1, 4): 'Disease', (2, 3): 'Body_Part', (2, 4): 'Disease', (6, 12): 'Disease', (16, 17): 'Abbreviation', (18, 19): 'Disease', (19, 20): 'Abbreviation', (19, 27): 'Body_Part', (27, 37): 'Disease'}
+
+{(0, 3): 'Disease', (4, 10): 'Finding', (12, 15): 'Medication'}
+{(0, 3): 'Disease', (13, 14): 'Abbreviation', (14, 15): 'Medication'}
+
+{(0, 1): 'Disease'}
+{}
+
+{(0, 4): 'Body_Part', (5, 7): 'Finding', (8, 12): 'Body_Part', (13, 18): 'Finding'}
+{(0, 4): 'Body_Part', (0, 7): 'Finding', (8, 12): 'Body_Part'}
+
+{(3, 6): 'Finding', (10, 11): 'Abbreviation', (12, 13): 'Abbreviation', (19, 22): 'Finding', (29, 30): 'Medication', (32, 33): 'Procedure', (37, 38): 'Abbreviation', (39, 40): 'Abbreviation', (40, 41): 'Body_Part', (33, 41): 'Finding'}
+{(3, 6): 'Disease', (10, 11): 'Abbreviation', (12, 13): 'Abbreviation', (19, 21): 'Body_Part', (32, 33): 'Procedure', (39, 40): 'Abbreviation', (39, 41): 'Body_Part'}
+
+{(1, 2): 'Finding', (7, 10): 'Body_Part', (13, 15): 'Body_Part', (5, 15): 'Finding'}
+{(1, 5): 'Disease', (7, 10): 'Body_Part', (13, 15): 'Body_Part'}
+
+{(3, 4): 'Finding'}
+{(3, 4): 'Finding'}
+
+{(0, 1): 'Procedure', (5, 6): 'Finding'}
+{(0, 1): 'Procedure', (5, 6): 'Finding'}
+
+{(0, 6): 'Disease', (6, 7): 'Abbreviation'}
+{(0, 1): 'Disease', (0, 6): 'Disease', (6, 7): 'Abbreviation'}
+
+{(7, 9): 'Disease'}
+{(0, 1): 'Disease', (0, 7): 'Disease', (0, 9): 'Disease', (7, 9): 'Disease'}
+
+{(3, 5): 'Finding', (11, 12): 'Abbreviation', (11, 20): 'Body_Part', (6, 20): 'Finding'}
+{(3, 5): 'Disease', (11, 12): 'Abbreviation', (11, 20): 'Body_Part'}
+
+{(2, 6): 'Finding'}
+{(2, 6): 'Finding'}
+
+{(0, 1): 'Disease', (3, 6): 'Body_Part', (0, 6): 'Finding'}
+{(0, 6): 'Finding', (3, 6): 'Body_Part'}
+
+{(2, 4): 'Abbreviation', (14, 15): 'Body_Part', (0, 10): 'Finding', (11, 18): 'Finding'}
+{(2, 3): 'Abbreviation', (2, 5): 'Abbreviation', (11, 18): 'Finding', (14, 15): 'Body_Part', (14, 18): 'Body_Part'}
+
+{(0, 2): 'Disease', (6, 7): 'Finding', (10, 11): 'Abbreviation', (17, 18): 'Abbreviation'}
+{(0, 1): 'Finding', (0, 2): 'Finding', (6, 7): 'Finding', (17, 18): 'Abbreviation'}
+
+{(0, 1): 'Disease'}
+{(0, 1): 'Disease'}
+
+{(1, 7): 'Disease', (11, 12): 'Abbreviation', (25, 26): 'Body_Part', (42, 43): 'Body_Part', (21, 39): 'Finding', (40, 44): 'Finding'}
+{(1, 7): 'Disease', (11, 12): 'Abbreviation', (21, 27): 'Finding', (25, 26): 'Body_Part', (28, 29): 'Finding', (30, 32): 'Finding', (34, 39): 'Finding', (40, 44): 'Finding', (42, 43): 'Body_Part', (42, 44): 'Body_Part'}
+
+{(4, 5): 'Medication'}
+{(4, 5): 'Medication'}
+
+{(3, 4): 'Procedure'}
+{(3, 4): 'Procedure'}
+
+{(0, 1): 'Abbreviation', (1, 2): 'Abbreviation', (3, 4): 'Disease', (4, 9): 'Disease', (9, 15): 'Finding', (19, 22): 'Finding', (1, 3): 'Finding'}
+{(0, 1): 'Abbreviation', (1, 2): 'Abbreviation', (1, 3): 'Finding', (3, 4): 'Disease', (4, 9): 'Disease', (11, 15): 'Finding', (19, 22): 'Procedure'}
+
+{(1, 8): 'Disease', (12, 13): 'Abbreviation', (14, 15): 'Abbreviation', (23, 24): 'Family_Member', (26, 27): 'Abbreviation', (28, 29): 'Finding'}
+{(1, 8): 'Disease', (12, 13): 'Abbreviation', (14, 15): 'Abbreviation', (23, 24): 'Family_Member', (26, 27): 'Finding', (28, 29): 'Finding'}
+
+{(0, 1): 'Procedure', (3, 4): 'Procedure', (4, 5): 'Abbreviation', (14, 18): 'Finding', (18, 19): 'Abbreviation', (20, 23): 'Abbreviation', (23, 24): 'Finding', (24, 25): 'Finding', (25, 26): 'Finding', (26, 27): 'Abbreviation', (28, 29): 'Abbreviation', (29, 30): 'Abbreviation', (36, 45): 'Finding', (28, 30): 'Procedure'}
+{(0, 1): 'Procedure', (3, 4): 'Procedure', (4, 5): 'Abbreviation', (16, 18): 'Finding', (18, 19): 'Finding', (20, 23): 'Abbreviation', (23, 24): 'Finding', (24, 25): 'Finding', (25, 26): 'Finding', (26, 27): 'Abbreviation', (28, 29): 'Abbreviation', (28, 30): 'Procedure', (36, 45): 'Finding'}
+
+{(2, 9): 'Disease'}
+{(2, 9): 'Disease'}
+
+{(1, 3): 'Disease', (7, 8): 'Abbreviation', (12, 17): 'Body_Part', (18, 19): 'Abbreviation', (27, 28): 'Body_Part', (9, 19): 'Finding', (22, 34): 'Disease'}
+{(1, 3): 'Disease', (7, 8): 'Abbreviation', (9, 17): 'Finding', (18, 19): 'Disease', (22, 34): 'Disease', (27, 28): 'Body_Part'}
+
+{(0, 3): 'Disease', (5, 6): 'Abbreviation', (13, 14): 'Body_Part', (16, 18): 'Body_Part', (20, 21): 'Abbreviation', (28, 29): 'Body_Part', (31, 33): 'Body_Part', (4, 18): 'Disease', (19, 33): 'Disease'}
+{(0, 3): 'Disease', (5, 6): 'Abbreviation', (13, 14): 'Body_Part', (16, 18): 'Body_Part', (20, 21): 'Abbreviation', (28, 29): 'Body_Part', (31, 33): 'Body_Part'}
+
+{(1, 3): 'Finding', (5, 12): 'Disease', (17, 18): 'Abbreviation', (26, 28): 'Body_Part', (33, 35): 'Disease', (36, 38): 'Disease', (40, 41): 'Body_Part', (23, 28): 'Disease'}
+{(1, 3): 'Finding', (5, 13): 'Disease', (17, 18): 'Abbreviation', (36, 38): 'Disease', (40, 41): 'Body_Part'}
+
+{(0, 7): 'Finding', (12, 13): 'Medication', (14, 15): 'Medication', (16, 23): 'Disease'}
+{(1, 3): 'Finding', (1, 7): 'Finding', (3, 7): 'Finding', (16, 24): 'Disease'}
+
+{(0, 5): 'Disease', (6, 11): 'Finding'}
+{(0, 5): 'Disease', (6, 11): 'Finding'}
+
+{(1, 3): 'Disease', (7, 14): 'Body_Part', (18, 19): 'Abbreviation', (26, 33): 'Body_Part', (39, 41): 'Disease', (46, 47): 'Body_Part', (49, 50): 'Finding', (52, 54): 'Finding', (63, 64): 'Body_Part', (66, 70): 'Finding', (74, 77): 'Procedure', (81, 82): 'Abbreviation', (83, 84): 'Body_Part', (86, 88): 'Finding', (90, 97): 'Body_Part', (5, 14): 'Disease', (24, 33): 'Finding', (42, 47): 'Finding', (57, 64): 'Finding', (81, 84): 'Procedure', (88, 97): 'Disease'}
+{(1, 3): 'Disease', (5, 14): 'Disease', (7, 14): 'Disease', (18, 19): 'Abbreviation', (30, 33): 'Body_Part', (39, 41): 'Disease', (49, 50): 'Finding', (52, 56): 'Finding', (57, 64): 'Finding', (58, 64): 'Finding', (74, 77): 'Procedure', (81, 82): 'Abbreviation', (81, 84): 'Procedure', (86, 88): 'Finding'}
+
+{(3, 7): 'Body_Part', (10, 11): 'Abbreviation', (2, 7): 'Finding', (7, 11): 'Finding'}
+{(2, 7): 'Finding', (3, 7): 'Body_Part', (7, 10): 'Finding', (10, 11): 'Body_Part'}
+
+{(1, 2): 'Abbreviation', (4, 7): 'Body_Part', (2, 7): 'Finding'}
+{(1, 2): 'Abbreviation', (4, 7): 'Body_Part', (5, 7): 'Body_Part'}
+
+{(3, 4): 'Procedure', (4, 7): 'Disease', (10, 11): 'Body_Part', (8, 11): 'Finding'}
+{(3, 4): 'Procedure', (4, 7): 'Disease', (10, 14): 'Finding'}
+
+{(13, 14): 'Body_Part', (26, 28): 'Procedure', (11, 16): 'Finding'}
+{}
+
+{(0, 1): 'Abbreviation', (2, 3): 'Abbreviation', (3, 4): 'Abbreviation', (4, 7): 'Finding', (8, 9): 'Abbreviation', (17, 18): 'Abbreviation', (21, 22): 'Abbreviation', (0, 2): 'Body_Part', (8, 10): 'Body_Part', (17, 19): 'Body_Part', (21, 23): 'Body_Part', (0, 4): 'Finding', (8, 13): 'Finding', (16, 19): 'Procedure'}
+{(0, 1): 'Abbreviation', (0, 2): 'Body_Part', (2, 3): 'Abbreviation', (3, 4): 'Abbreviation', (8, 9): 'Abbreviation', (8, 10): 'Body_Part', (8, 13): 'Finding', (16, 17): 'Procedure', (17, 18): 'Abbreviation', (17, 19): 'Body_Part', (21, 22): 'Abbreviation', (21, 23): 'Body_Part'}
+
+{(3, 4): 'Abbreviation', (6, 9): 'Finding', (1, 5): 'Finding'}
+{(3, 4): 'Abbreviation', (3, 5): 'Body_Part'}
+
+{(0, 1): 'Disease'}
+{}
+
+{(0, 1): 'Family_Member', (4, 5): 'Abbreviation', (6, 7): 'Family_Member', (10, 11): 'Abbreviation'}
+{(0, 1): 'Family_Member', (4, 5): 'Abbreviation', (6, 7): 'Family_Member', (10, 11): 'Abbreviation'}
+
+{(0, 1): 'Procedure', (1, 2): 'Finding', (7, 8): 'Abbreviation', (10, 11): 'Finding', (12, 13): 'Abbreviation', (13, 14): 'Body_Part', (7, 9): 'Procedure', (12, 14): 'Procedure'}
+{(0, 1): 'Procedure', (1, 2): 'Finding', (7, 8): 'Abbreviation', (7, 9): 'Procedure', (10, 11): 'Abbreviation', (12, 13): 'Abbreviation', (12, 14): 'Procedure'}
+
+{(10, 11): 'Abbreviation', (11, 14): 'Finding'}
+{(6, 7): 'Finding', (10, 11): 'Abbreviation', (11, 14): 'Disease'}
+
+{(0, 5): 'Disease', (5, 7): 'Body_Part', (13, 15): 'Body_Part', (5, 13): 'Finding', (13, 21): 'Finding'}
+{(0, 5): 'Disease', (5, 7): 'Body_Part', (5, 13): 'Finding', (5, 15): 'Finding', (5, 21): 'Finding', (7, 13): 'Finding', (7, 15): 'Finding', (7, 21): 'Finding'}
+
+{(6, 7): 'Body_Part', (9, 10): 'Abbreviation', (16, 17): 'Abbreviation', (20, 21): 'Procedure', (26, 27): 'Abbreviation', (4, 7): 'Procedure', (9, 11): 'Procedure'}
+{(4, 7): 'Procedure', (9, 10): 'Abbreviation', (16, 17): 'Abbreviation'}
+
+{(0, 3): 'Finding', (3, 6): 'Body_Part', (7, 10): 'Procedure', (10, 13): 'Body_Part', (16, 17): 'Finding', (20, 25): 'Procedure'}
+{(0, 3): 'Procedure', (3, 6): 'Body_Part', (9, 10): 'Procedure', (10, 13): 'Body_Part', (16, 17): 'Finding', (23, 25): 'Finding'}
+
+{(0, 1): 'Disease', (1, 5): 'Disease', (6, 7): 'Abbreviation', (9, 11): 'Disease', (6, 8): 'Disease'}
+{(0, 1): 'Disease', (1, 5): 'Disease', (6, 7): 'Abbreviation', (6, 8): 'Disease', (9, 10): 'Disease', (9, 11): 'Disease'}
+
+{(1, 4): 'Disease', (4, 5): 'Finding'}
+{(1, 4): 'Disease', (4, 5): 'Finding'}
+
+{(0, 1): 'Disease', (1, 10): 'Disease', (11, 13): 'Body_Part', (13, 14): 'Finding'}
+{(0, 1): 'Disease', (4, 6): 'Body_Part', (10, 14): 'Disease', (11, 13): 'Body_Part', (11, 14): 'Disease'}
+
+{(1, 2): 'Disease', (6, 7): 'Abbreviation', (10, 11): 'Abbreviation', (12, 13): 'Abbreviation', (16, 19): 'Finding'}
+{(1, 2): 'Disease', (6, 7): 'Abbreviation', (10, 11): 'Abbreviation', (12, 13): 'Abbreviation', (18, 19): 'Body_Part'}
+
+{}
+{}
+
+{(0, 1): 'Abbreviation', (9, 10): 'Abbreviation', (15, 16): 'Body_Part', (19, 20): 'Abbreviation'}
+{(0, 1): 'Abbreviation', (9, 10): 'Abbreviation', (19, 20): 'Abbreviation'}
+
+{(0, 2): 'Finding', (6, 7): 'Finding', (24, 26): 'Procedure', (28, 32): 'Finding', (33, 34): 'Finding', (34, 35): 'Body_Part'}
+{(0, 2): 'Disease', (17, 18): 'Finding', (34, 37): 'Finding'}
+
+{}
+{}
+
+{(7, 9): 'Body_Part', (13, 14): 'Abbreviation', (15, 16): 'Finding', (16, 17): 'Procedure', (17, 18): 'Finding', (25, 26): 'Procedure', (26, 27): 'Finding', (33, 35): 'Body_Part', (1, 9): 'Disease', (27, 35): 'Disease'}
+{(1, 9): 'Disease', (7, 9): 'Body_Part', (13, 14): 'Abbreviation', (15, 16): 'Finding', (16, 17): 'Procedure', (17, 18): 'Finding', (25, 26): 'Procedure', (26, 27): 'Finding', (33, 35): 'Body_Part'}
+
+{(0, 6): 'Disease', (7, 9): 'Finding', (10, 11): 'Finding', (12, 14): 'Finding', (15, 18): 'Disease'}
+{(1, 6): 'Disease', (7, 9): 'Finding', (10, 11): 'Finding', (12, 14): 'Finding', (15, 18): 'Disease'}
+
+{}
+{}
+
+{(6, 7): 'Disease', (11, 12): 'Abbreviation', (23, 24): 'Abbreviation', (31, 32): 'Family_Member', (37, 38): 'Finding', (39, 40): 'Finding', (40, 41): 'Finding', (42, 44): 'Finding', (44, 47): 'Finding', (49, 50): 'Procedure', (56, 57): 'Abbreviation', (57, 58): 'Body_Part', (59, 60): 'Body_Part', (65, 69): 'Finding', (72, 74): 'Body_Part', (92, 104): 'Finding', (105, 107): 'Body_Part', (117, 118): 'Abbreviation', (23, 25): 'Disease', (56, 58): 'Procedure', (59, 62): 'Finding', (70, 91): 'Finding', (105, 117): 'Finding'}
+{(1, 7): 'Disease', (11, 12): 'Abbreviation', (20, 25): 'Disease', (23, 24): 'Abbreviation', (31, 32): 'Family_Member', (34, 36): 'Finding', (37, 38): 'Finding', (39, 40): 'Finding', (40, 41): 'Finding', (42, 44): 'Finding', (44, 47): 'Finding', (49, 50): 'Procedure', (56, 57): 'Abbreviation', (56, 58): 'Procedure', (59, 60): 'Body_Part', (59, 62): 'Finding', (67, 69): 'Disease', (72, 74): 'Body_Part', (95, 104): 'Finding', (105, 108): 'Finding', (109, 117): 'Finding', (117, 118): 'Abbreviation'}
+
+{(1, 3): 'Disease', (7, 8): 'Abbreviation', (18, 20): 'Body_Part', (21, 22): 'Finding', (12, 20): 'Finding'}
+{(1, 3): 'Disease', (7, 8): 'Abbreviation', (12, 20): 'Finding', (12, 22): 'Finding', (18, 20): 'Body_Part', (18, 22): 'Body_Part'}
+
+{}
+{}
+
+{(0, 2): 'Disease'}
+{(0, 2): 'Disease'}
+
+{(0, 8): 'Disease', (8, 12): 'Disease'}
+{(0, 4): 'Disease', (5, 6): 'Disease', (8, 12): 'Finding'}
+
+{(1, 4): 'Disease', (4, 14): 'Finding'}
+{(1, 4): 'Disease', (4, 6): 'Disease', (9, 14): 'Finding'}
+
+{(0, 4): 'Finding'}
+{(2, 4): 'Disease'}
+
+{(1, 3): 'Disease'}
+{(1, 3): 'Disease'}
+
+{(1, 4): 'Disease', (8, 9): 'Abbreviation', (19, 21): 'Finding', (26, 33): 'Finding'}
+{(1, 4): 'Disease', (8, 9): 'Abbreviation', (26, 29): 'Finding'}
+
+{(5, 8): 'Disease'}
+{(5, 8): 'Disease'}
+
+{(3, 4): 'Body_Part', (6, 7): 'Body_Part', (11, 12): 'Abbreviation', (15, 17): 'Finding', (29, 34): 'Finding', (39, 40): 'Finding', (41, 44): 'Finding', (52, 55): 'Finding', (1, 7): 'Disease'}
+{(1, 7): 'Disease', (3, 4): 'Body_Part', (11, 12): 'Abbreviation', (15, 17): 'Finding', (29, 36): 'Finding', (39, 40): 'Finding', (41, 44): 'Finding', (45, 51): 'Finding', (52, 55): 'Finding'}
+
+{(4, 5): 'Procedure', (10, 12): 'Finding'}
+{(4, 5): 'Procedure'}
+
+{}
+{}
+
+{(2, 3): 'Body_Part', (5, 6): 'Body_Part', (0, 6): 'Disease'}
+{(0, 6): 'Disease', (2, 3): 'Body_Part'}
+
+{(0, 1): 'Disease', (2, 3): 'Abbreviation'}
+{(0, 1): 'Disease', (2, 3): 'Abbreviation'}
+
+{(0, 2): 'Disease', (2, 3): 'Disease', (4, 5): 'Abbreviation', (11, 13): 'Finding', (15, 16): 'Abbreviation', (17, 18): 'Procedure', (19, 20): 'Abbreviation', (20, 23): 'Disease', (4, 8): 'Disease'}
+{(0, 2): 'Disease', (2, 3): 'Disease', (4, 5): 'Abbreviation', (11, 13): 'Disease', (15, 16): 'Abbreviation', (19, 20): 'Abbreviation', (20, 23): 'Disease'}
+
+{(10, 12): 'Finding', (13, 14): 'Abbreviation', (15, 18): 'Finding', (19, 22): 'Disease', (25, 29): 'Body_Part', (30, 33): 'Disease', (36, 46): 'Body_Part', (23, 29): 'Finding', (34, 46): 'Finding'}
+{(13, 14): 'Abbreviation', (15, 18): 'Finding', (19, 22): 'Disease', (23, 29): 'Finding', (25, 29): 'Body_Part', (30, 33): 'Disease', (36, 46): 'Body_Part'}
+
+{(0, 1): 'Disease', (1, 5): 'Disease', (7, 8): 'Family_Member', (9, 11): 'Disease'}
+{(0, 1): 'Disease', (1, 5): 'Disease', (7, 8): 'Family_Member'}
+
+{(0, 1): 'Disease'}
+{}
+
+{(1, 2): 'Body_Part', (7, 8): 'Abbreviation', (14, 17): 'Body_Part', (18, 19): 'Body_Part', (22, 23): 'Body_Part', (29, 30): 'Abbreviation', (1, 3): 'Disease', (11, 17): 'Finding', (18, 23): 'Finding'}
+{(1, 2): 'Body_Part', (1, 3): 'Disease', (7, 8): 'Abbreviation', (11, 17): 'Finding', (14, 17): 'Body_Part', (18, 23): 'Finding', (29, 30): 'Abbreviation'}
+
+{(0, 1): 'Abbreviation', (3, 13): 'Finding', (19, 22): 'Finding', (23, 24): 'Body_Part', (23, 25): 'Finding'}
+{(0, 1): 'Abbreviation', (23, 24): 'Body_Part', (23, 25): 'Body_Part'}
+
+{(0, 1): 'Body_Part', (0, 2): 'Disease'}
+{(0, 2): 'Disease'}
+
+{(0, 1): 'Disease', (1, 6): 'Disease', (8, 9): 'Finding', (11, 13): 'Body_Part'}
+{(0, 1): 'Disease', (1, 6): 'Disease', (6, 7): 'Finding', (8, 9): 'Finding', (11, 13): 'Body_Part'}
+
+{(1, 5): 'Disease', (9, 10): 'Abbreviation', (16, 17): 'Abbreviation', (18, 19): 'Disease', (20, 21): 'Disease', (22, 23): 'Disease', (27, 28): 'Family_Member', (36, 44): 'Finding', (45, 53): 'Finding', (54, 56): 'Finding', (59, 60): 'Body_Part', (61, 69): 'Finding', (57, 60): 'Finding'}
+{(1, 5): 'Disease', (9, 10): 'Abbreviation', (16, 17): 'Abbreviation', (18, 19): 'Disease', (20, 21): 'Disease', (22, 23): 'Disease', (45, 49): 'Finding', (50, 53): 'Finding', (54, 56): 'Finding', (57, 60): 'Finding', (61, 69): 'Finding'}
+
+{(0, 4): 'Disease'}
+{(0, 4): 'Disease'}
+
+{(1, 6): 'Disease', (10, 11): 'Abbreviation', (17, 18): 'Body_Part', (26, 31): 'Finding', (14, 18): 'Finding'}
+{(1, 6): 'Disease', (10, 11): 'Abbreviation', (14, 18): 'Disease', (26, 31): 'Finding'}
+
+{(0, 5): 'Disease'}
+{(0, 5): 'Disease'}
+
+{(3, 10): 'Body_Part', (10, 13): 'Procedure', (19, 20): 'Abbreviation', (2, 10): 'Finding', (10, 16): 'Finding'}
+{(2, 9): 'Finding', (3, 9): 'Body_Part', (10, 13): 'Procedure', (10, 16): 'Finding', (19, 20): 'Abbreviation'}
+
+{}
+{}
+
+{(4, 6): 'Body_Part', (10, 11): 'Abbreviation', (12, 21): 'Finding', (1, 6): 'Disease'}
+{(1, 6): 'Disease', (4, 6): 'Body_Part', (10, 11): 'Abbreviation', (12, 14): 'Finding'}
+
+{(2, 3): 'Disease', (6, 7): 'Disease'}
+{(2, 3): 'Disease', (6, 7): 'Abbreviation'}
+
+{}
+{}
+
+{(3, 5): 'Body_Part', (0, 5): 'Disease'}
+{(0, 5): 'Disease', (3, 5): 'Body_Part'}
+
+{(1, 3): 'Disease', (7, 8): 'Abbreviation', (10, 12): 'Disease', (17, 20): 'Procedure', (25, 26): 'Body_Part', (20, 32): 'Disease'}
+{(1, 3): 'Disease', (7, 8): 'Abbreviation', (10, 12): 'Disease', (17, 20): 'Procedure', (20, 32): 'Disease', (20, 33): 'Disease', (25, 26): 'Body_Part'}
+
+{(1, 4): 'Disease', (6, 7): 'Disease', (9, 11): 'Body_Part', (13, 14): 'Procedure', (18, 19): 'Abbreviation', (20, 22): 'Finding', (6, 11): 'Finding', (15, 22): 'Procedure'}
+{(1, 4): 'Disease', (6, 9): 'Disease', (9, 11): 'Body_Part', (13, 14): 'Procedure', (18, 19): 'Abbreviation', (20, 22): 'Finding'}
+
+{(0, 5): 'Finding', (9, 20): 'Finding'}
+{(14, 20): 'Body_Part'}
+
+{(0, 3): 'Disease', (4, 6): 'Disease', (8, 10): 'Body_Part', (15, 17): 'Disease', (17, 18): 'Family_Member', (19, 20): 'Family_Member', (23, 27): 'Finding', (7, 10): 'Disease'}
+{(0, 1): 'Disease', (0, 3): 'Disease', (4, 6): 'Disease', (7, 10): 'Disease', (8, 10): 'Body_Part', (17, 18): 'Family_Member', (19, 20): 'Family_Member', (23, 25): 'Finding', (25, 27): 'Finding'}
+
+{}
+{}
+
+{(0, 5): 'Disease'}
+{(0, 5): 'Disease'}
+
+{(0, 4): 'Disease'}
+{(0, 4): 'Disease'}
+
+{(1, 10): 'Disease', (14, 15): 'Abbreviation', (20, 22): 'Finding', (24, 26): 'Finding', (26, 28): 'Abbreviation', (29, 30): 'Abbreviation', (35, 39): 'Finding', (43, 52): 'Disease'}
+{(1, 10): 'Disease', (14, 15): 'Abbreviation', (20, 22): 'Finding', (24, 26): 'Disease', (29, 30): 'Abbreviation', (32, 33): 'Body_Part', (35, 39): 'Finding', (43, 52): 'Disease'}
+
+{(1, 6): 'Disease', (10, 11): 'Abbreviation', (16, 17): 'Disease', (24, 26): 'Disease', (27, 28): 'Finding', (33, 34): 'Procedure', (39, 40): 'Abbreviation', (45, 57): 'Finding', (22, 26): 'Finding', (35, 40): 'Finding'}
+{(1, 6): 'Disease', (10, 11): 'Abbreviation', (16, 17): 'Disease', (22, 26): 'Finding', (24, 26): 'Disease', (27, 28): 'Finding', (33, 34): 'Procedure', (35, 40): 'Finding', (45, 47): 'Finding'}
+
+{}
+{}
+
+{(0, 5): 'Disease'}
+{(0, 5): 'Disease'}
+
+{(0, 3): 'Disease', (6, 7): 'Abbreviation', (8, 9): 'Disease', (14, 15): 'Disease', (16, 17): 'Procedure', (22, 23): 'Finding', (27, 28): 'Disease', (35, 36): 'Finding', (38, 40): 'Finding'}
+{(0, 5): 'Disease', (2, 3): 'Body_Part', (6, 7): 'Abbreviation', (16, 17): 'Procedure', (22, 23): 'Finding', (33, 36): 'Finding', (38, 40): 'Finding'}
+
+{(0, 2): 'Finding', (19, 20): 'Abbreviation', (22, 23): 'Body_Part', (20, 23): 'Disease'}
+{(0, 2): 'Finding', (19, 20): 'Abbreviation', (20, 23): 'Disease'}
+
+{}
+{}
+
+{(7, 8): 'Procedure', (8, 13): 'Body_Part', (16, 17): 'Disease', (14, 17): 'Finding'}
+{(8, 13): 'Body_Part', (16, 17): 'Abbreviation', (16, 22): 'Finding'}
+
+{(7, 8): 'Body_Part', (11, 13): 'Body_Part', (15, 17): 'Body_Part', (18, 21): 'Disease', (0, 17): 'Disease'}
+{(7, 8): 'Body_Part', (11, 13): 'Body_Part', (15, 17): 'Body_Part'}
+
+{(1, 3): 'Disease', (7, 8): 'Abbreviation', (13, 15): 'Body_Part', (20, 22): 'Disease', (9, 20): 'Finding'}
+{(1, 3): 'Disease', (7, 8): 'Abbreviation', (9, 15): 'Finding', (13, 15): 'Body_Part', (20, 22): 'Disease'}
+
+{(1, 2): 'Disease', (3, 4): 'Disease', (9, 10): 'Abbreviation', (15, 17): 'Disease', (18, 20): 'Disease', (23, 26): 'Finding', (27, 29): 'Disease'}
+{(1, 5): 'Disease', (9, 10): 'Abbreviation', (15, 17): 'Disease', (18, 20): 'Disease', (23, 26): 'Finding', (27, 29): 'Disease'}
+
+{(9, 10): 'Procedure', (10, 11): 'Finding', (19, 20): 'Medication'}
+{(4, 7): 'Procedure', (9, 10): 'Procedure', (10, 11): 'Finding'}
+
+{(0, 1): 'Disease', (2, 3): 'Disease'}
+{(0, 4): 'Disease'}
+
+{(0, 1): 'Disease', (1, 5): 'Disease', (7, 8): 'Abbreviation', (9, 11): 'Disease', (11, 13): 'Body_Part', (15, 16): 'Abbreviation', (17, 19): 'Medication', (23, 24): 'Procedure'}
+{(0, 1): 'Disease', (1, 5): 'Disease', (7, 8): 'Abbreviation', (9, 13): 'Disease', (15, 16): 'Abbreviation', (17, 18): 'Abbreviation', (17, 19): 'Medication', (23, 24): 'Procedure'}
+
+{}
+{}
+
+{(1, 3): 'Disease', (7, 8): 'Abbreviation', (14, 15): 'Finding', (18, 22): 'Finding'}
+{(1, 3): 'Disease', (7, 8): 'Abbreviation', (14, 15): 'Finding', (18, 22): 'Disease'}
+
+{(1, 2): 'Abbreviation', (5, 6): 'Finding', (7, 8): 'Finding', (9, 10): 'Finding', (10, 11): 'Finding', (12, 13): 'Body_Part', (14, 15): 'Finding', (18, 20): 'Body_Part', (21, 23): 'Body_Part', (25, 26): 'Abbreviation', (16, 23): 'Finding'}
+{(1, 2): 'Abbreviation', (5, 6): 'Finding', (9, 11): 'Finding', (12, 13): 'Body_Part', (14, 15): 'Finding', (16, 23): 'Finding', (18, 20): 'Body_Part', (18, 23): 'Body_Part', (25, 26): 'Abbreviation'}
+
+{(1, 2): 'Abbreviation'}
+{(1, 2): 'Abbreviation'}
+
+{}
+{}
+
+{(0, 2): 'Disease'}
+{(0, 2): 'Disease'}
+
+{(0, 2): 'Body_Part', (4, 14): 'Disease', (0, 3): 'Finding'}
+{(0, 3): 'Disease'}
+
+{(1, 3): 'Disease', (7, 8): 'Abbreviation', (9, 12): 'Procedure', (20, 21): 'Abbreviation', (22, 23): 'Abbreviation', (24, 25): 'Abbreviation', (26, 27): 'Abbreviation', (30, 31): 'Abbreviation', (32, 33): 'Abbreviation', (33, 35): 'Disease', (20, 23): 'Disease'}
+{(1, 3): 'Disease', (7, 8): 'Abbreviation', (9, 10): 'Abbreviation', (20, 21): 'Abbreviation', (20, 22): 'Finding', (22, 23): 'Abbreviation', (26, 27): 'Abbreviation', (30, 31): 'Abbreviation', (32, 33): 'Abbreviation', (33, 35): 'Disease'}
+
+{(1, 2): 'Disease', (6, 7): 'Abbreviation', (13, 16): 'Abbreviation', (23, 30): 'Finding'}
+{(1, 2): 'Disease', (6, 7): 'Abbreviation', (13, 16): 'Abbreviation', (23, 28): 'Finding', (29, 30): 'Finding'}
+
+{(1, 6): 'Disease', (10, 11): 'Abbreviation', (20, 21): 'Body_Part', (14, 21): 'Finding'}
+{(1, 6): 'Disease', (10, 11): 'Abbreviation', (14, 21): 'Finding'}
+
+{(0, 1): 'Disease', (1, 4): 'Disease', (8, 16): 'Body_Part', (23, 24): 'Finding', (6, 16): 'Finding'}
+{(0, 1): 'Disease', (0, 4): 'Disease', (1, 4): 'Disease', (8, 14): 'Body_Part', (8, 16): 'Body_Part', (23, 27): 'Finding'}
+
+{(0, 1): 'Disease', (1, 5): 'Disease', (12, 18): 'Procedure'}
+{(0, 1): 'Disease', (1, 5): 'Disease'}
+
+{(0, 16): 'Disease'}
+{(0, 1): 'Disease', (1, 11): 'Disease', (11, 16): 'Finding'}
+
+{(4, 7): 'Finding', (7, 9): 'Finding'}
+{(4, 6): 'Finding', (4, 9): 'Finding'}
+
+{(1, 2): 'Finding', (3, 31): 'Body_Part', (32, 34): 'Disease'}
+{(1, 2): 'Disease', (16, 19): 'Body_Part', (24, 27): 'Body_Part', (28, 31): 'Body_Part', (32, 34): 'Disease', (35, 37): 'Finding'}
+
+{(1, 12): 'Disease', (19, 20): 'Disease', (26, 31): 'Body_Part', (42, 43): 'Finding', (24, 31): 'Finding'}
+{(1, 12): 'Disease', (19, 20): 'Disease', (22, 31): 'Finding', (24, 31): 'Finding', (26, 31): 'Body_Part', (42, 43): 'Finding'}
+
+{(2, 3): 'Abbreviation', (2, 6): 'Procedure'}
+{(2, 3): 'Abbreviation', (2, 6): 'Procedure'}
+
+{(1, 6): 'Disease', (8, 10): 'Disease', (14, 15): 'Abbreviation', (16, 20): 'Body_Part', (20, 21): 'Finding', (22, 23): 'Finding', (25, 27): 'Finding'}
+{(1, 6): 'Disease', (8, 10): 'Disease', (14, 15): 'Abbreviation', (16, 20): 'Body_Part', (16, 21): 'Finding', (22, 23): 'Finding', (25, 27): 'Finding'}
+
+{(1, 2): 'Body_Part', (1, 5): 'Finding'}
+{(0, 5): 'Finding', (1, 2): 'Body_Part', (1, 5): 'Finding'}
+
+{(0, 5): 'Disease'}
+{(0, 5): 'Disease'}
+
+{(1, 3): 'Disease', (3, 4): 'Finding', (5, 6): 'Abbreviation', (10, 13): 'Body_Part', (5, 13): 'Disease'}
+{(1, 4): 'Disease', (5, 6): 'Abbreviation', (10, 13): 'Body_Part'}
+
+{(2, 5): 'Procedure', (14, 15): 'Procedure'}
+{}
+
+{(0, 1): 'Abbreviation', (2, 3): 'Procedure', (4, 8): 'Disease', (15, 16): 'Abbreviation', (0, 2): 'Body_Part', (14, 18): 'Medication'}
+{(0, 1): 'Abbreviation', (0, 2): 'Body_Part', (2, 3): 'Finding', (4, 5): 'Procedure', (6, 7): 'Disease', (6, 8): 'Disease', (14, 18): 'Procedure'}
+
+{(4, 5): 'Abbreviation'}
+{(4, 5): 'Abbreviation'}
+
+{(0, 1): 'Procedure'}
+{(0, 1): 'Procedure'}
+
+{(1, 7): 'Disease', (11, 12): 'Abbreviation', (17, 18): 'Disease', (21, 22): 'Procedure', (24, 25): 'Body_Part', (30, 36): 'Finding', (24, 29): 'Finding'}
+{(1, 7): 'Disease', (11, 12): 'Abbreviation', (21, 22): 'Procedure', (24, 25): 'Body_Part', (30, 31): 'Disease', (30, 36): 'Finding', (32, 33): 'Abbreviation', (32, 36): 'Finding'}
+
+{(0, 2): 'Finding', (3, 6): 'Finding', (7, 11): 'Finding', (14, 20): 'Disease'}
+{(0, 2): 'Disease', (7, 11): 'Finding', (14, 20): 'Disease'}
+
+{(1, 3): 'Disease', (7, 8): 'Abbreviation', (10, 11): 'Finding', (16, 19): 'Disease', (25, 27): 'Body_Part'}
+{(1, 3): 'Disease', (7, 8): 'Abbreviation', (10, 11): 'Finding', (16, 19): 'Disease', (20, 27): 'Finding', (25, 27): 'Body_Part'}
+
+{(0, 1): 'Disease', (1, 3): 'Disease', (5, 6): 'Disease', (12, 13): 'Procedure', (13, 14): 'Abbreviation', (14, 15): 'Procedure', (17, 21): 'Disease', (22, 23): 'Procedure'}
+{(0, 1): 'Disease', (1, 3): 'Disease', (12, 13): 'Procedure', (13, 14): 'Abbreviation', (14, 15): 'Procedure', (14, 16): 'Procedure', (17, 18): 'Disease'}
+
+{}
+{}
+
+{(1, 3): 'Procedure', (9, 11): 'Procedure', (15, 16): 'Abbreviation', (17, 28): 'Body_Part', (45, 47): 'Procedure', (17, 33): 'Finding'}
+{(9, 11): 'Procedure', (15, 16): 'Abbreviation', (17, 28): 'Body_Part', (17, 33): 'Finding'}
+
+{(0, 1): 'Abbreviation', (4, 5): 'Disease', (8, 9): 'Abbreviation', (12, 13): 'Abbreviation', (17, 18): 'Procedure'}
+{(0, 1): 'Abbreviation', (4, 5): 'Disease', (8, 9): 'Abbreviation', (8, 10): 'Procedure', (12, 13): 'Abbreviation', (17, 18): 'Procedure'}
+
+{(0, 1): 'Disease', (1, 2): 'Disease', (6, 8): 'Finding', (15, 16): 'Disease', (19, 20): 'Body_Part', (17, 20): 'Disease'}
+{(0, 1): 'Disease', (1, 2): 'Disease'}
+
+{(1, 7): 'Finding', (8, 12): 'Body_Part', (12, 20): 'Body_Part', (20, 21): 'Finding', (7, 12): 'Finding'}
+{(7, 8): 'Disease', (17, 20): 'Body_Part', (17, 21): 'Finding'}
+
+{(1, 2): 'Abbreviation', (11, 12): 'Procedure', (12, 14): 'Body_Part', (16, 18): 'Finding', (1, 3): 'Finding'}
+{(1, 2): 'Abbreviation', (1, 3): 'Finding', (11, 12): 'Procedure', (12, 14): 'Body_Part', (16, 18): 'Finding'}
+
+{(2, 3): 'Abbreviation', (5, 6): 'Body_Part'}
+{(2, 3): 'Procedure', (2, 6): 'Procedure'}
+
+{(0, 1): 'Abbreviation', (5, 6): 'Body_Part', (6, 7): 'Abbreviation', (13, 14): 'Disease', (20, 21): 'Abbreviation', (0, 2): 'Body_Part', (0, 8): 'Finding'}
+{(0, 1): 'Abbreviation', (0, 2): 'Body_Part', (0, 8): 'Finding', (5, 8): 'Body_Part', (13, 14): 'Disease', (20, 21): 'Abbreviation'}
+
+{}
+{}
+
+{(3, 5): 'Body_Part', (9, 10): 'Abbreviation', (11, 12): 'Abbreviation', (22, 23): 'Abbreviation', (1, 5): 'Disease'}
+{(1, 5): 'Disease', (3, 5): 'Body_Part', (9, 10): 'Abbreviation', (11, 12): 'Abbreviation', (22, 23): 'Abbreviation'}
+
+{}
+{}
+
+{(1, 2): 'Finding', (3, 4): 'Finding', (8, 9): 'Body_Part', (17, 18): 'Body_Part', (5, 9): 'Finding', (11, 18): 'Finding'}
+{(1, 2): 'Finding', (3, 4): 'Finding', (5, 9): 'Finding', (11, 18): 'Finding'}
+
+{(2, 7): 'Finding'}
+{(2, 7): 'Finding'}
+
+{(3, 4): 'Procedure'}
+{(3, 4): 'Procedure'}
+
+{(2, 4): 'Body_Part', (0, 4): 'Disease'}
+{(0, 4): 'Disease', (2, 4): 'Body_Part'}
+
+{(0, 1): 'Disease', (4, 5): 'Body_Part', (6, 7): 'Body_Part', (12, 14): 'Procedure', (15, 16): 'Procedure', (6, 8): 'Disease'}
+{(0, 1): 'Disease', (2, 5): 'Procedure', (6, 7): 'Body_Part', (6, 8): 'Disease', (12, 14): 'Procedure', (15, 16): 'Procedure'}
+
+{(1, 4): 'Disease', (6, 8): 'Disease', (12, 13): 'Abbreviation', (18, 20): 'Disease', (24, 25): 'Abbreviation', (36, 39): 'Body_Part', (24, 32): 'Body_Part', (33, 39): 'Finding', (22, 32): 'Finding'}
+{(1, 4): 'Disease', (6, 8): 'Disease', (12, 13): 'Abbreviation', (18, 20): 'Finding', (22, 24): 'Finding', (24, 25): 'Abbreviation', (24, 32): 'Abbreviation', (36, 39): 'Body_Part', (37, 39): 'Body_Part'}
+
+{}
+{}
+
+{(3, 4): 'Medication', (7, 8): 'Body_Part', (5, 17): 'Disease'}
+{(3, 4): 'Medication', (7, 8): 'Body_Part'}
+
+{(1, 2): 'Disease', (6, 7): 'Abbreviation', (12, 15): 'Disease', (23, 24): 'Abbreviation', (26, 28): 'Procedure', (29, 34): 'Finding', (35, 37): 'Finding', (40, 41): 'Abbreviation', (43, 44): 'Body_Part', (47, 49): 'Finding', (38, 41): 'Finding'}
+{(1, 2): 'Disease', (6, 7): 'Abbreviation', (12, 15): 'Disease', (23, 24): 'Abbreviation', (29, 34): 'Finding', (35, 37): 'Finding', (40, 41): 'Abbreviation'}
+
+{(1, 11): 'Disease', (13, 14): 'Body_Part', (11, 14): 'Finding'}
+{(11, 14): 'Disease'}
+
+{(8, 9): 'Abbreviation', (9, 10): 'Abbreviation', (10, 11): 'Procedure', (16, 17): 'Abbreviation', (17, 18): 'Abbreviation', (18, 19): 'Procedure', (20, 22): 'Finding', (22, 23): 'Abbreviation', (23, 24): 'Procedure', (6, 9): 'Body_Part', (12, 17): 'Finding', (1, 9): 'Finding'}
+{(1, 9): 'Finding', (6, 9): 'Body_Part', (9, 10): 'Abbreviation', (10, 11): 'Procedure', (12, 13): 'Disease', (15, 17): 'Finding', (17, 18): 'Abbreviation', (18, 19): 'Procedure', (20, 22): 'Finding', (22, 23): 'Abbreviation', (23, 24): 'Procedure'}
+
+{}
+{}
+
+{(0, 1): 'Disease', (1, 3): 'Body_Part', (3, 4): 'Finding', (4, 7): 'Body_Part', (8, 12): 'Body_Part', (12, 13): 'Finding'}
+{(1, 3): 'Body_Part', (4, 7): 'Body_Part', (8, 12): 'Body_Part', (8, 13): 'Finding'}
+
+{}
+{}
+
+{(0, 3): 'Finding'}
+{(0, 3): 'Finding'}
+
+{}
+{}
+
+{(2, 9): 'Body_Part', (0, 9): 'Finding'}
+{(2, 9): 'Body_Part'}
+
+{(1, 6): 'Disease', (7, 9): 'Disease', (14, 16): 'Body_Part', (18, 20): 'Finding'}
+{(1, 6): 'Disease', (7, 11): 'Disease', (12, 16): 'Finding', (14, 16): 'Body_Part', (18, 20): 'Finding'}
+
+{(0, 1): 'Disease', (3, 5): 'Body_Part', (17, 18): 'Abbreviation', (25, 26): 'Medication', (27, 29): 'Finding', (32, 33): 'Finding', (1, 8): 'Disease', (14, 18): 'Body_Part', (19, 26): 'Finding', (8, 18): 'Disease'}
+{(0, 1): 'Disease', (3, 5): 'Body_Part', (8, 18): 'Finding', (14, 18): 'Body_Part', (20, 21): 'Abbreviation', (21, 22): 'Abbreviation'}
+
+{(2, 5): 'Body_Part', (7, 8): 'Abbreviation', (8, 10): 'Body_Part', (1, 6): 'Disease', (7, 10): 'Procedure'}
+{(2, 3): 'Body_Part', (4, 5): 'Body_Part', (4, 6): 'Disease', (7, 8): 'Abbreviation'}
+
+{(1, 12): 'Disease', (12, 13): 'Abbreviation', (19, 20): 'Abbreviation', (28, 30): 'Body_Part', (31, 32): 'Finding', (33, 34): 'Abbreviation', (24, 30): 'Finding'}
+{(1, 11): 'Disease', (12, 13): 'Abbreviation', (19, 20): 'Finding', (22, 30): 'Finding', (28, 30): 'Body_Part', (31, 32): 'Finding', (33, 34): 'Abbreviation'}
+
+{}
+{(0, 4): 'Disease'}
+
+{(0, 1): 'Abbreviation', (2, 3): 'Medication', (3, 4): 'Abbreviation'}
+{(0, 1): 'Abbreviation', (2, 3): 'Abbreviation', (3, 4): 'Abbreviation', (15, 17): 'Finding'}
+
+{(0, 1): 'Abbreviation', (8, 9): 'Abbreviation', (10, 11): 'Finding', (11, 12): 'Finding', (12, 13): 'Finding', (13, 14): 'Abbreviation', (30, 32): 'Body_Part', (33, 35): 'Body_Part', (22, 35): 'Finding'}
+{(0, 1): 'Abbreviation', (2, 5): 'Abbreviation', (8, 9): 'Abbreviation', (10, 11): 'Finding', (11, 12): 'Finding', (12, 13): 'Finding', (13, 14): 'Abbreviation', (30, 32): 'Body_Part', (33, 35): 'Body_Part'}
+
+{(9, 10): 'Procedure', (15, 16): 'Procedure', (17, 18): 'Body_Part', (21, 23): 'Finding', (17, 20): 'Finding'}
+{(9, 10): 'Procedure', (15, 16): 'Procedure', (17, 18): 'Body_Part', (21, 23): 'Finding'}
+
+{(1, 3): 'Disease', (7, 8): 'Abbreviation', (10, 15): 'Disease', (18, 19): 'Abbreviation', (16, 19): 'Finding'}
+{(1, 3): 'Disease', (7, 8): 'Abbreviation', (10, 15): 'Disease', (16, 19): 'Finding'}
+
+{(2, 5): 'Finding'}
+{}
+
+{(5, 6): 'Body_Part', (0, 12): 'Disease'}
+{(0, 12): 'Disease', (5, 6): 'Body_Part'}
+
+{(1, 2): 'Disease', (6, 7): 'Abbreviation', (10, 11): 'Abbreviation', (14, 15): 'Disease', (16, 17): 'Abbreviation', (23, 25): 'Body_Part', (29, 30): 'Body_Part', (31, 32): 'Body_Part', (20, 32): 'Finding'}
+{(1, 2): 'Disease', (6, 7): 'Abbreviation', (10, 11): 'Abbreviation', (14, 15): 'Disease', (16, 17): 'Abbreviation', (29, 30): 'Body_Part'}
+
+{(3, 4): 'Abbreviation', (5, 8): 'Body_Part', (3, 8): 'Disease'}
+{(3, 4): 'Abbreviation', (5, 7): 'Body_Part'}
+
+{(4, 5): 'Medication'}
+{(4, 5): 'Medication'}
+
+{(2, 3): 'Procedure', (4, 5): 'Procedure', (7, 10): 'Procedure', (10, 11): 'Finding'}
+{(4, 5): 'Procedure', (7, 8): 'Abbreviation', (7, 10): 'Procedure', (10, 11): 'Finding'}
+
+{}
+{}
+
+{(0, 1): 'Abbreviation'}
+{(0, 1): 'Abbreviation'}
+
+{(0, 1): 'Disease'}
+{(0, 1): 'Disease'}
+
+{(1, 4): 'Disease', (8, 9): 'Abbreviation', (11, 12): 'Finding', (16, 17): 'Abbreviation', (18, 19): 'Disease', (20, 21): 'Disease', (22, 23): 'Disease', (24, 25): 'Disease'}
+{(1, 4): 'Disease', (8, 9): 'Abbreviation', (11, 12): 'Finding', (16, 17): 'Abbreviation', (18, 19): 'Disease', (20, 21): 'Disease', (22, 23): 'Disease', (24, 25): 'Disease'}
+
+{(3, 4): 'Body_Part', (5, 6): 'Body_Part', (27, 28): 'Abbreviation', (1, 6): 'Finding'}
+{(3, 4): 'Body_Part', (5, 6): 'Body_Part', (27, 28): 'Abbreviation'}
+
+{(0, 2): 'Disease'}
+{}
+
+{(2, 3): 'Finding'}
+{(2, 3): 'Finding'}
+
+{(0, 1): 'Disease'}
+{(0, 1): 'Disease'}
+
+{}
+{}
+
+{}
+{}
+
+{}
+{}
+
+{(0, 3): 'Disease'}
+{(0, 3): 'Disease'}
+
+{(1, 8): 'Disease', (12, 13): 'Abbreviation', (14, 16): 'Finding'}
+{(1, 8): 'Disease', (12, 13): 'Abbreviation', (14, 16): 'Finding'}
+
+{(0, 1): 'Disease', (3, 4): 'Abbreviation', (5, 6): 'Abbreviation', (0, 2): 'Finding'}
+{(0, 2): 'Finding', (3, 4): 'Abbreviation', (5, 6): 'Abbreviation'}
+
+{(0, 1): 'Disease', (3, 4): 'Abbreviation', (5, 6): 'Abbreviation', (0, 2): 'Finding'}
+{(0, 2): 'Finding', (3, 4): 'Abbreviation', (5, 6): 'Abbreviation'}
+
+{(0, 4): 'Finding'}
+{(0, 4): 'Finding'}
+
+{(0, 4): 'Body_Part', (4, 5): 'Finding', (6, 7): 'Finding'}
+{(0, 4): 'Body_Part', (0, 7): 'Finding'}
+
+{(9, 11): 'Body_Part', (14, 15): 'Disease', (22, 23): 'Medication', (24, 25): 'Abbreviation', (1, 11): 'Disease'}
+{(1, 11): 'Disease', (9, 11): 'Body_Part', (14, 15): 'Disease', (22, 23): 'Medication', (24, 25): 'Abbreviation'}
+
+{(3, 4): 'Procedure', (12, 13): 'Abbreviation', (17, 19): 'Body_Part', (9, 19): 'Finding'}
+{(12, 13): 'Abbreviation', (14, 19): 'Finding', (17, 19): 'Body_Part'}
+
+{}
+{}
+
+{(1, 3): 'Disease', (8, 9): 'Body_Part', (13, 14): 'Body_Part', (18, 19): 'Abbreviation', (24, 25): 'Family_Member', (32, 33): 'Body_Part', (36, 40): 'Finding', (41, 43): 'Finding', (5, 14): 'Disease', (29, 33): 'Finding'}
+{(1, 3): 'Disease', (5, 14): 'Disease', (8, 9): 'Body_Part', (18, 19): 'Abbreviation', (24, 25): 'Family_Member', (32, 33): 'Body_Part', (41, 42): 'Finding', (41, 46): 'Finding'}
+
+{(5, 8): 'Disease', (2, 8): 'Finding'}
+{(5, 8): 'Disease'}
+
+{(10, 15): 'Finding'}
+{(10, 15): 'Finding', (23, 29): 'Finding'}
+
+{(0, 1): 'Abbreviation', (6, 9): 'Body_Part', (10, 12): 'Body_Part', (19, 20): 'Finding', (21, 22): 'Finding', (23, 25): 'Finding', (3, 9): 'Finding', (10, 18): 'Finding'}
+{(0, 1): 'Abbreviation', (3, 9): 'Finding', (6, 9): 'Body_Part', (10, 12): 'Body_Part', (21, 22): 'Finding', (23, 25): 'Finding'}
+
+{(1, 2): 'Body_Part', (1, 3): 'Disease'}
+{}
+
+{(3, 4): 'Body_Part', (8, 9): 'Body_Part', (0, 9): 'Disease'}
+{(0, 9): 'Disease', (3, 4): 'Body_Part'}
+
+{(4, 6): 'Disease', (11, 12): 'Abbreviation', (4, 7): 'Procedure'}
+{(4, 5): 'Disease', (4, 7): 'Disease', (11, 12): 'Abbreviation'}
+
+{(2, 4): 'Procedure', (5, 6): 'Medication'}
+{(3, 4): 'Medication', (5, 6): 'Medication'}
+
+{}
+{}
+
+{(0, 4): 'Disease'}
+{}
+
+{(0, 3): 'Disease', (4, 5): 'Abbreviation', (7, 8): 'Body_Part', (15, 16): 'Abbreviation', (18, 19): 'Body_Part', (4, 14): 'Disease', (15, 25): 'Disease'}
+{(0, 3): 'Disease', (4, 5): 'Abbreviation', (4, 14): 'Disease', (15, 16): 'Abbreviation', (15, 25): 'Disease'}
+
+{(4, 8): 'Body_Part', (18, 19): 'Body_Part'}
+{(2, 6): 'Finding', (2, 9): 'Finding', (4, 6): 'Body_Part', (4, 9): 'Body_Part', (7, 8): 'Body_Part', (7, 9): 'Body_Part', (16, 19): 'Finding'}
+
+{(1, 8): 'Finding'}
+{(1, 2): 'Body_Part', (1, 8): 'Finding'}
+
+{}
+{(1, 5): 'Disease', (10, 12): 'Finding'}
+
+{}
+{(2, 3): 'Disease'}
+
+{(20, 21): 'Abbreviation', (31, 32): 'Abbreviation'}
+{(3, 4): 'Finding', (20, 21): 'Procedure', (31, 32): 'Abbreviation'}
+
+{}
+{}
+
+{}
+{}
+
+{(2, 5): 'Finding', (12, 14): 'Body_Part', (6, 14): 'Finding'}
+{(2, 5): 'Finding', (6, 14): 'Finding', (12, 14): 'Body_Part'}
+
+{(0, 4): 'Finding'}
+{(0, 4): 'Finding'}
+
+{(5, 6): 'Abbreviation', (5, 9): 'Procedure'}
+{(5, 6): 'Abbreviation', (5, 9): 'Procedure'}
+
+{(0, 4): 'Disease', (4, 6): 'Disease', (6, 8): 'Disease', (8, 9): 'Finding', (11, 12): 'Disease', (12, 14): 'Disease', (16, 17): 'Family_Member', (18, 19): 'Disease'}
+{(0, 2): 'Disease', (0, 4): 'Disease', (8, 9): 'Disease', (11, 13): 'Disease', (16, 17): 'Family_Member', (18, 19): 'Disease'}
+
+{(1, 6): 'Disease', (8, 10): 'Disease', (14, 15): 'Abbreviation', (24, 25): 'Abbreviation', (40, 41): 'Abbreviation', (44, 45): 'Abbreviation', (24, 27): 'Finding'}
+{(1, 6): 'Disease', (8, 10): 'Finding', (14, 15): 'Abbreviation', (24, 25): 'Abbreviation', (24, 27): 'Finding', (44, 45): 'Abbreviation'}
+
+{(1, 3): 'Disease', (6, 7): 'Abbreviation', (8, 11): 'Disease', (13, 14): 'Abbreviation', (15, 16): 'Body_Part', (17, 18): 'Body_Part', (18, 21): 'Finding', (23, 26): 'Finding', (28, 33): 'Finding', (35, 37): 'Finding', (37, 38): 'Abbreviation', (38, 45): 'Finding', (46, 47): 'Abbreviation', (48, 50): 'Disease', (53, 54): 'Abbreviation', (55, 62): 'Finding', (62, 63): 'Abbreviation', (64, 65): 'Disease', (70, 71): 'Abbreviation', (72, 73): 'Medication', (77, 78): 'Abbreviation', (78, 79): 'Abbreviation', (79, 81): 'Medication', (13, 18): 'Procedure'}
+{(1, 3): 'Disease', (6, 7): 'Abbreviation', (7, 11): 'Finding', (13, 14): 'Abbreviation', (13, 16): 'Procedure', (13, 18): 'Procedure', (19, 21): 'Finding', (23, 33): 'Finding', (35, 37): 'Finding', (37, 38): 'Abbreviation', (48, 50): 'Finding', (53, 54): 'Abbreviation', (54, 57): 'Finding', (61, 63): 'Finding', (64, 65): 'Abbreviation', (70, 71): 'Abbreviation', (72, 73): 'Medication', (77, 78): 'Abbreviation', (78, 79): 'Abbreviation'}
+
+{(0, 2): 'Disease'}
+{(0, 2): 'Finding'}
+
+{(1, 8): 'Disease', (12, 13): 'Abbreviation', (14, 16): 'Finding', (20, 21): 'Abbreviation', (24, 26): 'Finding', (17, 23): 'Finding'}
+{(1, 8): 'Disease', (12, 13): 'Abbreviation', (14, 16): 'Finding', (20, 21): 'Abbreviation', (24, 26): 'Finding'}
+
+{(0, 7): 'Disease'}
+{}
+
+{(0, 1): 'Disease', (1, 9): 'Body_Part', (9, 11): 'Disease', (11, 20): 'Procedure'}
+{(0, 1): 'Procedure', (0, 9): 'Body_Part', (1, 9): 'Body_Part'}
+
+{(1, 3): 'Disease', (7, 8): 'Abbreviation', (11, 15): 'Body_Part', (15, 17): 'Disease'}
+{(1, 3): 'Disease', (7, 8): 'Abbreviation', (11, 15): 'Body_Part', (15, 18): 'Disease'}
+
+{(2, 3): 'Body_Part', (0, 12): 'Disease'}
+{(0, 12): 'Disease', (2, 3): 'Body_Part'}
+
+{(1, 2): 'Disease', (3, 7): 'Disease', (7, 8): 'Abbreviation', (11, 15): 'Finding', (20, 23): 'Finding', (26, 27): 'Body_Part', (35, 36): 'Disease', (37, 38): 'Disease', (45, 46): 'Finding', (48, 49): 'Abbreviation', (26, 31): 'Finding'}
+{(1, 2): 'Disease', (3, 7): 'Disease', (7, 8): 'Abbreviation', (11, 18): 'Finding', (14, 15): 'Finding', (26, 27): 'Body_Part', (29, 31): 'Finding', (35, 36): 'Abbreviation', (37, 38): 'Disease', (48, 49): 'Abbreviation'}
+
+{(4, 6): 'Body_Part', (12, 13): 'Body_Part', (13, 17): 'Finding', (20, 21): 'Abbreviation', (29, 30): 'Abbreviation', (33, 35): 'Body_Part', (0, 6): 'Disease', (29, 32): 'Procedure', (33, 36): 'Finding', (8, 13): 'Finding'}
+{(0, 1): 'Disease', (1, 6): 'Disease', (4, 6): 'Body_Part', (8, 9): 'Finding', (12, 13): 'Body_Part', (20, 21): 'Abbreviation', (29, 30): 'Abbreviation', (29, 32): 'Procedure', (33, 35): 'Body_Part', (33, 36): 'Disease'}
+
+{(3, 4): 'Procedure'}
+{(1, 2): 'Finding', (3, 4): 'Procedure'}
+
+{(0, 1): 'Abbreviation', (0, 2): 'Procedure'}
+{(0, 1): 'Abbreviation', (0, 2): 'Procedure'}
+
+{(7, 8): 'Abbreviation'}
+{(7, 8): 'Abbreviation'}
+
+{(0, 1): 'Disease'}
+{(0, 1): 'Disease'}
+
+{(0, 1): 'Disease', (5, 6): 'Body_Part', (8, 10): 'Body_Part', (15, 16): 'Finding', (18, 19): 'Abbreviation', (1, 15): 'Disease'}
+{(0, 1): 'Disease', (5, 6): 'Body_Part', (8, 10): 'Body_Part', (15, 16): 'Disease', (18, 19): 'Abbreviation'}
+
+{(3, 9): 'Disease', (12, 13): 'Finding', (14, 16): 'Finding', (17, 21): 'Finding', (22, 23): 'Finding', (24, 29): 'Finding', (30, 31): 'Finding'}
+{(12, 13): 'Finding', (14, 16): 'Finding', (20, 21): 'Finding', (22, 23): 'Finding', (28, 29): 'Finding', (30, 31): 'Finding'}
+
+{(1, 3): 'Disease', (14, 15): 'Abbreviation', (24, 25): 'Family_Member', (32, 33): 'Family_Member', (35, 36): 'Family_Member'}
+{(1, 3): 'Disease', (11, 12): 'Finding', (14, 15): 'Abbreviation', (35, 36): 'Family_Member'}
+
+{(4, 5): 'Disease', (6, 7): 'Disease', (8, 9): 'Disease', (10, 11): 'Disease'}
+{(4, 5): 'Disease', (6, 7): 'Disease', (8, 9): 'Finding', (10, 11): 'Disease'}
+
+{(5, 7): 'Body_Part', (1, 11): 'Finding'}
+{(1, 7): 'Finding', (1, 11): 'Finding', (5, 7): 'Body_Part'}
+
+{(6, 7): 'Abbreviation'}
+{(6, 7): 'Abbreviation'}
+
+{(0, 3): 'Disease'}
+{(0, 3): 'Disease'}
+
+{(3, 5): 'Finding', (6, 7): 'Disease', (15, 16): 'Abbreviation', (6, 9): 'Finding'}
+{(3, 5): 'Finding', (6, 9): 'Finding', (7, 9): 'Finding', (15, 16): 'Abbreviation'}
+
+{(3, 5): 'Body_Part', (1, 5): 'Disease'}
+{(1, 5): 'Disease', (3, 5): 'Body_Part'}
+
+{(4, 6): 'Body_Part', (1, 6): 'Finding'}
+{(4, 6): 'Body_Part'}
+
+{(2, 5): 'Finding'}
+{(2, 5): 'Finding'}
+
+{(1, 10): 'Disease', (14, 15): 'Abbreviation', (16, 20): 'Finding'}
+{(1, 10): 'Disease', (14, 15): 'Abbreviation', (16, 20): 'Finding'}
+
+{(1, 6): 'Disease', (10, 11): 'Abbreviation', (14, 16): 'Finding', (18, 22): 'Finding', (26, 28): 'Finding', (29, 33): 'Finding', (39, 43): 'Body_Part', (34, 43): 'Finding'}
+{(1, 6): 'Disease', (10, 11): 'Abbreviation', (14, 16): 'Finding', (18, 22): 'Finding', (18, 25): 'Finding', (26, 28): 'Finding', (29, 33): 'Finding', (39, 43): 'Body_Part'}
+
+{(0, 5): 'Disease'}
+{(0, 5): 'Disease'}
+
+{(0, 5): 'Disease', (6, 9): 'Finding', (10, 11): 'Body_Part', (15, 19): 'Finding'}
+{(0, 5): 'Disease', (8, 9): 'Finding', (10, 11): 'Body_Part', (12, 14): 'Body_Part', (15, 19): 'Finding'}
+
+{(7, 9): 'Body_Part', (13, 14): 'Abbreviation', (15, 16): 'Disease', (1, 9): 'Disease', (15, 20): 'Finding'}
+{(1, 9): 'Disease', (7, 9): 'Body_Part', (13, 14): 'Abbreviation', (15, 20): 'Finding'}
+
+{(4, 6): 'Body_Part', (6, 7): 'Abbreviation', (2, 6): 'Disease'}
+{(2, 7): 'Disease', (4, 5): 'Body_Part', (4, 7): 'Body_Part'}
+
+{(2, 3): 'Procedure', (6, 7): 'Abbreviation', (9, 11): 'Abbreviation', (5, 7): 'Procedure'}
+{(2, 3): 'Abbreviation', (2, 4): 'Procedure', (10, 11): 'Abbreviation'}
+
+{(4, 6): 'Body_Part', (2, 10): 'Finding'}
+{(2, 6): 'Finding', (4, 6): 'Body_Part', (8, 9): 'Abbreviation', (8, 10): 'Finding'}
+
+{(0, 4): 'Disease', (15, 17): 'Body_Part', (21, 22): 'Disease', (25, 26): 'Finding', (30, 31): 'Body_Part', (40, 41): 'Medication', (10, 17): 'Disease', (28, 34): 'Finding'}
+{(2, 4): 'Disease', (10, 11): 'Disease', (12, 17): 'Finding', (15, 17): 'Body_Part', (21, 22): 'Finding', (25, 26): 'Finding', (28, 31): 'Procedure', (40, 41): 'Procedure'}
+
+{(3, 7): 'Body_Part', (7, 9): 'Disease', (10, 12): 'Disease', (13, 14): 'Body_Part', (16, 17): 'Procedure', (13, 15): 'Finding'}
+{(3, 7): 'Body_Part', (7, 9): 'Disease', (10, 12): 'Disease', (13, 14): 'Body_Part', (13, 15): 'Procedure', (16, 17): 'Procedure'}
+
+{(0, 1): 'Finding', (6, 7): 'Abbreviation', (9, 10): 'Finding', (28, 29): 'Abbreviation'}
+{(6, 7): 'Abbreviation', (9, 10): 'Disease'}
+
+{(0, 1): 'Disease', (0, 6): 'Finding'}
+{(0, 6): 'Finding', (2, 4): 'Body_Part', (2, 6): 'Finding'}
+
+{(3, 4): 'Finding', (5, 7): 'Finding'}
+{(3, 7): 'Finding'}
+
+{(4, 9): 'Disease', (11, 13): 'Finding', (21, 26): 'Procedure', (27, 30): 'Finding', (31, 33): 'Finding', (36, 38): 'Procedure'}
+{(4, 9): 'Disease', (11, 13): 'Finding', (21, 26): 'Procedure', (36, 38): 'Procedure'}
+
+{(0, 1): 'Abbreviation', (9, 10): 'Abbreviation', (16, 17): 'Finding', (18, 19): 'Abbreviation', (26, 27): 'Body_Part', (39, 40): 'Finding', (42, 43): 'Abbreviation', (0, 6): 'Body_Part', (9, 15): 'Body_Part', (18, 25): 'Body_Part', (42, 48): 'Body_Part', (26, 35): 'Finding'}
+{(0, 1): 'Abbreviation', (0, 7): 'Body_Part', (9, 10): 'Abbreviation', (18, 19): 'Abbreviation', (26, 27): 'Abbreviation', (26, 32): 'Body_Part', (39, 42): 'Finding', (42, 43): 'Abbreviation', (42, 48): 'Body_Part'}
+
+{(6, 8): 'Body_Part', (14, 16): 'Procedure', (4, 8): 'Finding'}
+{(4, 8): 'Finding', (6, 8): 'Body_Part', (14, 16): 'Procedure'}
+
+{(0, 2): 'Disease', (2, 3): 'Disease', (3, 6): 'Disease', (6, 7): 'Abbreviation', (7, 10): 'Disease', (13, 14): 'Abbreviation', (12, 15): 'Disease'}
+{(0, 1): 'Disease', (2, 3): 'Finding', (3, 6): 'Disease', (6, 7): 'Abbreviation'}
+
+{(1, 2): 'Body_Part', (9, 10): 'Abbreviation', (13, 15): 'Finding', (19, 21): 'Body_Part', (21, 22): 'Disease', (23, 31): 'Body_Part', (38, 39): 'Body_Part', (1, 5): 'Disease', (23, 35): 'Finding'}
+{(1, 2): 'Body_Part', (1, 5): 'Disease', (9, 10): 'Abbreviation', (13, 15): 'Finding', (17, 22): 'Finding', (19, 21): 'Body_Part', (23, 31): 'Body_Part', (34, 39): 'Finding'}
+
+{(2, 3): 'Procedure', (4, 6): 'Body_Part', (9, 10): 'Disease'}
+{(2, 3): 'Procedure', (4, 6): 'Body_Part', (9, 11): 'Finding'}
+
+{(2, 4): 'Disease', (5, 9): 'Body_Part', (15, 16): 'Procedure'}
+{(2, 4): 'Disease', (2, 9): 'Finding', (5, 9): 'Body_Part', (15, 16): 'Procedure'}
+
+{(0, 1): 'Body_Part', (0, 4): 'Disease'}
+{(0, 1): 'Body_Part', (0, 4): 'Disease'}
+
+{(0, 3): 'Disease', (5, 10): 'Disease', (12, 13): 'Disease', (14, 15): 'Disease', (16, 17): 'Disease'}
+{(1, 3): 'Disease', (5, 10): 'Disease', (12, 13): 'Disease', (14, 15): 'Disease', (16, 17): 'Disease', (17, 18): 'Finding'}
+
+{(3, 4): 'Body_Part', (13, 14): 'Body_Part', (18, 19): 'Abbreviation', (31, 32): 'Body_Part', (44, 48): 'Body_Part', (49, 51): 'Finding', (51, 55): 'Finding', (1, 4): 'Disease', (6, 14): 'Disease', (29, 32): 'Disease', (42, 48): 'Finding'}
+{(1, 4): 'Disease', (6, 14): 'Disease', (18, 19): 'Abbreviation', (31, 32): 'Body_Part', (42, 48): 'Finding', (51, 60): 'Finding', (56, 57): 'Body_Part', (56, 60): 'Finding'}
+
+{(9, 10): 'Body_Part', (11, 13): 'Body_Part', (23, 24): 'Body_Part', (25, 26): 'Body_Part', (39, 40): 'Body_Part', (47, 48): 'Abbreviation', (54, 55): 'Abbreviation', (7, 13): 'Finding', (21, 26): 'Procedure', (28, 55): 'Finding'}
+{(7, 13): 'Finding', (9, 10): 'Body_Part', (11, 13): 'Body_Part', (25, 26): 'Body_Part', (37, 40): 'Body_Part', (37, 43): 'Finding', (47, 48): 'Abbreviation', (49, 50): 'Finding', (54, 55): 'Abbreviation'}
+
+{(8, 9): 'Body_Part', (11, 15): 'Body_Part', (23, 24): 'Abbreviation', (27, 28): 'Body_Part', (29, 31): 'Disease', (47, 48): 'Body_Part', (2, 20): 'Finding', (40, 48): 'Disease', (25, 28): 'Disease'}
+{(23, 24): 'Abbreviation', (29, 31): 'Procedure', (40, 48): 'Disease'}
+
+{(1, 8): 'Disease', (10, 12): 'Finding'}
+{(1, 8): 'Disease', (10, 12): 'Finding'}
+
+{(2, 3): 'Body_Part', (7, 8): 'Body_Part'}
+{(2, 3): 'Body_Part', (2, 8): 'Body_Part', (9, 12): 'Body_Part'}
+
+{}
+{}
+
+{(0, 1): 'Abbreviation'}
+{(0, 1): 'Abbreviation'}
+
+{(0, 8): 'Disease', (8, 15): 'Disease'}
+{(0, 5): 'Disease', (2, 3): 'Body_Part', (8, 14): 'Disease'}
+
+{(0, 3): 'Disease', (3, 21): 'Disease', (22, 25): 'Disease'}
+{(0, 3): 'Disease'}
+
+{(3, 7): 'Body_Part', (8, 10): 'Finding', (12, 13): 'Procedure', (16, 18): 'Finding', (20, 23): 'Finding', (25, 27): 'Disease'}
+{(3, 7): 'Body_Part', (8, 10): 'Finding', (12, 13): 'Procedure', (16, 18): 'Body_Part', (20, 23): 'Finding', (25, 29): 'Finding'}
+
+{}
+{}
+
+{(1, 2): 'Abbreviation', (10, 18): 'Body_Part', (20, 23): 'Finding', (1, 5): 'Body_Part', (1, 18): 'Finding'}
+{(1, 2): 'Abbreviation', (1, 5): 'Body_Part', (10, 18): 'Body_Part'}
+
+{(0, 1): 'Disease', (4, 6): 'Body_Part', (11, 13): 'Body_Part', (17, 20): 'Procedure', (1, 6): 'Disease', (8, 13): 'Finding'}
+{(0, 1): 'Disease', (1, 6): 'Disease', (4, 6): 'Body_Part', (8, 13): 'Finding', (11, 13): 'Body_Part'}
+
+{(1, 5): 'Disease', (9, 10): 'Abbreviation', (12, 14): 'Disease', (15, 16): 'Disease', (18, 19): 'Abbreviation', (22, 25): 'Finding', (31, 32): 'Abbreviation', (33, 34): 'Abbreviation', (36, 37): 'Abbreviation', (38, 39): 'Abbreviation', (43, 44): 'Abbreviation', (48, 49): 'Abbreviation', (49, 52): 'Finding', (52, 53): 'Finding', (53, 54): 'Body_Part', (55, 56): 'Finding', (56, 57): 'Finding', (57, 58): 'Abbreviation', (59, 60): 'Finding', (60, 61): 'Body_Part', (62, 63): 'Finding', (64, 65): 'Disease', (68, 70): 'Body_Part', (70, 74): 'Disease', (18, 20): 'Body_Part', (64, 70): 'Finding', (17, 20): 'Finding'}
+{(1, 5): 'Disease', (9, 10): 'Abbreviation', (12, 14): 'Disease', (15, 16): 'Disease', (17, 20): 'Finding', (18, 19): 'Abbreviation', (18, 20): 'Body_Part', (22, 25): 'Finding', (31, 32): 'Abbreviation', (33, 34): 'Abbreviation', (36, 37): 'Abbreviation', (38, 39): 'Abbreviation', (43, 44): 'Abbreviation', (48, 49): 'Abbreviation', (49, 50): 'Abbreviation', (50, 51): 'Finding', (51, 52): 'Finding', (52, 53): 'Finding', (53, 54): 'Body_Part', (55, 56): 'Finding', (56, 57): 'Finding', (57, 58): 'Abbreviation', (59, 60): 'Finding', (60, 61): 'Body_Part', (62, 63): 'Finding', (68, 70): 'Body_Part', (70, 74): 'Disease'}
+
+{(5, 7): 'Body_Part', (11, 12): 'Abbreviation', (13, 15): 'Finding', (22, 23): 'Medication', (29, 32): 'Disease', (34, 36): 'Finding', (1, 7): 'Disease'}
+{(1, 7): 'Disease', (5, 7): 'Body_Part', (11, 12): 'Abbreviation', (13, 15): 'Disease', (22, 23): 'Medication', (28, 36): 'Finding'}
+
+{(8, 9): 'Body_Part', (13, 14): 'Abbreviation', (14, 15): 'Abbreviation', (16, 17): 'Abbreviation', (4, 11): 'Finding'}
+{(4, 10): 'Finding', (4, 11): 'Finding', (8, 10): 'Body_Part', (8, 11): 'Body_Part', (13, 14): 'Abbreviation', (14, 15): 'Abbreviation', (16, 17): 'Abbreviation'}
+
+{(1, 5): 'Body_Part', (10, 12): 'Finding', (14, 15): 'Finding', (16, 22): 'Disease'}
+{(1, 5): 'Body_Part', (16, 22): 'Disease', (20, 22): 'Body_Part'}
+
+{(0, 1): 'Disease', (1, 5): 'Disease', (8, 9): 'Abbreviation', (10, 12): 'Disease', (16, 17): 'Procedure', (22, 23): 'Finding', (25, 26): 'Procedure', (31, 32): 'Finding'}
+{(0, 1): 'Disease', (1, 5): 'Disease', (16, 17): 'Procedure', (22, 23): 'Finding', (25, 26): 'Procedure'}
+
+{(7, 10): 'Body_Part', (13, 14): 'Body_Part', (18, 19): 'Abbreviation', (28, 30): 'Body_Part', (32, 33): 'Body_Part', (34, 35): 'Finding', (36, 37): 'Abbreviation', (39, 40): 'Abbreviation', (41, 42): 'Abbreviation', (1, 14): 'Disease', (28, 33): 'Finding', (36, 38): 'Finding'}
+{(1, 14): 'Disease', (9, 10): 'Body_Part', (18, 19): 'Abbreviation', (28, 30): 'Body_Part', (28, 33): 'Finding', (34, 35): 'Finding', (36, 37): 'Abbreviation', (36, 38): 'Finding', (39, 40): 'Abbreviation', (41, 42): 'Abbreviation'}
+
+{(8, 9): 'Body_Part', (5, 9): 'Finding'}
+{(5, 9): 'Finding'}
+
+{(0, 1): 'Finding'}
+{(0, 1): 'Finding'}
+
+{(9, 10): 'Body_Part', (17, 23): 'Finding', (27, 30): 'Finding', (31, 32): 'Abbreviation', (38, 39): 'Finding', (40, 41): 'Finding', (43, 44): 'Finding', (1, 10): 'Disease'}
+{(1, 10): 'Disease', (17, 20): 'Finding', (27, 30): 'Finding', (31, 32): 'Abbreviation', (38, 39): 'Finding', (40, 41): 'Finding', (43, 45): 'Finding'}
+
+{(7, 9): 'Body_Part', (1, 27): 'Finding'}
+{(1, 3): 'Disease', (11, 12): 'Abbreviation'}
+
+{(1, 3): 'Finding'}
+{(1, 4): 'Finding'}
+
+{(2, 4): 'Procedure'}
+{}
+
+{(1, 6): 'Disease', (10, 11): 'Abbreviation', (14, 22): 'Body_Part', (33, 35): 'Body_Part', (14, 31): 'Finding', (32, 35): 'Finding'}
+{(1, 6): 'Disease', (10, 11): 'Abbreviation', (14, 22): 'Body_Part', (24, 31): 'Finding', (32, 33): 'Disease', (32, 35): 'Finding', (33, 35): 'Body_Part'}
+
+{(0, 5): 'Disease'}
+{(0, 5): 'Disease'}
+
+{(4, 6): 'Body_Part', (10, 11): 'Abbreviation', (19, 20): 'Body_Part', (21, 23): 'Finding', (24, 27): 'Finding', (28, 31): 'Finding', (34, 35): 'Body_Part', (43, 44): 'Body_Part', (47, 51): 'Body_Part', (52, 53): 'Finding', (54, 62): 'Body_Part', (69, 70): 'Abbreviation', (1, 6): 'Disease', (32, 39): 'Finding', (40, 44): 'Finding', (16, 20): 'Finding'}
+{(1, 6): 'Disease', (4, 6): 'Body_Part', (10, 11): 'Abbreviation', (16, 18): 'Disease', (16, 20): 'Finding', (21, 23): 'Finding', (28, 31): 'Finding', (34, 35): 'Body_Part', (34, 39): 'Finding', (40, 44): 'Finding', (45, 51): 'Finding', (47, 51): 'Body_Part', (54, 62): 'Body_Part', (69, 70): 'Abbreviation'}
+
+{(3, 5): 'Body_Part', (0, 5): 'Disease'}
+{(0, 5): 'Disease', (3, 5): 'Body_Part'}
+
+{(1, 3): 'Disease', (7, 8): 'Abbreviation', (11, 14): 'Finding', (15, 17): 'Finding', (18, 25): 'Finding'}
+{(1, 3): 'Disease', (7, 8): 'Abbreviation', (11, 14): 'Finding', (15, 17): 'Finding', (15, 25): 'Finding'}
+
+{(0, 2): 'Disease'}
+{(0, 2): 'Disease'}
+
+{(0, 1): 'Abbreviation', (1, 7): 'Finding'}
+{(0, 1): 'Abbreviation'}
+
+{(0, 3): 'Finding'}
+{(0, 3): 'Finding'}
+
+{(0, 2): 'Finding'}
+{(0, 2): 'Disease'}
+
+{(0, 2): 'Finding'}
+{(0, 2): 'Disease'}
+
+{}
+{}
+
+{(0, 4): 'Disease'}
+{(0, 4): 'Disease'}
+
+{(2, 5): 'Body_Part', (0, 5): 'Disease'}
+{(0, 5): 'Finding', (3, 5): 'Body_Part'}
+
+{(0, 2): 'Disease'}
+{(0, 2): 'Disease'}
+
+{(0, 1): 'Abbreviation'}
+{(0, 1): 'Disease'}
+
+{(0, 1): 'Disease'}
+{(0, 1): 'Disease'}
+
+{(0, 1): 'Disease'}
+{(0, 1): 'Disease'}
+
+{}
+{}
+
+{(1, 6): 'Disease', (10, 11): 'Abbreviation', (18, 19): 'Abbreviation', (21, 22): 'Body_Part', (23, 29): 'Finding', (18, 22): 'Procedure'}
+{(1, 6): 'Disease', (10, 11): 'Abbreviation', (18, 19): 'Abbreviation', (18, 22): 'Procedure', (23, 25): 'Finding', (27, 29): 'Finding'}
+
+{(2, 3): 'Abbreviation'}
+{(2, 3): 'Abbreviation'}
+
+{(6, 7): 'Body_Part', (11, 12): 'Abbreviation', (15, 16): 'Procedure', (16, 29): 'Finding', (34, 35): 'Body_Part', (1, 7): 'Disease', (29, 35): 'Disease'}
+{(1, 7): 'Disease', (11, 12): 'Abbreviation', (15, 16): 'Procedure', (29, 35): 'Disease'}
+
+{(1, 2): 'Disease', (6, 7): 'Abbreviation', (18, 23): 'Finding', (29, 30): 'Medication', (31, 32): 'Medication'}
+{(1, 2): 'Disease', (6, 7): 'Abbreviation', (20, 23): 'Disease', (29, 30): 'Medication'}
+
+{(4, 5): 'Finding', (23, 24): 'Body_Part'}
+{(4, 5): 'Disease', (18, 24): 'Finding'}
+
+{(0, 1): 'Body_Part', (6, 7): 'Disease', (0, 2): 'Finding'}
+{(0, 1): 'Abbreviation', (0, 2): 'Finding'}
+
+{(8, 10): 'Disease', (16, 17): 'Body_Part', (21, 22): 'Disease', (26, 27): 'Finding', (12, 23): 'Finding'}
+{(5, 7): 'Procedure', (8, 10): 'Disease'}
+
+{(1, 4): 'Disease', (8, 9): 'Abbreviation', (12, 13): 'Disease'}
+{(1, 4): 'Disease', (8, 9): 'Abbreviation', (12, 13): 'Disease'}
+
+{(0, 8): 'Body_Part', (9, 10): 'Finding'}
+{(0, 8): 'Body_Part', (0, 10): 'Finding'}
+
+{(0, 2): 'Disease'}
+{(0, 2): 'Disease'}
+
+{(1, 3): 'Disease', (7, 8): 'Abbreviation', (9, 12): 'Finding', (13, 21): 'Finding'}
+{(1, 3): 'Disease', (7, 8): 'Abbreviation', (9, 16): 'Finding', (19, 21): 'Body_Part'}
+
+{(0, 8): 'Finding'}
+{(0, 2): 'Body_Part', (0, 3): 'Finding', (6, 8): 'Finding'}
+
+{(3, 4): 'Abbreviation', (3, 7): 'Procedure'}
+{(3, 4): 'Abbreviation', (3, 5): 'Procedure'}
+
+{(1, 2): 'Medication', (8, 9): 'Procedure'}
+{}
+
+{(0, 2): 'Disease'}
+{(0, 2): 'Disease'}
+
+{(1, 2): 'Disease', (6, 7): 'Abbreviation', (14, 15): 'Abbreviation', (24, 25): 'Disease', (28, 29): 'Procedure', (14, 20): 'Body_Part', (13, 20): 'Finding'}
+{(1, 2): 'Disease', (6, 7): 'Abbreviation', (14, 15): 'Abbreviation', (14, 20): 'Body_Part', (24, 25): 'Disease', (28, 29): 'Medication'}
+
+{}
+{}
+
+{(0, 1): 'Disease'}
+{(0, 1): 'Disease'}
+
+{(2, 5): 'Disease', (6, 7): 'Procedure', (10, 13): 'Procedure', (14, 17): 'Finding', (34, 35): 'Abbreviation', (17, 35): 'Finding'}
+{(2, 5): 'Disease', (20, 23): 'Finding', (26, 33): 'Finding', (34, 35): 'Abbreviation'}
+
+{(0, 3): 'Body_Part', (4, 7): 'Body_Part', (9, 12): 'Body_Part', (13, 16): 'Body_Part', (24, 25): 'Disease', (0, 8): 'Finding', (9, 19): 'Finding', (24, 27): 'Finding'}
+{(0, 3): 'Body_Part', (4, 7): 'Body_Part', (4, 8): 'Finding', (9, 12): 'Body_Part', (13, 16): 'Body_Part', (13, 17): 'Finding', (18, 19): 'Finding', (24, 25): 'Disease'}
+
+{(6, 7): 'Procedure', (7, 9): 'Body_Part'}
+{(6, 7): 'Procedure', (7, 9): 'Body_Part'}
+
+{(0, 1): 'Body_Part', (3, 4): 'Disease', (5, 6): 'Disease', (9, 13): 'Finding', (20, 21): 'Finding', (0, 2): 'Finding'}
+{(0, 1): 'Body_Part', (0, 2): 'Disease', (0, 6): 'Disease', (3, 4): 'Disease', (3, 6): 'Disease', (20, 21): 'Disease'}
+
+{(1, 8): 'Disease', (9, 10): 'Abbreviation'}
+{(1, 8): 'Disease', (9, 10): 'Abbreviation'}
+
+{(4, 5): 'Abbreviation', (6, 7): 'Abbreviation', (9, 10): 'Abbreviation', (10, 11): 'Abbreviation', (14, 15): 'Abbreviation', (16, 17): 'Abbreviation', (19, 20): 'Medication', (21, 22): 'Abbreviation', (4, 7): 'Medication'}
+{(4, 5): 'Abbreviation', (4, 7): 'Procedure', (9, 10): 'Abbreviation', (9, 12): 'Abbreviation', (10, 11): 'Abbreviation', (10, 12): 'Abbreviation', (14, 15): 'Abbreviation', (16, 17): 'Abbreviation', (19, 20): 'Medication', (21, 22): 'Abbreviation'}
+
+{(0, 1): 'Finding', (3, 4): 'Abbreviation'}
+{(0, 1): 'Finding', (3, 4): 'Abbreviation'}
+
+{(0, 1): 'Finding', (2, 3): 'Disease', (4, 5): 'Abbreviation'}
+{(0, 1): 'Disease', (2, 3): 'Disease', (4, 5): 'Abbreviation'}
+
+{(1, 2): 'Medication'}
+{(1, 2): 'Medication'}
+
+{(1, 4): 'Disease'}
+{(1, 4): 'Disease'}
+
+{(0, 1): 'Disease'}
+{(0, 1): 'Disease'}
+
+{(1, 4): 'Disease', (8, 9): 'Abbreviation', (10, 11): 'Abbreviation', (13, 14): 'Abbreviation', (20, 21): 'Abbreviation', (24, 26): 'Disease', (20, 23): 'Procedure'}
+{(1, 4): 'Disease', (8, 9): 'Abbreviation', (10, 11): 'Abbreviation', (13, 14): 'Abbreviation', (20, 21): 'Abbreviation', (24, 26): 'Disease'}
+
+{(0, 2): 'Disease'}
+{(0, 2): 'Disease'}
+
+{(4, 7): 'Body_Part'}
+{(2, 7): 'Finding', (4, 7): 'Body_Part'}
+
+{(0, 4): 'Finding'}
+{(0, 4): 'Finding'}
+
+{(0, 2): 'Finding', (5, 6): 'Body_Part'}
+{(0, 6): 'Disease'}
+
+{(5, 6): 'Body_Part', (5, 7): 'Finding'}
+{(5, 6): 'Body_Part', (5, 7): 'Finding'}
+
+{(2, 5): 'Body_Part'}
+{}
+
+{(0, 2): 'Disease'}
+{(0, 2): 'Disease'}
+
+{(1, 4): 'Disease', (8, 9): 'Abbreviation', (10, 12): 'Finding', (12, 14): 'Finding', (14, 16): 'Disease'}
+{(1, 4): 'Disease', (8, 9): 'Abbreviation', (10, 12): 'Finding', (10, 14): 'Finding', (12, 14): 'Finding', (14, 16): 'Disease'}
+
+{(7, 9): 'Body_Part', (0, 11): 'Finding'}
+{(1, 2): 'Body_Part', (1, 4): 'Body_Part', (1, 11): 'Finding', (7, 9): 'Body_Part', (7, 11): 'Finding'}
+
+{(6, 7): 'Abbreviation', (6, 8): 'Body_Part', (0, 8): 'Finding'}
+{(0, 8): 'Finding', (6, 7): 'Abbreviation', (6, 8): 'Body_Part'}
+
+{(1, 2): 'Disease', (0, 8): 'Finding'}
+{(1, 2): 'Disease', (1, 7): 'Finding', (1, 8): 'Finding'}
+
+{(0, 4): 'Finding'}
+{(0, 4): 'Finding'}
+
+{(1, 3): 'Body_Part', (8, 9): 'Abbreviation', (14, 16): 'Body_Part', (23, 27): 'Body_Part', (29, 34): 'Finding', (39, 41): 'Procedure', (1, 4): 'Disease', (14, 17): 'Finding', (20, 27): 'Finding'}
+{(1, 3): 'Body_Part', (1, 4): 'Disease', (8, 9): 'Abbreviation', (14, 16): 'Body_Part', (14, 17): 'Finding', (23, 27): 'Body_Part', (39, 41): 'Procedure'}
+
+{(3, 5): 'Body_Part', (0, 5): 'Disease'}
+{(0, 5): 'Disease', (3, 5): 'Body_Part'}
+
+{(1, 2): 'Disease', (6, 7): 'Abbreviation', (8, 9): 'Abbreviation', (12, 13): 'Abbreviation', (11, 13): 'Disease'}
+{(1, 2): 'Disease', (6, 7): 'Abbreviation', (8, 9): 'Abbreviation', (11, 13): 'Disease'}
+
+{(1, 8): 'Disease', (16, 17): 'Abbreviation', (23, 24): 'Abbreviation', (29, 36): 'Disease'}
+{(1, 7): 'Disease', (10, 11): 'Abbreviation', (16, 17): 'Abbreviation', (23, 24): 'Abbreviation', (27, 28): 'Abbreviation', (27, 29): 'Body_Part', (29, 36): 'Disease'}
+
+{(1, 4): 'Disease', (5, 8): 'Body_Part'}
+{(5, 8): 'Body_Part'}
+
+{(1, 7): 'Finding'}
+{(1, 7): 'Finding'}
+
+{(7, 10): 'Body_Part'}
+{(7, 10): 'Body_Part'}
+
+{(4, 5): 'Body_Part', (9, 10): 'Abbreviation', (19, 22): 'Disease', (26, 28): 'Finding', (28, 30): 'Finding', (30, 33): 'Finding', (33, 35): 'Finding', (41, 42): 'Abbreviation', (42, 44): 'Body_Part', (52, 53): 'Abbreviation', (58, 60): 'Body_Part', (75, 76): 'Body_Part', (1, 5): 'Disease', (41, 44): 'Procedure', (48, 53): 'Body_Part', (72, 76): 'Disease', (46, 53): 'Finding'}
+{(1, 5): 'Disease', (9, 10): 'Abbreviation', (19, 22): 'Disease', (28, 30): 'Finding', (30, 33): 'Finding', (33, 35): 'Finding', (41, 42): 'Abbreviation', (41, 43): 'Procedure', (58, 59): 'Body_Part', (58, 63): 'Body_Part', (72, 76): 'Disease'}
+
+{(0, 1): 'Disease', (2, 9): 'Disease', (10, 17): 'Disease'}
+{(0, 1): 'Disease', (2, 9): 'Disease', (10, 17): 'Disease'}
+
+{}
+{}
+
+{(0, 3): 'Disease', (3, 4): 'Abbreviation'}
+{(0, 3): 'Disease', (3, 4): 'Abbreviation'}
+
+{(1, 4): 'Procedure'}
+{(1, 2): 'Procedure', (2, 3): 'Abbreviation', (3, 4): 'Procedure'}
+
+{(0, 1): 'Disease'}
+{(0, 1): 'Disease'}
+
+{(0, 1): 'Abbreviation', (0, 2): 'Disease'}
+{(0, 1): 'Abbreviation', (0, 2): 'Disease'}
+
+{(0, 5): 'Disease'}
+{(0, 5): 'Disease'}
+
+{(0, 1): 'Disease', (1, 3): 'Disease', (3, 4): 'Abbreviation', (5, 6): 'Procedure', (9, 10): 'Abbreviation', (13, 14): 'Finding', (17, 18): 'Finding'}
+{(0, 1): 'Disease', (1, 3): 'Disease', (3, 4): 'Abbreviation', (5, 6): 'Abbreviation', (5, 8): 'Finding', (9, 10): 'Abbreviation', (11, 14): 'Finding', (17, 18): 'Finding'}
+
+{(1, 2): 'Disease', (6, 7): 'Abbreviation', (10, 11): 'Finding', (14, 18): 'Body_Part', (20, 21): 'Finding', (27, 29): 'Disease', (14, 19): 'Finding'}
+{(1, 2): 'Disease', (6, 7): 'Abbreviation', (10, 11): 'Disease', (14, 18): 'Body_Part', (14, 21): 'Finding', (27, 29): 'Disease'}
+
+{(0, 1): 'Disease'}
+{(0, 1): 'Disease'}
+
+{(0, 1): 'Disease', (1, 2): 'Body_Part', (3, 4): 'Abbreviation', (9, 10): 'Disease', (11, 12): 'Abbreviation', (17, 18): 'Procedure', (18, 19): 'Abbreviation', (1, 3): 'Disease', (3, 7): 'Body_Part', (11, 15): 'Body_Part', (18, 22): 'Body_Part', (7, 15): 'Finding'}
+{(0, 1): 'Disease', (1, 3): 'Disease', (3, 4): 'Abbreviation', (3, 7): 'Body_Part', (9, 10): 'Disease', (11, 12): 'Abbreviation', (11, 15): 'Body_Part', (18, 19): 'Abbreviation', (18, 22): 'Body_Part'}
+
+{(8, 9): 'Body_Part', (18, 19): 'Abbreviation', (21, 22): 'Abbreviation', (23, 24): 'Disease', (25, 26): 'Disease', (27, 28): 'Disease', (28, 29): 'Disease', (39, 41): 'Disease', (44, 52): 'Procedure', (60, 61): 'Abbreviation', (63, 64): 'Abbreviation', (79, 80): 'Body_Part', (1, 14): 'Disease', (54, 64): 'Finding', (72, 85): 'Disease'}
+{(1, 14): 'Disease', (8, 9): 'Body_Part', (18, 19): 'Abbreviation', (21, 22): 'Abbreviation', (23, 24): 'Disease', (25, 26): 'Disease', (27, 28): 'Disease', (28, 29): 'Disease', (37, 41): 'Finding', (49, 50): 'Procedure', (51, 52): 'Procedure', (54, 57): 'Finding', (60, 61): 'Abbreviation', (79, 80): 'Body_Part'}
+
+{(2, 5): 'Body_Part', (7, 8): 'Abbreviation', (9, 10): 'Body_Part', (11, 12): 'Body_Part', (0, 6): 'Disease', (7, 12): 'Procedure'}
+{(0, 3): 'Disease', (3, 5): 'Body_Part', (7, 8): 'Abbreviation', (7, 12): 'Procedure', (9, 10): 'Body_Part'}
+
+{}
+{}
+
+{(1, 8): 'Disease', (12, 13): 'Abbreviation', (14, 15): 'Abbreviation', (15, 16): 'Abbreviation', (14, 16): 'Procedure'}
+{(1, 8): 'Disease', (12, 13): 'Abbreviation', (14, 16): 'Abbreviation'}
+
+{(0, 1): 'Abbreviation', (2, 3): 'Abbreviation'}
+{(0, 2): 'Abbreviation', (2, 3): 'Abbreviation'}
+
+{(3, 4): 'Abbreviation', (13, 14): 'Abbreviation', (2, 4): 'Body_Part', (1, 6): 'Finding'}
+{(1, 6): 'Disease', (13, 14): 'Abbreviation'}
+
+{(0, 7): 'Disease'}
+{(0, 7): 'Disease'}
+
+{(0, 2): 'Finding', (3, 4): 'Abbreviation', (5, 6): 'Abbreviation'}
+{(0, 2): 'Finding', (3, 4): 'Abbreviation', (5, 6): 'Abbreviation'}
+
+{}
+{}
+
+{(5, 6): 'Abbreviation', (8, 21): 'Finding'}
+{(5, 6): 'Abbreviation', (10, 11): 'Procedure', (19, 21): 'Procedure'}
+
+{(2, 4): 'Finding', (5, 7): 'Finding'}
+{}
+
+{(0, 1): 'Finding', (2, 3): 'Finding', (8, 11): 'Disease', (12, 13): 'Disease', (14, 15): 'Procedure', (17, 18): 'Abbreviation', (19, 20): 'Abbreviation', (20, 21): 'Abbreviation'}
+{(0, 1): 'Finding', (2, 3): 'Finding', (8, 9): 'Abbreviation', (12, 13): 'Disease', (14, 15): 'Abbreviation', (17, 18): 'Abbreviation', (19, 20): 'Abbreviation', (20, 21): 'Abbreviation'}
+
+{(1, 2): 'Abbreviation'}
+{(1, 2): 'Abbreviation'}
+
+{(0, 3): 'Finding', (5, 6): 'Abbreviation', (7, 11): 'Finding', (13, 19): 'Finding', (20, 22): 'Finding', (30, 32): 'Procedure'}
+{(0, 3): 'Disease', (5, 6): 'Abbreviation', (7, 11): 'Disease', (20, 22): 'Finding'}
+
+{(1, 3): 'Body_Part', (4, 5): 'Disease', (12, 13): 'Disease', (0, 3): 'Disease', (4, 10): 'Finding', (0, 4): 'Finding'}
+{(0, 1): 'Disease', (1, 3): 'Body_Part', (7, 8): 'Finding', (9, 10): 'Finding', (12, 13): 'Disease'}
+
+{(1, 5): 'Disease', (9, 10): 'Abbreviation', (11, 13): 'Disease', (16, 17): 'Procedure', (17, 21): 'Disease'}
+{(1, 5): 'Disease', (9, 10): 'Abbreviation', (11, 13): 'Finding', (16, 17): 'Procedure', (17, 21): 'Disease'}
+
+{(4, 8): 'Finding', (9, 12): 'Finding', (13, 18): 'Finding'}
+{(4, 5): 'Body_Part', (4, 8): 'Finding'}
+
+{(6, 7): 'Body_Part', (11, 12): 'Abbreviation', (13, 16): 'Finding', (16, 21): 'Finding', (21, 23): 'Finding', (1, 7): 'Disease'}
+{(1, 7): 'Disease', (11, 12): 'Abbreviation', (13, 16): 'Finding', (21, 23): 'Finding'}
+
+{(0, 3): 'Finding', (3, 7): 'Body_Part', (11, 14): 'Body_Part', (15, 18): 'Body_Part', (20, 22): 'Procedure', (27, 28): 'Body_Part', (7, 18): 'Finding', (22, 28): 'Disease'}
+{(0, 3): 'Finding', (3, 7): 'Body_Part', (10, 14): 'Body_Part', (10, 18): 'Body_Part', (15, 18): 'Body_Part', (20, 22): 'Procedure', (22, 28): 'Disease'}
+
+{(0, 1): 'Finding', (5, 9): 'Body_Part', (3, 9): 'Finding'}
+{(3, 4): 'Disease', (5, 9): 'Body_Part'}
+
+{}
+{(7, 9): 'Procedure'}
+
+{(1, 2): 'Disease', (6, 7): 'Abbreviation', (12, 15): 'Disease', (16, 19): 'Disease', (35, 37): 'Disease', (28, 37): 'Finding'}
+{(1, 2): 'Disease', (6, 7): 'Abbreviation', (16, 19): 'Disease', (28, 37): 'Finding', (35, 37): 'Disease'}
+
+{(2, 3): 'Finding', (5, 7): 'Finding', (9, 10): 'Disease'}
+{(5, 7): 'Finding', (9, 10): 'Finding'}
+
+{(5, 6): 'Abbreviation', (14, 15): 'Medication', (16, 17): 'Medication', (18, 19): 'Medication', (2, 6): 'Disease'}
+{(2, 3): 'Finding', (5, 6): 'Abbreviation', (14, 15): 'Medication', (16, 17): 'Medication', (18, 19): 'Medication'}
+
+{}
+{(3, 6): 'Procedure'}
+
+{(0, 1): 'Abbreviation', (4, 7): 'Finding', (8, 9): 'Finding', (9, 10): 'Finding', (11, 13): 'Body_Part', (11, 14): 'Finding'}
+{(0, 1): 'Abbreviation', (4, 7): 'Finding', (8, 9): 'Finding', (9, 10): 'Finding', (11, 14): 'Finding'}
+
+{(0, 2): 'Finding', (4, 5): 'Abbreviation', (6, 10): 'Finding', (11, 12): 'Abbreviation', (16, 17): 'Abbreviation', (3, 5): 'Finding'}
+{(0, 2): 'Finding', (3, 4): 'Finding', (6, 10): 'Finding', (7, 10): 'Finding', (11, 12): 'Abbreviation', (11, 15): 'Finding', (16, 17): 'Abbreviation'}
+
+{(3, 4): 'Disease', (7, 8): 'Body_Part', (1, 8): 'Finding'}
+{(1, 8): 'Finding', (3, 4): 'Abbreviation'}
+
+{(4, 7): 'Finding', (8, 17): 'Finding'}
+{(8, 11): 'Finding'}
+
+{(0, 1): 'Disease'}
+{(0, 1): 'Disease'}
+
+{(5, 7): 'Body_Part', (11, 12): 'Abbreviation', (15, 19): 'Disease', (24, 26): 'Finding', (27, 28): 'Finding', (32, 34): 'Finding', (1, 7): 'Disease'}
+{(1, 7): 'Disease', (5, 7): 'Body_Part', (11, 12): 'Abbreviation', (17, 19): 'Disease', (24, 26): 'Finding', (32, 34): 'Finding'}
+
+{(7, 8): 'Procedure', (8, 10): 'Procedure', (11, 12): 'Procedure'}
+{(7, 8): 'Abbreviation'}
+
+{(7, 8): 'Finding', (17, 18): 'Abbreviation', (19, 21): 'Body_Part', (23, 24): 'Procedure', (32, 36): 'Body_Part', (17, 21): 'Procedure', (30, 36): 'Finding'}
+{(7, 8): 'Finding', (17, 18): 'Abbreviation', (17, 21): 'Procedure', (19, 21): 'Body_Part', (23, 24): 'Procedure', (30, 36): 'Finding', (34, 36): 'Body_Part'}
+
+{(3, 4): 'Finding', (6, 8): 'Finding'}
+{(3, 4): 'Finding', (6, 8): 'Finding'}
+
+{}
+{}
+
+{(4, 6): 'Body_Part', (0, 6): 'Disease'}
+{(0, 6): 'Disease', (4, 6): 'Body_Part'}
+
+{(0, 5): 'Body_Part', (9, 10): 'Body_Part', (19, 20): 'Procedure', (0, 9): 'Disease', (9, 11): 'Finding'}
+{(0, 5): 'Body_Part', (5, 9): 'Disease', (9, 10): 'Body_Part', (10, 11): 'Procedure'}
+
+{(1, 2): 'Disease', (6, 7): 'Abbreviation', (10, 11): 'Abbreviation', (12, 15): 'Finding', (17, 19): 'Finding', (19, 20): 'Disease'}
+{(1, 2): 'Disease', (6, 7): 'Abbreviation', (10, 11): 'Abbreviation', (12, 13): 'Disease', (17, 19): 'Finding', (19, 20): 'Disease'}
+
+{(1, 6): 'Disease', (10, 11): 'Abbreviation', (12, 13): 'Finding', (19, 21): 'Procedure'}
+{(1, 6): 'Disease', (10, 11): 'Abbreviation', (12, 13): 'Finding', (15, 17): 'Finding', (19, 21): 'Procedure'}
+
+{(0, 1): 'Abbreviation', (5, 7): 'Disease', (0, 5): 'Body_Part'}
+{(0, 1): 'Abbreviation', (0, 5): 'Body_Part', (5, 7): 'Disease'}
+
+{(3, 4): 'Procedure', (7, 9): 'Medication', (11, 12): 'Abbreviation', (15, 16): 'Finding', (6, 9): 'Procedure', (10, 12): 'Procedure', (13, 16): 'Procedure'}
+{(7, 8): 'Medication', (11, 12): 'Abbreviation', (15, 16): 'Abbreviation'}
+
+{(9, 10): 'Body_Part', (12, 14): 'Body_Part', (18, 19): 'Abbreviation', (20, 29): 'Finding', (32, 33): 'Finding', (41, 42): 'Body_Part', (44, 46): 'Body_Part', (1, 14): 'Disease', (33, 46): 'Disease'}
+{(1, 14): 'Disease', (9, 10): 'Body_Part', (12, 14): 'Body_Part', (18, 19): 'Abbreviation', (20, 24): 'Finding', (25, 29): 'Finding', (33, 46): 'Disease', (41, 42): 'Body_Part', (44, 46): 'Body_Part'}
+
+{(1, 3): 'Disease', (7, 8): 'Abbreviation', (10, 11): 'Disease', (12, 13): 'Disease'}
+{(1, 3): 'Disease', (7, 8): 'Abbreviation'}
+
+{(0, 2): 'Disease'}
+{(0, 2): 'Disease'}
+
+{(7, 8): 'Body_Part', (2, 14): 'Disease'}
+{(0, 2): 'Finding', (2, 14): 'Disease', (7, 8): 'Body_Part'}
+
+{(1, 2): 'Disease', (6, 7): 'Abbreviation', (10, 11): 'Disease', (15, 17): 'Procedure', (19, 20): 'Finding'}
+{(1, 2): 'Disease', (6, 7): 'Abbreviation', (10, 11): 'Disease', (15, 17): 'Disease', (19, 20): 'Procedure'}
+
+{(2, 5): 'Finding', (6, 7): 'Finding', (10, 12): 'Body_Part', (12, 13): 'Disease', (8, 12): 'Finding'}
+{(2, 5): 'Finding', (6, 7): 'Finding', (8, 12): 'Finding', (10, 12): 'Body_Part', (12, 13): 'Disease'}
+
+{(1, 2): 'Body_Part', (9, 10): 'Abbreviation', (18, 20): 'Finding', (1, 5): 'Disease'}
+{(1, 2): 'Body_Part', (1, 5): 'Disease', (9, 10): 'Abbreviation', (18, 20): 'Finding'}
+
+{(0, 8): 'Body_Part', (0, 10): 'Finding'}
+{(0, 8): 'Body_Part', (0, 10): 'Finding'}
+
+{(0, 1): 'Body_Part', (0, 4): 'Disease'}
+{(0, 1): 'Body_Part', (0, 4): 'Disease'}
+
+{(3, 4): 'Abbreviation', (5, 6): 'Body_Part', (6, 7): 'Body_Part', (8, 9): 'Body_Part', (10, 12): 'Finding', (14, 15): 'Procedure', (17, 18): 'Disease', (19, 20): 'Disease', (23, 24): 'Abbreviation', (3, 5): 'Body_Part'}
+{(3, 4): 'Abbreviation', (3, 9): 'Body_Part', (10, 12): 'Finding', (14, 15): 'Procedure', (17, 18): 'Disease', (19, 20): 'Disease', (23, 24): 'Abbreviation'}
+
+{(4, 5): 'Body_Part', (9, 10): 'Abbreviation', (18, 21): 'Disease', (1, 5): 'Disease'}
+{(1, 5): 'Disease', (9, 10): 'Abbreviation', (18, 21): 'Disease'}
+
+{(1, 2): 'Family_Member', (7, 11): 'Finding', (12, 14): 'Finding'}
+{(1, 2): 'Family_Member', (12, 13): 'Finding', (12, 14): 'Finding'}
+
+{(5, 7): 'Finding'}
+{(5, 7): 'Finding'}
+
+{(1, 4): 'Disease', (5, 6): 'Body_Part', (8, 9): 'Abbreviation', (5, 8): 'Disease'}
+{(1, 8): 'Disease', (3, 4): 'Body_Part', (5, 6): 'Body_Part', (5, 8): 'Disease', (8, 9): 'Abbreviation'}
+
+{(14, 17): 'Body_Part', (19, 20): 'Abbreviation', (22, 23): 'Abbreviation', (12, 17): 'Finding', (19, 23): 'Procedure'}
+{(12, 17): 'Finding', (14, 17): 'Body_Part', (19, 20): 'Abbreviation', (19, 21): 'Procedure', (22, 23): 'Abbreviation'}
+
+{(0, 2): 'Body_Part', (0, 3): 'Disease', (0, 8): 'Finding'}
+{(0, 2): 'Body_Part', (0, 3): 'Finding', (5, 8): 'Finding'}
+
+{}
+{}
+
+{(9, 11): 'Body_Part', (15, 16): 'Abbreviation', (21, 23): 'Disease', (30, 31): 'Abbreviation', (40, 41): 'Abbreviation', (42, 43): 'Body_Part', (49, 50): 'Abbreviation', (1, 11): 'Disease', (30, 32): 'Disease', (40, 43): 'Procedure', (48, 50): 'Body_Part', (46, 50): 'Finding'}
+{(1, 11): 'Disease', (9, 11): 'Body_Part', (15, 16): 'Abbreviation', (21, 23): 'Disease', (30, 31): 'Abbreviation', (30, 32): 'Disease', (40, 41): 'Abbreviation', (40, 43): 'Procedure', (46, 50): 'Finding'}
+
+{(1, 2): 'Abbreviation', (10, 11): 'Finding', (15, 16): 'Finding', (17, 20): 'Finding', (21, 22): 'Finding', (23, 24): 'Finding', (1, 5): 'Finding'}
+{(1, 5): 'Finding', (15, 16): 'Finding', (17, 20): 'Finding', (21, 22): 'Finding', (23, 24): 'Finding'}
+
+{(5, 9): 'Finding', (23, 24): 'Disease', (26, 29): 'Finding'}
+{(5, 7): 'Finding', (8, 9): 'Finding', (26, 29): 'Finding'}
+
+{(2, 3): 'Finding', (4, 5): 'Finding', (6, 7): 'Procedure', (9, 12): 'Finding', (13, 16): 'Finding', (17, 18): 'Finding', (19, 23): 'Finding', (25, 26): 'Finding', (27, 28): 'Abbreviation', (30, 31): 'Abbreviation', (32, 34): 'Finding', (35, 36): 'Finding', (37, 38): 'Finding', (38, 39): 'Abbreviation', (40, 41): 'Finding', (41, 42): 'Abbreviation', (27, 31): 'Finding'}
+{(2, 3): 'Finding', (4, 5): 'Finding', (6, 7): 'Finding', (17, 23): 'Finding', (19, 23): 'Finding', (25, 26): 'Finding', (27, 28): 'Abbreviation', (27, 29): 'Finding', (27, 31): 'Finding', (32, 34): 'Finding', (35, 36): 'Finding', (37, 38): 'Finding', (38, 39): 'Abbreviation', (40, 41): 'Finding'}
+
+{(8, 10): 'Body_Part', (0, 10): 'Disease'}
+{(0, 10): 'Disease', (8, 10): 'Body_Part'}
+
+{(0, 5): 'Disease'}
+{(0, 5): 'Disease'}
+
+{(4, 5): 'Abbreviation', (9, 17): 'Body_Part', (18, 23): 'Finding', (5, 17): 'Finding'}
+{(1, 2): 'Body_Part', (1, 3): 'Finding', (4, 5): 'Abbreviation', (9, 17): 'Body_Part', (18, 23): 'Finding'}
+
+{(1, 8): 'Disease', (12, 13): 'Abbreviation', (16, 18): 'Finding', (19, 20): 'Finding', (38, 39): 'Body_Part', (61, 62): 'Family_Member', (73, 74): 'Body_Part', (78, 79): 'Finding', (82, 83): 'Body_Part', (86, 88): 'Finding', (35, 41): 'Finding', (68, 74): 'Finding', (82, 84): 'Finding'}
+{(1, 8): 'Disease', (12, 13): 'Abbreviation', (19, 20): 'Abbreviation', (35, 39): 'Finding', (61, 62): 'Family_Member', (68, 74): 'Finding', (82, 84): 'Body_Part'}
+
+{}
+{}
+
+{(3, 4): 'Family_Member', (5, 7): 'Disease'}
+{(3, 4): 'Family_Member', (5, 7): 'Disease'}
+
+{(3, 4): 'Abbreviation', (6, 7): 'Abbreviation', (8, 9): 'Abbreviation', (10, 11): 'Body_Part', (13, 14): 'Abbreviation', (14, 15): 'Finding', (16, 18): 'Finding', (3, 5): 'Finding', (10, 12): 'Finding'}
+{(3, 4): 'Abbreviation', (3, 5): 'Finding', (6, 7): 'Abbreviation', (8, 9): 'Abbreviation', (10, 12): 'Finding', (13, 14): 'Abbreviation', (14, 15): 'Finding', (16, 18): 'Finding'}
+
+{}
+{}
+
+{(0, 7): 'Disease'}
+{(0, 7): 'Disease'}
+
+{(0, 3): 'Disease', (3, 7): 'Body_Part'}
+{(0, 3): 'Disease', (3, 7): 'Body_Part'}
+
+{(0, 1): 'Body_Part', (1, 2): 'Procedure'}
+{(0, 1): 'Body_Part', (0, 2): 'Finding', (3, 8): 'Procedure'}
+
+{(3, 4): 'Body_Part', (12, 13): 'Abbreviation', (19, 21): 'Disease', (28, 30): 'Procedure', (1, 8): 'Disease'}
+{(1, 8): 'Disease', (3, 4): 'Body_Part', (12, 13): 'Abbreviation', (16, 18): 'Procedure', (19, 21): 'Disease'}
+
+{(5, 6): 'Body_Part', (3, 10): 'Disease'}
+{(3, 10): 'Disease', (5, 6): 'Body_Part'}
+
+{(0, 1): 'Disease', (1, 6): 'Disease', (10, 11): 'Disease', (14, 16): 'Medication', (18, 19): 'Body_Part', (20, 21): 'Abbreviation', (23, 24): 'Finding', (18, 20): 'Finding'}
+{(0, 1): 'Disease', (1, 6): 'Disease', (10, 11): 'Disease', (18, 20): 'Finding', (20, 21): 'Abbreviation', (21, 24): 'Disease'}
+
+{(0, 1): 'Abbreviation', (1, 7): 'Disease', (8, 11): 'Finding', (15, 19): 'Procedure'}
+{(0, 1): 'Abbreviation', (1, 7): 'Disease', (8, 11): 'Finding', (15, 19): 'Procedure'}
+
+{(0, 4): 'Body_Part', (4, 5): 'Finding', (6, 8): 'Finding', (9, 12): 'Finding', (14, 16): 'Disease'}
+{(0, 4): 'Body_Part', (4, 5): 'Procedure', (6, 8): 'Finding', (14, 16): 'Disease'}
+
+{(2, 3): 'Body_Part', (5, 6): 'Body_Part', (13, 14): 'Body_Part', (0, 6): 'Disease', (10, 14): 'Finding'}
+{(2, 3): 'Body_Part', (5, 6): 'Body_Part', (10, 14): 'Finding'}
+
+{(1, 3): 'Finding'}
+{(1, 3): 'Disease'}
+
+{(4, 6): 'Disease', (7, 11): 'Body_Part', (12, 14): 'Disease', (15, 20): 'Finding', (24, 26): 'Body_Part', (22, 26): 'Finding'}
+{(4, 6): 'Finding', (7, 11): 'Body_Part', (12, 14): 'Disease', (17, 26): 'Finding', (22, 26): 'Finding', (24, 26): 'Body_Part'}
+
+{(6, 7): 'Body_Part', (11, 12): 'Disease', (16, 17): 'Procedure', (20, 22): 'Body_Part', (26, 27): 'Disease', (28, 35): 'Body_Part', (35, 38): 'Disease', (39, 41): 'Body_Part', (1, 7): 'Disease', (28, 41): 'Finding'}
+{(1, 7): 'Disease', (11, 12): 'Abbreviation', (16, 17): 'Procedure', (20, 22): 'Body_Part', (26, 27): 'Disease', (28, 35): 'Body_Part', (28, 38): 'Finding', (28, 41): 'Finding', (39, 41): 'Finding'}
+
+{(1, 8): 'Disease', (12, 13): 'Abbreviation', (14, 15): 'Abbreviation', (17, 20): 'Finding', (23, 24): 'Body_Part', (27, 28): 'Abbreviation', (31, 33): 'Finding', (41, 48): 'Disease', (21, 24): 'Finding'}
+{(1, 8): 'Disease', (12, 13): 'Abbreviation', (14, 15): 'Abbreviation', (17, 20): 'Finding', (21, 24): 'Finding', (41, 48): 'Disease'}
+
+{(3, 6): 'Body_Part', (0, 8): 'Finding'}
+{(0, 8): 'Finding'}
+
+{(0, 2): 'Disease', (4, 5): 'Abbreviation', (9, 10): 'Abbreviation', (0, 10): 'Finding'}
+{(0, 2): 'Disease', (6, 10): 'Finding'}
+
+{(0, 1): 'Disease'}
+{(0, 1): 'Disease'}
+
+{(0, 2): 'Disease'}
+{(0, 2): 'Finding'}
+
+{(1, 3): 'Disease', (14, 17): 'Body_Part', (18, 21): 'Finding', (22, 27): 'Disease', (30, 35): 'Finding', (40, 41): 'Procedure', (42, 43): 'Body_Part', (45, 46): 'Finding', (50, 56): 'Finding', (10, 17): 'Finding'}
+{(1, 3): 'Disease', (10, 17): 'Finding', (14, 17): 'Body_Part', (22, 27): 'Disease', (28, 35): 'Finding', (30, 35): 'Finding', (40, 41): 'Abbreviation', (40, 43): 'Procedure', (50, 51): 'Procedure', (55, 56): 'Finding'}
+
+{(3, 5): 'Procedure'}
+{(3, 5): 'Procedure'}
+
+{(0, 1): 'Disease', (1, 4): 'Disease', (9, 10): 'Disease', (18, 19): 'Abbreviation', (20, 21): 'Body_Part', (18, 21): 'Procedure'}
+{(0, 1): 'Disease', (1, 4): 'Disease', (18, 19): 'Abbreviation', (18, 21): 'Procedure'}
+
+{(0, 1): 'Disease', (1, 2): 'Disease', (3, 6): 'Procedure', (9, 11): 'Finding'}
+{(0, 1): 'Disease', (1, 2): 'Disease'}
+
+{(1, 7): 'Disease', (8, 12): 'Body_Part', (20, 21): 'Abbreviation', (22, 27): 'Body_Part', (35, 36): 'Procedure', (39, 41): 'Finding', (8, 16): 'Finding', (22, 31): 'Finding'}
+{(1, 7): 'Disease', (7, 12): 'Body_Part', (7, 16): 'Finding', (20, 21): 'Abbreviation', (22, 27): 'Body_Part', (22, 31): 'Finding', (35, 36): 'Procedure', (40, 41): 'Finding'}
+
+{(0, 2): 'Disease', (3, 5): 'Finding', (6, 7): 'Abbreviation', (10, 11): 'Body_Part', (5, 7): 'Disease', (7, 11): 'Finding'}
+{(0, 2): 'Disease', (5, 6): 'Finding', (6, 7): 'Abbreviation', (10, 11): 'Body_Part'}
+
+{(3, 7): 'Disease', (11, 12): 'Abbreviation', (13, 14): 'Abbreviation', (19, 20): 'Abbreviation', (21, 23): 'Disease', (27, 28): 'Abbreviation', (29, 30): 'Abbreviation', (33, 36): 'Finding', (37, 40): 'Finding'}
+{(3, 7): 'Disease', (11, 12): 'Abbreviation', (13, 14): 'Abbreviation', (19, 20): 'Abbreviation', (27, 28): 'Abbreviation', (27, 30): 'Abbreviation'}
+
+{(0, 1): 'Disease', (1, 5): 'Disease', (5, 6): 'Abbreviation', (7, 8): 'Abbreviation', (10, 12): 'Finding', (13, 14): 'Family_Member', (22, 25): 'Finding', (26, 27): 'Disease', (7, 9): 'Finding'}
+{(0, 1): 'Disease', (1, 5): 'Disease', (5, 6): 'Abbreviation', (7, 8): 'Abbreviation', (10, 12): 'Finding', (10, 13): 'Finding', (13, 14): 'Family_Member', (19, 20): 'Finding', (22, 25): 'Finding', (26, 27): 'Disease'}
+
+{(5, 6): 'Body_Part', (13, 14): 'Abbreviation', (17, 18): 'Family_Member', (18, 19): 'Abbreviation', (21, 22): 'Finding', (23, 24): 'Abbreviation', (25, 26): 'Finding', (31, 32): 'Abbreviation', (1, 9): 'Disease'}
+{(1, 9): 'Disease', (5, 6): 'Body_Part', (13, 14): 'Abbreviation', (17, 18): 'Family_Member', (18, 19): 'Abbreviation', (21, 22): 'Abbreviation', (23, 24): 'Abbreviation', (25, 26): 'Procedure', (31, 32): 'Abbreviation'}
+
+{(2, 3): 'Disease', (4, 5): 'Abbreviation', (6, 7): 'Abbreviation', (7, 8): 'Body_Part', (15, 16): 'Family_Member', (23, 24): 'Abbreviation', (26, 34): 'Finding', (35, 37): 'Body_Part', (39, 42): 'Body_Part', (46, 51): 'Finding', (53, 56): 'Body_Part', (6, 8): 'Procedure', (35, 44): 'Finding', (53, 59): 'Finding'}
+{(2, 3): 'Disease', (4, 5): 'Abbreviation', (6, 7): 'Abbreviation', (6, 8): 'Procedure', (15, 16): 'Family_Member', (23, 24): 'Abbreviation', (26, 32): 'Finding', (33, 34): 'Finding', (35, 37): 'Body_Part', (39, 42): 'Body_Part', (53, 59): 'Finding'}
+
+{(1, 8): 'Disease', (12, 13): 'Abbreviation', (18, 21): 'Finding', (26, 27): 'Disease', (22, 27): 'Finding'}
+{(1, 8): 'Disease', (12, 13): 'Abbreviation', (18, 21): 'Finding', (22, 27): 'Finding'}
+
+{(0, 7): 'Disease'}
+{}
+
+{(1, 3): 'Disease', (7, 8): 'Abbreviation', (9, 11): 'Disease', (11, 12): 'Body_Part', (14, 15): 'Body_Part', (19, 20): 'Body_Part', (24, 25): 'Abbreviation', (32, 33): 'Body_Part', (9, 24): 'Finding', (27, 39): 'Disease'}
+{(1, 3): 'Disease', (7, 8): 'Abbreviation', (9, 14): 'Disease', (9, 15): 'Disease', (18, 23): 'Finding', (18, 24): 'Finding', (19, 20): 'Body_Part', (19, 24): 'Finding', (24, 25): 'Abbreviation', (27, 39): 'Disease', (32, 33): 'Body_Part'}
+
+{(6, 13): 'Body_Part', (17, 19): 'Body_Part', (0, 14): 'Disease', (15, 23): 'Disease'}
+{(2, 3): 'Disease', (6, 14): 'Body_Part', (10, 11): 'Body_Part', (10, 14): 'Body_Part', (15, 23): 'Disease', (17, 19): 'Body_Part'}
+
+{(0, 1): 'Disease', (4, 5): 'Body_Part', (5, 6): 'Body_Part', (5, 8): 'Finding', (1, 8): 'Disease'}
+{(0, 1): 'Disease', (4, 6): 'Body_Part'}
+
+{(0, 2): 'Finding', (3, 4): 'Finding', (8, 9): 'Finding'}
+{(0, 2): 'Finding', (0, 4): 'Finding', (8, 9): 'Finding'}
+
+{(0, 1): 'Disease', (1, 2): 'Finding', (6, 7): 'Abbreviation', (13, 16): 'Disease', (17, 19): 'Disease', (2, 7): 'Finding'}
+{(0, 1): 'Disease', (8, 9): 'Finding', (17, 19): 'Body_Part', (17, 22): 'Finding', (20, 22): 'Finding'}
+
+{(0, 1): 'Disease', (3, 5): 'Body_Part', (6, 7): 'Procedure', (12, 13): 'Disease', (15, 18): 'Body_Part', (18, 19): 'Abbreviation', (23, 24): 'Abbreviation', (25, 27): 'Body_Part', (30, 31): 'Abbreviation', (32, 34): 'Body_Part', (0, 5): 'Finding', (12, 18): 'Finding'}
+{(0, 5): 'Finding', (3, 5): 'Body_Part', (6, 7): 'Abbreviation', (15, 19): 'Body_Part', (23, 24): 'Abbreviation', (25, 27): 'Body_Part', (30, 31): 'Abbreviation', (32, 34): 'Body_Part'}
+
+{(0, 1): 'Abbreviation', (4, 5): 'Finding'}
+{(0, 1): 'Abbreviation', (4, 5): 'Disease'}
+
+{(0, 1): 'Procedure', (2, 3): 'Procedure', (5, 6): 'Procedure'}
+{(0, 1): 'Disease', (2, 3): 'Procedure', (5, 6): 'Abbreviation'}
+
+{(3, 4): 'Abbreviation', (9, 10): 'Abbreviation', (7, 10): 'Procedure'}
+{(3, 4): 'Abbreviation', (7, 10): 'Procedure'}
+
+{(4, 5): 'Body_Part', (9, 10): 'Abbreviation', (25, 27): 'Body_Part', (1, 5): 'Disease', (19, 27): 'Finding'}
+{(1, 5): 'Disease', (9, 10): 'Abbreviation', (19, 27): 'Finding', (25, 27): 'Body_Part'}
+
+{(4, 5): 'Abbreviation'}
+{(4, 5): 'Abbreviation'}
+
+{(5, 8): 'Procedure', (10, 12): 'Finding', (13, 14): 'Procedure', (15, 18): 'Finding', (19, 21): 'Disease', (19, 22): 'Finding'}
+{(5, 8): 'Procedure', (10, 14): 'Finding', (19, 22): 'Finding'}
+
+{(3, 4): 'Abbreviation', (3, 7): 'Procedure'}
+{(3, 4): 'Abbreviation', (3, 7): 'Procedure', (5, 7): 'Procedure'}
+
+{(3, 4): 'Body_Part', (0, 4): 'Disease'}
+{(0, 4): 'Disease'}
+
+{(2, 4): 'Disease', (5, 6): 'Body_Part', (10, 15): 'Finding', (16, 18): 'Finding', (19, 20): 'Finding', (5, 9): 'Finding'}
+{(2, 4): 'Finding', (5, 6): 'Body_Part', (5, 9): 'Finding', (10, 12): 'Finding', (13, 15): 'Finding', (16, 18): 'Finding', (19, 20): 'Finding'}
+
+{(0, 3): 'Body_Part', (3, 5): 'Disease', (0, 5): 'Finding'}
+{(0, 3): 'Body_Part', (3, 5): 'Disease'}
+
+{(0, 1): 'Body_Part', (1, 2): 'Finding', (11, 12): 'Abbreviation', (13, 15): 'Finding'}
+{(0, 1): 'Body_Part', (1, 2): 'Procedure', (11, 12): 'Abbreviation', (13, 15): 'Finding'}
+
+{(2, 3): 'Abbreviation', (4, 7): 'Body_Part', (2, 4): 'Procedure'}
+{(2, 3): 'Abbreviation', (2, 4): 'Procedure', (4, 7): 'Body_Part'}
+
+{(0, 3): 'Disease', (6, 9): 'Body_Part', (12, 15): 'Body_Part', (4, 9): 'Disease', (10, 15): 'Disease'}
+{(0, 3): 'Disease', (6, 7): 'Body_Part', (12, 13): 'Body_Part'}
+
+{(0, 3): 'Disease', (5, 6): 'Abbreviation', (9, 11): 'Body_Part', (12, 13): 'Abbreviation', (19, 20): 'Abbreviation', (23, 25): 'Body_Part', (26, 27): 'Abbreviation', (5, 18): 'Disease', (19, 32): 'Disease'}
+{(0, 3): 'Disease', (5, 6): 'Abbreviation', (12, 13): 'Abbreviation', (19, 20): 'Abbreviation', (23, 25): 'Body_Part', (26, 27): 'Abbreviation'}
+
+{(0, 1): 'Abbreviation'}
+{(0, 1): 'Abbreviation'}
+
+{(0, 4): 'Finding'}
+{(0, 4): 'Disease', (0, 7): 'Disease'}
+
+{(0, 1): 'Abbreviation'}
+{(0, 1): 'Abbreviation'}
+
+{(0, 1): 'Disease', (2, 3): 'Abbreviation'}
+{(0, 1): 'Finding', (2, 3): 'Abbreviation'}
+
+{(0, 1): 'Abbreviation', (0, 5): 'Disease'}
+{(0, 1): 'Disease'}
+
+{(0, 2): 'Disease', (2, 3): 'Procedure'}
+{(0, 2): 'Disease'}
+
+{(10, 12): 'Body_Part', (18, 19): 'Abbreviation', (7, 36): 'Finding'}
+{(7, 12): 'Finding', (10, 12): 'Body_Part', (18, 19): 'Abbreviation', (22, 33): 'Finding', (31, 33): 'Body_Part'}
+
+{(4, 5): 'Body_Part', (6, 9): 'Disease', (17, 18): 'Medication', (1, 5): 'Disease'}
+{(1, 6): 'Disease', (4, 5): 'Body_Part', (6, 9): 'Disease', (17, 18): 'Medication'}
+
+{(0, 1): 'Body_Part', (4, 5): 'Abbreviation', (0, 5): 'Finding'}
+{(0, 3): 'Finding', (4, 5): 'Abbreviation'}
+
+{(6, 7): 'Disease', (8, 11): 'Body_Part', (7, 11): 'Disease'}
+{(6, 7): 'Disease', (6, 11): 'Disease', (7, 11): 'Disease', (8, 11): 'Body_Part'}
+
+{(1, 4): 'Finding', (5, 6): 'Disease'}
+{(1, 4): 'Finding'}
+
+{(2, 3): 'Finding', (4, 5): 'Procedure', (11, 13): 'Procedure'}
+{(2, 3): 'Disease', (4, 5): 'Procedure', (11, 13): 'Finding'}
+
+{(0, 3): 'Finding'}
+{}
+
+{(1, 4): 'Disease', (8, 9): 'Abbreviation', (10, 14): 'Body_Part', (15, 17): 'Finding', (18, 19): 'Procedure', (20, 21): 'Medication', (22, 24): 'Body_Part', (28, 29): 'Finding', (31, 34): 'Procedure', (36, 37): 'Body_Part', (34, 37): 'Disease'}
+{(1, 4): 'Disease', (8, 9): 'Abbreviation', (10, 14): 'Body_Part', (15, 17): 'Finding', (18, 19): 'Finding', (20, 21): 'Medication', (22, 24): 'Body_Part', (28, 29): 'Finding', (31, 34): 'Procedure', (34, 37): 'Disease'}
+
+{(1, 3): 'Disease', (3, 6): 'Finding', (7, 10): 'Finding'}
+{(1, 3): 'Disease', (3, 6): 'Finding', (7, 10): 'Finding'}
+
+{(0, 3): 'Finding', (4, 6): 'Finding'}
+{(0, 3): 'Finding', (4, 6): 'Finding'}
+
+{(1, 6): 'Disease', (7, 10): 'Finding'}
+{(1, 6): 'Disease', (9, 10): 'Finding'}
+
+{(2, 6): 'Finding'}
+{(2, 6): 'Finding'}
+
+{(0, 2): 'Finding', (2, 6): 'Body_Part'}
+{(0, 6): 'Finding', (2, 6): 'Body_Part'}
+
+{(5, 6): 'Abbreviation'}
+{(0, 3): 'Finding', (5, 6): 'Abbreviation'}
+
+{(1, 6): 'Finding'}
+{(1, 6): 'Finding', (1, 9): 'Finding'}
+
+{(1, 6): 'Disease', (9, 15): 'Procedure'}
+{(1, 6): 'Disease', (9, 15): 'Procedure'}
+
+{(3, 4): 'Abbreviation', (5, 6): 'Abbreviation', (9, 11): 'Abbreviation', (11, 12): 'Medication', (17, 19): 'Medication'}
+{(3, 4): 'Abbreviation', (5, 6): 'Abbreviation', (9, 11): 'Abbreviation'}
+
+{(1, 2): 'Disease', (6, 7): 'Abbreviation', (9, 11): 'Body_Part', (12, 15): 'Finding', (19, 20): 'Abbreviation', (23, 24): 'Abbreviation', (8, 11): 'Disease'}
+{(1, 2): 'Disease', (6, 7): 'Abbreviation', (8, 9): 'Disease', (9, 11): 'Body_Part', (19, 20): 'Abbreviation', (23, 24): 'Abbreviation'}
+
+{(3, 4): 'Body_Part', (5, 6): 'Disease', (10, 11): 'Body_Part', (12, 14): 'Finding', (15, 17): 'Finding', (19, 20): 'Disease', (0, 4): 'Disease', (7, 11): 'Disease'}
+{(0, 4): 'Disease', (5, 6): 'Disease', (7, 11): 'Disease', (12, 14): 'Finding', (15, 16): 'Finding', (15, 17): 'Finding', (19, 20): 'Disease'}
+
+{(9, 10): 'Body_Part', (10, 15): 'Finding', (19, 20): 'Abbreviation', (23, 25): 'Finding', (38, 42): 'Body_Part', (45, 46): 'Finding', (49, 50): 'Finding', (51, 54): 'Finding', (55, 57): 'Finding', (63, 64): 'Body_Part', (65, 66): 'Body_Part', (68, 71): 'Finding', (98, 102): 'Finding', (1, 10): 'Disease', (30, 42): 'Finding', (63, 65): 'Finding', (65, 68): 'Finding'}
+{(9, 10): 'Body_Part', (19, 20): 'Abbreviation', (21, 22): 'Disease', (23, 25): 'Finding', (38, 42): 'Body_Part', (45, 46): 'Finding', (49, 50): 'Finding', (51, 54): 'Finding', (55, 57): 'Finding', (63, 64): 'Body_Part', (63, 68): 'Finding', (63, 71): 'Finding', (65, 66): 'Body_Part', (68, 71): 'Finding', (82, 83): 'Abbreviation', (84, 85): 'Body_Part', (90, 91): 'Body_Part', (95, 102): 'Finding'}
+
+{(1, 7): 'Disease', (8, 10): 'Disease', (11, 14): 'Disease', (15, 16): 'Procedure', (17, 19): 'Disease', (20, 23): 'Disease'}
+{(1, 4): 'Disease', (8, 10): 'Disease', (11, 14): 'Disease', (11, 16): 'Disease', (17, 19): 'Disease', (20, 23): 'Disease'}
+
+{(2, 4): 'Body_Part', (4, 5): 'Abbreviation', (8, 11): 'Body_Part', (0, 4): 'Disease', (5, 11): 'Disease'}
+{(0, 4): 'Disease', (2, 4): 'Body_Part', (4, 5): 'Abbreviation', (8, 11): 'Body_Part'}
+
+{(1, 4): 'Disease', (8, 9): 'Body_Part', (13, 14): 'Abbreviation', (15, 16): 'Finding', (16, 17): 'Finding', (17, 18): 'Finding', (18, 19): 'Finding', (19, 21): 'Disease', (21, 22): 'Abbreviation', (6, 9): 'Disease'}
+{(1, 4): 'Disease', (6, 9): 'Disease', (13, 14): 'Abbreviation', (15, 16): 'Finding', (19, 21): 'Disease', (21, 22): 'Abbreviation'}
+
+{(0, 1): 'Disease', (1, 4): 'Disease'}
+{(0, 1): 'Disease', (1, 4): 'Disease'}
+
+{(9, 11): 'Body_Part', (15, 16): 'Abbreviation', (25, 26): 'Abbreviation', (29, 31): 'Body_Part', (39, 40): 'Procedure', (43, 44): 'Procedure', (47, 48): 'Abbreviation', (1, 11): 'Disease', (27, 31): 'Disease'}
+{(1, 11): 'Disease', (9, 11): 'Body_Part', (15, 16): 'Abbreviation', (25, 26): 'Abbreviation', (27, 28): 'Disease', (27, 31): 'Disease', (29, 31): 'Body_Part', (43, 44): 'Procedure', (47, 48): 'Abbreviation'}
+
+{(6, 7): 'Abbreviation'}
+{(6, 7): 'Abbreviation'}
+
+{(6, 7): 'Finding', (12, 13): 'Body_Part', (19, 20): 'Body_Part', (12, 16): 'Finding'}
+{(6, 7): 'Finding', (19, 20): 'Body_Part'}
+
+{(4, 5): 'Procedure', (14, 16): 'Body_Part', (6, 16): 'Disease'}
+{(4, 5): 'Procedure', (12, 16): 'Disease', (14, 16): 'Body_Part'}
+
+{(5, 7): 'Body_Part', (7, 10): 'Disease', (13, 15): 'Body_Part', (11, 20): 'Finding'}
+{(5, 7): 'Body_Part', (7, 10): 'Disease', (11, 20): 'Finding', (13, 15): 'Body_Part'}
+
+{(0, 1): 'Disease', (2, 5): 'Disease', (6, 7): 'Abbreviation'}
+{(0, 1): 'Disease', (2, 3): 'Disease', (6, 7): 'Abbreviation'}
+
+{(3, 4): 'Finding', (7, 8): 'Procedure', (8, 11): 'Finding'}
+{(7, 8): 'Procedure', (8, 9): 'Finding'}
+
+{(0, 4): 'Body_Part', (4, 6): 'Disease', (10, 11): 'Body_Part', (12, 15): 'Finding', (0, 6): 'Finding'}
+{(0, 4): 'Body_Part', (4, 6): 'Disease', (10, 11): 'Body_Part', (12, 15): 'Finding'}
+
+{(2, 3): 'Procedure'}
+{(2, 3): 'Procedure'}
+
+{(1, 9): 'Disease', (13, 14): 'Abbreviation', (21, 22): 'Disease', (27, 30): 'Body_Part', (37, 38): 'Abbreviation', (44, 52): 'Finding', (55, 60): 'Finding'}
+{(1, 2): 'Disease', (7, 9): 'Body_Part', (13, 14): 'Abbreviation', (21, 22): 'Disease', (23, 30): 'Finding', (27, 30): 'Body_Part', (37, 38): 'Abbreviation'}
+
+{(4, 6): 'Body_Part', (13, 14): 'Abbreviation', (17, 18): 'Finding', (18, 19): 'Finding', (19, 20): 'Finding', (20, 21): 'Finding', (1, 9): 'Disease'}
+{(1, 9): 'Disease', (4, 5): 'Body_Part', (4, 6): 'Body_Part', (4, 9): 'Disease', (13, 14): 'Abbreviation', (17, 18): 'Finding', (17, 21): 'Finding', (18, 19): 'Finding', (18, 21): 'Finding', (19, 21): 'Disease'}
+
+{(2, 3): 'Disease', (8, 9): 'Procedure'}
+{(1, 3): 'Disease', (8, 9): 'Procedure'}
+
+{(1, 2): 'Abbreviation', (3, 5): 'Disease'}
+{(1, 2): 'Abbreviation', (3, 5): 'Disease', (6, 8): 'Finding'}
+
+{(2, 3): 'Finding', (6, 7): 'Procedure', (16, 17): 'Abbreviation', (17, 18): 'Abbreviation', (10, 18): 'Finding'}
+{(2, 3): 'Finding', (6, 7): 'Procedure', (10, 13): 'Finding'}
+
+{(3, 4): 'Medication', (8, 9): 'Abbreviation', (10, 11): 'Abbreviation'}
+{(2, 4): 'Medication', (8, 9): 'Abbreviation', (10, 11): 'Abbreviation'}
+
+{(3, 5): 'Body_Part', (0, 8): 'Disease'}
+{(0, 5): 'Disease', (0, 8): 'Disease', (3, 5): 'Body_Part'}
+
+{(1, 2): 'Body_Part', (9, 10): 'Abbreviation', (11, 12): 'Abbreviation', (13, 14): 'Abbreviation', (29, 30): 'Finding', (31, 32): 'Finding', (32, 33): 'Body_Part', (1, 5): 'Disease', (13, 29): 'Body_Part', (32, 36): 'Disease'}
+{(1, 2): 'Body_Part', (1, 5): 'Disease', (9, 10): 'Abbreviation', (11, 12): 'Abbreviation', (13, 14): 'Abbreviation', (13, 29): 'Body_Part', (32, 33): 'Body_Part', (32, 36): 'Disease'}
+
+{(0, 1): 'Abbreviation', (2, 6): 'Body_Part', (11, 12): 'Abbreviation', (24, 27): 'Body_Part', (27, 29): 'Finding', (30, 31): 'Abbreviation', (2, 10): 'Finding', (11, 16): 'Body_Part', (20, 27): 'Finding', (11, 19): 'Finding'}
+{(0, 1): 'Disease', (2, 6): 'Body_Part', (8, 10): 'Finding', (11, 12): 'Abbreviation', (11, 16): 'Body_Part', (20, 29): 'Finding', (27, 29): 'Finding', (30, 31): 'Abbreviation'}
+
+{(3, 4): 'Body_Part', (9, 10): 'Procedure', (10, 11): 'Abbreviation', (13, 14): 'Procedure', (16, 20): 'Finding', (0, 4): 'Disease', (10, 12): 'Body_Part'}
+{(0, 4): 'Disease', (9, 10): 'Procedure', (10, 11): 'Abbreviation', (10, 12): 'Body_Part', (13, 14): 'Procedure', (16, 20): 'Finding'}
+
+{(0, 4): 'Disease', (5, 6): 'Disease', (6, 11): 'Disease', (11, 13): 'Procedure', (14, 15): 'Procedure', (19, 20): 'Abbreviation', (20, 21): 'Abbreviation', (21, 22): 'Procedure'}
+{(6, 9): 'Disease', (9, 10): 'Disease', (11, 13): 'Finding', (14, 15): 'Abbreviation', (19, 20): 'Abbreviation', (20, 21): 'Abbreviation', (21, 22): 'Procedure', (23, 24): 'Procedure'}
+
+{(1, 8): 'Disease', (12, 13): 'Abbreviation', (14, 18): 'Finding', (18, 23): 'Finding', (23, 27): 'Finding', (28, 29): 'Abbreviation', (30, 31): 'Abbreviation', (32, 40): 'Body_Part', (31, 40): 'Finding'}
+{(1, 8): 'Disease', (12, 13): 'Abbreviation', (14, 18): 'Finding', (18, 27): 'Finding', (28, 29): 'Abbreviation', (30, 31): 'Abbreviation', (32, 40): 'Body_Part'}
+
+{(0, 4): 'Finding', (5, 6): 'Abbreviation', (7, 8): 'Abbreviation', (11, 12): 'Abbreviation', (13, 14): 'Abbreviation', (15, 22): 'Disease', (8, 12): 'Finding'}
+{(0, 4): 'Finding', (5, 6): 'Abbreviation', (7, 8): 'Abbreviation', (11, 12): 'Abbreviation', (13, 14): 'Abbreviation', (15, 22): 'Disease'}
+
+{(0, 3): 'Disease', (6, 7): 'Abbreviation', (9, 10): 'Abbreviation', (10, 12): 'Disease', (6, 9): 'Disease'}
+{(0, 3): 'Disease', (6, 7): 'Abbreviation', (6, 9): 'Disease', (9, 10): 'Abbreviation', (10, 12): 'Disease'}
+
+{(2, 3): 'Abbreviation'}
+{(2, 3): 'Abbreviation'}
+
+{(5, 6): 'Body_Part', (7, 8): 'Abbreviation', (0, 8): 'Finding'}
+{(0, 2): 'Disease', (3, 8): 'Finding', (5, 6): 'Body_Part'}
+
+{(1, 4): 'Disease', (8, 9): 'Abbreviation', (12, 14): 'Finding', (17, 18): 'Body_Part', (19, 21): 'Finding', (22, 24): 'Finding', (25, 27): 'Finding', (15, 18): 'Finding'}
+{(1, 4): 'Disease', (8, 9): 'Abbreviation', (12, 14): 'Finding', (15, 18): 'Finding', (19, 21): 'Finding', (22, 24): 'Finding', (25, 27): 'Finding'}
+
+{(0, 2): 'Disease'}
+{(0, 2): 'Disease'}
+
+{(1, 4): 'Disease', (4, 7): 'Disease', (10, 11): 'Procedure', (15, 16): 'Abbreviation', (18, 19): 'Medication', (19, 20): 'Abbreviation', (22, 23): 'Medication', (12, 23): 'Finding'}
+{(1, 4): 'Disease', (4, 7): 'Finding', (10, 11): 'Finding', (14, 15): 'Medication', (15, 16): 'Abbreviation', (18, 19): 'Medication', (19, 20): 'Abbreviation', (20, 23): 'Procedure'}
+
+{(6, 7): 'Body_Part', (11, 12): 'Abbreviation', (13, 16): 'Finding', (22, 23): 'Body_Part', (28, 29): 'Body_Part', (1, 7): 'Disease', (16, 23): 'Finding', (23, 29): 'Disease'}
+{(1, 7): 'Disease', (11, 12): 'Abbreviation', (13, 23): 'Finding', (14, 16): 'Body_Part', (23, 29): 'Disease'}
+
+{(1, 8): 'Disease', (12, 13): 'Abbreviation', (14, 22): 'Finding', (22, 30): 'Finding', (30, 33): 'Finding', (34, 38): 'Finding', (39, 46): 'Body_Part'}
+{(1, 8): 'Disease', (12, 13): 'Abbreviation', (14, 17): 'Finding', (14, 19): 'Finding', (17, 19): 'Finding', (20, 22): 'Finding', (22, 27): 'Finding', (25, 27): 'Finding', (28, 30): 'Finding', (30, 33): 'Finding', (37, 46): 'Body_Part'}
+
+{(0, 4): 'Body_Part', (5, 6): 'Finding', (6, 10): 'Finding', (11, 23): 'Body_Part', (24, 31): 'Disease'}
+{(0, 4): 'Body_Part', (0, 6): 'Finding', (6, 10): 'Disease', (11, 15): 'Body_Part', (16, 23): 'Body_Part'}
+
+{(1, 3): 'Finding'}
+{(1, 3): 'Finding'}
+
+{(1, 6): 'Finding', (6, 8): 'Finding', (9, 12): 'Finding'}
+{(1, 8): 'Finding'}
+
+{(7, 9): 'Finding', (10, 13): 'Finding'}
+{(7, 9): 'Finding'}
+
+{(4, 5): 'Disease', (6, 9): 'Finding'}
+{(4, 5): 'Finding', (6, 9): 'Finding'}
+
+{(2, 3): 'Finding', (4, 9): 'Finding'}
+{(1, 9): 'Finding'}
+
+{(0, 1): 'Disease', (1, 5): 'Disease', (6, 11): 'Finding', (12, 14): 'Finding'}
+{(0, 1): 'Disease', (1, 5): 'Disease', (6, 11): 'Finding', (12, 14): 'Finding'}
+
+{(0, 1): 'Abbreviation'}
+{(0, 1): 'Abbreviation'}
+
+{(1, 2): 'Abbreviation'}
+{(1, 2): 'Abbreviation'}
+
+{(0, 2): 'Disease'}
+{(0, 2): 'Disease'}
+
+{(0, 1): 'Disease'}
+{(0, 1): 'Disease'}
+
+{(0, 1): 'Disease'}
+{(0, 1): 'Disease'}
+
+{(0, 1): 'Disease'}
+{(0, 1): 'Disease'}
+
+{(2, 4): 'Finding'}
+{(2, 4): 'Disease'}
+
+{}
+{}
+
+{(0, 6): 'Disease', (6, 10): 'Body_Part', (12, 18): 'Body_Part', (20, 21): 'Abbreviation', (20, 22): 'Body_Part'}
+{(0, 6): 'Disease', (6, 7): 'Body_Part', (6, 10): 'Body_Part', (12, 14): 'Body_Part', (20, 21): 'Abbreviation', (20, 22): 'Body_Part'}
+
+{(1, 4): 'Disease', (4, 6): 'Body_Part', (6, 8): 'Disease', (4, 8): 'Finding'}
+{(1, 4): 'Finding', (4, 6): 'Body_Part', (6, 8): 'Finding'}
+
+{(0, 1): 'Procedure', (2, 11): 'Finding', (15, 16): 'Disease', (17, 19): 'Procedure', (20, 23): 'Procedure', (24, 25): 'Abbreviation', (13, 16): 'Procedure'}
+{(0, 1): 'Procedure', (2, 3): 'Body_Part', (2, 4): 'Body_Part', (6, 11): 'Finding', (9, 11): 'Body_Part', (15, 16): 'Disease', (15, 19): 'Disease', (17, 19): 'Procedure', (24, 25): 'Abbreviation'}
+
+{(0, 2): 'Finding'}
+{}
+
+{(3, 5): 'Body_Part', (6, 11): 'Body_Part', (18, 22): 'Procedure', (1, 5): 'Disease'}
+{(1, 5): 'Disease', (6, 10): 'Body_Part', (18, 22): 'Procedure'}
+
+{(0, 1): 'Disease', (4, 5): 'Body_Part', (9, 10): 'Body_Part', (14, 16): 'Disease', (19, 20): 'Family_Member', (22, 26): 'Finding', (27, 29): 'Finding', (1, 10): 'Disease'}
+{(0, 1): 'Disease', (1, 10): 'Disease', (4, 5): 'Body_Part', (14, 16): 'Disease', (19, 20): 'Family_Member', (22, 26): 'Finding', (27, 29): 'Finding'}
+
+{(7, 13): 'Body_Part', (17, 18): 'Abbreviation', (24, 26): 'Body_Part', (34, 36): 'Procedure', (48, 49): 'Body_Part', (52, 53): 'Finding', (55, 56): 'Abbreviation', (63, 64): 'Abbreviation', (65, 66): 'Procedure', (67, 70): 'Finding', (73, 74): 'Abbreviation', (1, 13): 'Disease', (21, 26): 'Finding', (46, 49): 'Disease', (54, 58): 'Finding', (59, 64): 'Finding', (71, 74): 'Finding'}
+{(1, 13): 'Disease', (17, 18): 'Abbreviation', (21, 26): 'Disease', (24, 26): 'Body_Part', (34, 36): 'Procedure', (48, 49): 'Body_Part', (54, 55): 'Finding', (54, 58): 'Finding', (55, 56): 'Abbreviation', (62, 63): 'Finding', (65, 66): 'Procedure', (67, 70): 'Finding', (71, 73): 'Finding', (73, 74): 'Abbreviation'}
+
+{}
+{}
+
+{(0, 1): 'Abbreviation'}
+{(0, 1): 'Abbreviation'}
+
+{(0, 1): 'Disease', (2, 10): 'Disease', (11, 19): 'Disease'}
+{(0, 1): 'Disease', (2, 10): 'Disease', (11, 19): 'Disease'}
+
+{(0, 2): 'Body_Part', (4, 5): 'Finding', (10, 11): 'Procedure', (12, 17): 'Body_Part', (0, 4): 'Disease'}
+{(0, 2): 'Body_Part', (2, 4): 'Disease', (2, 5): 'Finding', (2, 8): 'Finding', (5, 8): 'Finding', (10, 11): 'Procedure'}
+
+{(2, 3): 'Body_Part', (7, 8): 'Procedure', (12, 16): 'Disease', (0, 11): 'Disease'}
+{(2, 3): 'Body_Part', (12, 16): 'Disease'}
+
+{(1, 8): 'Disease', (12, 13): 'Abbreviation', (14, 15): 'Abbreviation', (16, 18): 'Finding', (18, 25): 'Disease'}
+{(1, 8): 'Disease', (12, 13): 'Abbreviation', (14, 15): 'Abbreviation', (16, 18): 'Finding', (18, 25): 'Disease'}
+
+{(11, 13): 'Body_Part', (21, 22): 'Finding', (25, 26): 'Disease', (9, 20): 'Finding'}
+{(5, 7): 'Finding', (9, 13): 'Finding', (21, 22): 'Finding'}
+
+{(2, 3): 'Abbreviation', (8, 9): 'Procedure', (11, 12): 'Procedure', (14, 15): 'Medication', (15, 16): 'Abbreviation', (2, 4): 'Body_Part', (12, 17): 'Finding'}
+{(2, 3): 'Abbreviation', (2, 4): 'Body_Part', (2, 6): 'Finding', (8, 9): 'Procedure', (11, 12): 'Procedure', (11, 17): 'Finding', (15, 16): 'Abbreviation'}
+
+{(1, 3): 'Disease', (5, 8): 'Disease', (12, 13): 'Abbreviation', (16, 18): 'Disease', (23, 27): 'Body_Part', (32, 36): 'Body_Part', (40, 44): 'Procedure', (46, 48): 'Disease', (19, 36): 'Finding'}
+{(1, 3): 'Disease', (5, 8): 'Disease', (12, 13): 'Abbreviation', (16, 18): 'Disease', (19, 22): 'Finding', (23, 27): 'Body_Part', (32, 36): 'Body_Part', (40, 44): 'Procedure', (46, 48): 'Disease'}
+
+{(1, 8): 'Disease', (12, 13): 'Abbreviation', (14, 15): 'Finding', (16, 18): 'Disease', (19, 20): 'Disease', (20, 21): 'Abbreviation', (22, 23): 'Finding', (23, 30): 'Disease'}
+{(1, 8): 'Disease', (12, 13): 'Abbreviation', (14, 15): 'Abbreviation', (16, 18): 'Disease', (20, 21): 'Abbreviation', (22, 23): 'Finding', (23, 30): 'Disease'}
+
+{(4, 7): 'Finding', (12, 18): 'Abbreviation', (12, 19): 'Body_Part', (9, 19): 'Finding'}
+{}
+
+{(0, 1): 'Disease', (1, 6): 'Disease', (10, 12): 'Procedure', (13, 15): 'Disease', (21, 22): 'Procedure', (25, 27): 'Procedure'}
+{(0, 1): 'Disease', (1, 6): 'Disease', (10, 12): 'Procedure', (25, 27): 'Procedure'}
+
+{(8, 9): 'Body_Part', (6, 9): 'Finding'}
+{(6, 9): 'Finding'}
+
+{(7, 17): 'Disease'}
+{(0, 1): 'Disease', (4, 6): 'Finding', (14, 17): 'Disease'}
+
+{(0, 1): 'Disease', (4, 6): 'Body_Part', (12, 17): 'Body_Part', (19, 20): 'Abbreviation', (1, 10): 'Disease', (10, 17): 'Finding'}
+{(4, 6): 'Body_Part', (12, 17): 'Body_Part', (19, 20): 'Abbreviation'}
+
+{(9, 12): 'Finding'}
+{(9, 12): 'Finding'}
+
+{(1, 4): 'Disease', (8, 9): 'Abbreviation', (11, 12): 'Disease', (14, 17): 'Disease', (18, 21): 'Finding', (22, 27): 'Disease', (36, 38): 'Disease'}
+{(1, 4): 'Disease', (8, 9): 'Abbreviation', (11, 12): 'Disease', (11, 13): 'Disease', (14, 17): 'Disease', (20, 21): 'Finding', (22, 27): 'Disease', (36, 38): 'Disease'}
+
+{(2, 4): 'Body_Part', (5, 9): 'Disease', (11, 12): 'Body_Part', (13, 14): 'Abbreviation', (0, 5): 'Disease', (12, 14): 'Body_Part', (9, 14): 'Disease'}
+{(0, 4): 'Disease', (2, 4): 'Body_Part', (5, 9): 'Finding', (11, 14): 'Body_Part', (12, 14): 'Body_Part'}
+
+{(1, 6): 'Disease', (8, 9): 'Finding', (10, 11): 'Finding', (12, 13): 'Family_Member', (17, 18): 'Finding', (19, 20): 'Finding', (21, 24): 'Finding', (25, 27): 'Finding', (32, 33): 'Body_Part', (30, 33): 'Finding'}
+{(1, 6): 'Disease', (10, 11): 'Finding', (12, 13): 'Family_Member', (17, 18): 'Finding', (19, 20): 'Finding', (25, 27): 'Finding', (32, 33): 'Body_Part'}
+
+{(0, 1): 'Family_Member', (6, 9): 'Disease', (25, 26): 'Finding', (51, 52): 'Family_Member'}
+{(0, 1): 'Family_Member', (6, 9): 'Disease', (25, 26): 'Procedure', (51, 52): 'Family_Member'}
+
+{(1, 2): 'Finding', (3, 4): 'Finding', (5, 6): 'Finding', (6, 7): 'Finding', (13, 14): 'Procedure', (16, 17): 'Disease', (18, 19): 'Abbreviation'}
+{(1, 2): 'Finding', (3, 4): 'Finding', (5, 6): 'Finding', (6, 7): 'Finding', (13, 15): 'Procedure', (16, 17): 'Disease', (18, 19): 'Abbreviation'}
+
+{(1, 2): 'Disease'}
+{(1, 3): 'Disease'}
+
+{(0, 1): 'Abbreviation', (0, 16): 'Body_Part', (0, 27): 'Finding'}
+{(0, 1): 'Abbreviation', (0, 16): 'Body_Part', (20, 22): 'Finding', (20, 27): 'Finding'}
+
+{(1, 3): 'Finding', (3, 5): 'Finding'}
+{(3, 5): 'Finding'}
+
+{(1, 4): 'Disease', (8, 9): 'Abbreviation', (10, 13): 'Body_Part', (10, 16): 'Finding'}
+{(1, 4): 'Disease', (8, 9): 'Abbreviation', (10, 13): 'Body_Part', (13, 16): 'Finding'}
+
+{(3, 4): 'Abbreviation', (0, 4): 'Finding'}
+{(0, 3): 'Finding', (3, 4): 'Abbreviation'}
+
+{(0, 3): 'Finding'}
+{(0, 3): 'Finding'}
+
+{(0, 4): 'Finding'}
+{(0, 4): 'Finding'}
+
+{(0, 3): 'Disease'}
+{(0, 3): 'Disease'}
+
+{(0, 6): 'Disease', (9, 10): 'Procedure', (13, 14): 'Abbreviation', (15, 16): 'Abbreviation', (18, 19): 'Abbreviation', (20, 23): 'Disease', (13, 15): 'Disease', (15, 17): 'Disease'}
+{(0, 1): 'Abbreviation', (0, 3): 'Disease', (13, 14): 'Abbreviation', (13, 15): 'Disease', (15, 16): 'Abbreviation', (20, 21): 'Abbreviation', (20, 23): 'Abbreviation'}
+
+{(1, 3): 'Disease', (7, 8): 'Abbreviation', (9, 10): 'Abbreviation', (13, 14): 'Abbreviation', (15, 16): 'Abbreviation', (17, 19): 'Disease', (22, 23): 'Procedure', (32, 35): 'Finding', (37, 42): 'Finding', (45, 47): 'Disease'}
+{(1, 3): 'Disease', (7, 8): 'Abbreviation', (9, 10): 'Abbreviation', (13, 14): 'Abbreviation', (15, 16): 'Abbreviation', (17, 19): 'Disease', (22, 23): 'Procedure', (32, 35): 'Finding', (45, 47): 'Disease'}
+
+{(1, 4): 'Disease', (8, 9): 'Abbreviation', (10, 11): 'Abbreviation', (12, 14): 'Finding', (15, 17): 'Finding', (17, 24): 'Finding', (24, 26): 'Disease'}
+{(1, 4): 'Disease', (8, 9): 'Abbreviation', (10, 11): 'Abbreviation', (12, 14): 'Finding', (15, 22): 'Finding', (22, 24): 'Finding', (24, 26): 'Disease'}
+
+{(5, 7): 'Body_Part', (2, 11): 'Finding'}
+{(2, 7): 'Finding', (5, 7): 'Body_Part'}
+
+{(1, 5): 'Disease', (12, 14): 'Body_Part', (16, 17): 'Abbreviation', (8, 22): 'Finding'}
+{(1, 5): 'Disease', (8, 22): 'Finding', (12, 14): 'Body_Part', (16, 17): 'Abbreviation'}
+
+{(1, 4): 'Disease', (8, 9): 'Abbreviation', (10, 12): 'Finding', (14, 17): 'Finding'}
+{(1, 4): 'Disease', (8, 9): 'Abbreviation', (10, 12): 'Finding', (14, 17): 'Finding'}
+
+{(0, 1): 'Body_Part', (0, 5): 'Finding'}
+{(0, 5): 'Finding'}
+
+{(1, 2): 'Body_Part', (2, 3): 'Procedure', (7, 8): 'Body_Part', (4, 8): 'Disease'}
+{(1, 2): 'Body_Part', (1, 3): 'Procedure', (4, 8): 'Disease'}
+
+{(6, 7): 'Body_Part', (14, 15): 'Body_Part', (0, 7): 'Disease', (8, 15): 'Disease'}
+{(0, 1): 'Body_Part', (8, 9): 'Body_Part'}
+
+{(0, 4): 'Disease', (4, 12): 'Disease', (13, 14): 'Abbreviation', (14, 15): 'Abbreviation', (17, 18): 'Abbreviation', (13, 15): 'Disease'}
+{(0, 4): 'Disease', (5, 9): 'Body_Part', (6, 9): 'Body_Part', (13, 14): 'Disease', (13, 15): 'Disease', (17, 18): 'Abbreviation'}
+
+{(1, 2): 'Body_Part', (11, 12): 'Abbreviation', (18, 23): 'Disease', (1, 7): 'Disease'}
+{(1, 2): 'Body_Part', (1, 7): 'Disease', (11, 12): 'Abbreviation', (18, 19): 'Disease', (18, 23): 'Disease', (20, 21): 'Body_Part', (20, 23): 'Body_Part'}
+
+{(1, 3): 'Finding'}
+{(1, 3): 'Medication'}
+

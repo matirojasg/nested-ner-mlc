@@ -1,0 +1,1 @@
+These files correspond to the predictions obtained to calculate the metrics presented in the paper. To do this, it is necessary to use the notebook provided for the calculation of metrics. 

@@ -11,10 +11,10 @@ We used the following version: pip3 install torch==1.9.0+cu111 torchvision==0.10
 2. Download the data
 
 - Genia: http://www.geniaproject.org/genia-corpus/pos-annotation
-- GermEval: https://github.com/thecharm/boundary-aware-nested-ner/blob/master/GermEval2014.zip
+- GermEval: https://sites.google.com/site/germeval2014ner/data
 - Chilean Waiting List: https://zenodo.org/record/3926705 (The zip file contains the preprocessed dataset)
 
-To access to the statistics of each corpus, just run the notebook 01_AAAI_Paper_Statistics.ipynb with the respective files (dataset.train.iob2, dataset.dev.iob2, dataset.test.iob2).
+To access to the statistics of each corpus, just run the notebook Statistics.ipynb with the respective files (dataset.train.iob2, dataset.dev.iob2, dataset.test.iob2).
 
 3. Create input format. Although the above are the pre-processed files, the final formats vary according to each architecture, as explained below.
 
@@ -88,11 +88,12 @@ Sp1	B-protein	B-DNA	O	O
 sites	O	I-DNA	O	O
 .	O	O	O	O
 
-- Second-best: The format of this one is very different from the previous ones. Each sentence is written on one line, followed by a line with the entities found in that sentence. They are identified following a format similar to how we formally describe entities in our work, i.e., in the form of tuples.
+- Recursive-CRF: The format of this one is very different from the previous ones. Each sentence is written on one line, followed by a line with the entities found in that sentence. They are identified following a format similar to how we formally describe entities in our work, i.e., in the form of tuples.
 
 Cell culture experiments demonstrated that the natural variant with four Sp1 sites had a slightly higher promoter activity and viral replication rate than the isogenic control LTR with three Sp1 sites .
 10,11 G#protein|10,12 G#DNA|24,27 G#DNA|29,30 G#protein|29,31 G#DNA
 
+- Biaffine and Pyramid models: The file format is well described in their repositories.
 
 4. Pre-trained embeddings: Here are the links to the three embeddings used, each belonging to the specific domain of each corpus.
 
@@ -106,8 +107,8 @@ Cell culture experiments demonstrated that the natural variant with four Sp1 sit
 
 - Genia: pubmed-forward and pubmed-backward
 - GermEval: de-forward and de-backward
-- Chilean Waiting List: (es-clinical-forward and es-clinical-backward) or (spanish-clinical-forward and spanish-clinical-backward)
-In case you choose the clinical embeddings in Spanish, you must install flair with the following command to obtain the version in which we make them available: !pip install 'git+https://github.com/flairNLP/flair.git'
+- Chilean Waiting List: (spanish-forward and spanish-backward) or (es-clinical-forward and es-clinical-backward)
+In case you choose the clinical embeddings in Spanish, you must install flair with the following command to obtain the version in which the authors of Flair make them available: !pip install 'git+https://github.com/flairNLP/flair.git'
 If you decide to use this option you must comment out the following lines in the train.py file: 
 merge_files(entities, params["output_folder"])
 show_results(entities, params["output_folder"])   
@@ -116,7 +117,7 @@ show_results(entities, params["output_folder"])
 - BERT embeddings.
 
 - Genia: bert-large-cased
-- GermEval: dbmdz/bert-base-german-cased,
+- GermEval: dbmdz/bert-base-german-uncased,
 - Chilean Waiting List: dccuchile/bert-base-spanish-wwm-cased
 
 6. MLC Training.
@@ -131,6 +132,9 @@ Run the script `train.py`. The results will be printed to console.
 
 The models will be stored in the output folder specified in params.json.
 
+Once you have the prediction files for each type of entity, you can use the utils.py functions to merge all the predictions, thus obtaining the nested entities.
+
+
 7. Baselines Training.
 
 To reproduce the other baselines, we use the following source codes.
@@ -138,12 +142,14 @@ To reproduce the other baselines, we use the following source codes.
 - Layered: https://github.com/meizhiju/layered-bilstm-crf
 - Boundary: https://github.com/thecharm/boundary-aware-nested-ner
 - Exhaustive: https://github.com/csJd/deep_exhaustive_model
-- Second-best: https://github.com/yahshibu/nested-ner-tacl2020-flair
+- Recursive-CRF: https://github.com/yahshibu/nested-ner-tacl2020-flair
+- Biaffine: https://github.com/juntaoy/biaffine-ner
+- Pyramid: https://github.com/LorrinWWW/Pyramid
 
-In the notebook 03.AAAI-Baselines.ipynb we detail the steps necessary to execute these experiments as well as the changes we had to make in order to perform them.
+In the notebook Baselines.ipynb we detail the steps necessary to execute these experiments as well as the changes we had to make in order to perform them.
 
 9. Task-specific metrics.
 
 Each of the baselines will generate a file with its predictions, we provide a jupyter notebook to obtain the task-specific metrics using these files.
 
-Important: To be fair, as the MLC, Boundary and Exhaustive architectures are not able to address one of the borderline cases, their prediction files have to be compared with the original files where no such cases are lost.
+Important: 1) To be fair, as the MLC, Boundary, Biaffine and Exhaustive architectures are not able to address one of the borderline cases, their prediction files have to be compared with the original files where no such cases are lost. 2) We do not include the file of the boundary predictions in the waiting list because we calculate it directly in the eval.py script in the repository due to time issues. 3) We include the adapted format for baselines only for the Chilean Waiting List for zip size reasons, but we can release them after the paper is published.

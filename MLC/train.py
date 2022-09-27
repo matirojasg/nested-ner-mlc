@@ -203,7 +203,7 @@ if __name__ == '__main__':
         if dataset == 'wl':
             embedding_types.append(FlairEmbeddings('spanish-forward'))
             embedding_types.append(FlairEmbeddings('spanish-backward'))
-            # You can also use the models: 'es-clinical-forward', 'es-clinical-backward', trained by us.
+            # You can also use the models: 'es-clinical-forward', 'es-clinical-backward'.
 
     flair_embeddings: StackedEmbeddings = StackedEmbeddings(embeddings = embedding_types)
 
